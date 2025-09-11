@@ -146,19 +146,7 @@ diversas actividades para complementar el tratamiento contra el estrés.
 
 ### 1.1.2.1. Joao Castro Picón Manuel Fernando
 
-Mi nombre es Joao Castro Picón
-tengo 19 anos, actualmente estoy
-cursando el 5to ciclo de la carrera de
-ingeniería de Software en la
-Universidad Peruana de Ciencia
-Aplicadas. En mis tiempos libre me gusta
-entrenar como hacer calistenia,
-escuchar música y practicar deporte
-como el futbol. Me considero una
-persona dispuesta a lograr sus
-metas, soy responsable y me adapto
-al trabajo en equipo. Mi meta es ser
-un gran profesional.
+Mi nombre es Joao Castro Picón tengo 19 anos, actualmente estoy cursando el 5to ciclo de la carrera de ingeniería de Software en la Universidad Peruana de Ciencia Aplicadas. En mis tiempos libre me gusta entrenar como hacer calistenia, escuchar música y practicar deporte como el futbol. Me considero una persona dispuesta a lograr sus metas, soy responsable y me adapto al trabajo en equipo. Mi meta es ser un gran profesional.
 
 <div>
   <p><img src="assets/md-images/members/Joao.png" alt="Joao" width="150px" /></p>
@@ -166,20 +154,7 @@ un gran profesional.
 
 ### 1.1.2.1. Santiago Valentino Solis Chang
 
-Mi nombre es Santiago Valentino
-Solis Chang, tengo 20 años,
-actualmente estoy cursando el
-5to ciclo de la carrera de
-Ingeniería de Software en la
-Universidad Peruana de Ciencias
-Aplicadas. En mis tiempos libres me gusta
-jugar videojuegos, practicar tenis
-y aprender mas sobre la
-programación web. Me
-considero una persona capaz de
-trabajar en equipo, alguien
-responsable y comprometida
-con las necesidades del equipo.
+Mi nombre es Santiago Valentino Solis Chang, tengo 20 años, actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. En mis tiempos libres me gusta jugar videojuegos, practicar tenis y aprender mas sobre la programación web. Me considero una persona capaz de trabajar en equipo, alguien responsable y comprometida con las necesidades del equipo.
 
 <div>
   <p><img src="assets/md-images/members/Valentino.png" alt="Valentino" width="150px" /></p>
@@ -187,17 +162,7 @@ con las necesidades del equipo.
 
 ### 1.1.2.1. Miguel Angel Vila Guillen
 
-Mi nombre es Miguel Angel Vila
-Guillen, tengo 19 años, actualmente
-estoy cursando el 5to ciclo de la
-carrera de Ingeniería de Software en
-la Universidad Peruana de Ciencias
-Aplicadas. En mis horas libres me gusta jugar
-videojuegos, tocar la guitarra, ver y
-jugar futbol. Me considero una
-persona capaz para trabajar en
-equipo, aspiro ser un profesional
-competente.
+Mi nombre es Miguel Angel Vila Guillen, tengo 19 años, actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. En mis horas libres me gusta jugar videojuegos, tocar la guitarra, ver y jugar futbol. Me considero una persona capaz para trabajar en equipo, aspiro ser un profesional competente.
 
 <div>
   <p><img src="assets/md-images/members/Miguel.png" alt="Miguel" width="150px" /></p>
@@ -205,20 +170,7 @@ competente.
 
 ### 1.1.2.1. Diego Gabriel Requena Gutiérrez
 
-Mi nombre es Diego Requena
-Gutiérrez, tengo 19 años y actualmente
-estoy cursando el quinto ciclo de la
-carrera de Ingeniería de Software en la
-Universidad Peruana de Ciencias
-Aplicadas. Me considero una persona
-comprometida con mis objetivos y con
-un enfoque constante en mejorar mi
-rendimiento, tanto personal como
-académico. Busco siempre optimizar
-mi tiempo y los proyectos en los que
-me involucro, manteniendo un
-equilibrio entre la perfección y una
-perspectiva saludable.
+Mi nombre es Diego Requena Gutiérrez, tengo 19 años y actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona comprometida con mis objetivos y con un enfoque constante en mejorar mi rendimiento, tanto personal como académico. Busco siempre optimizar mi tiempo y los proyectos en los que me involucro, manteniendo un equilibrio entre la perfección y una perspectiva saludable.
 
 <div>
   <p><img src="assets/md-images/members/Diego.png" alt="Diego" width="150px" /></p>
