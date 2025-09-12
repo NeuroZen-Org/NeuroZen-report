@@ -1054,6 +1054,14 @@ Optimización para resultados relevantes según la necesidad del usuario.
 
 ## 4.2.5. Navigation Systems
 
+Menú principal: siempre visible, con las secciones clave (Inicio, Autoevaluación, Recomendaciones, Comunidad, Contacto).
+
+Breadcrumbs para indicar dónde se encuentra el usuario.
+
+CTA (Call To Action) claros y visibles, guiando al usuario hacia las acciones más importantes (hacer test, contactar especialista, unirse a un grupo).
+
+Compatibilidad responsive, manteniendo la navegación fluida en móviles y escritorio.
+
 ---
 
 ## 4.3. Landing Page UI Design.  
