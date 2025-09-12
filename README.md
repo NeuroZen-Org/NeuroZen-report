@@ -993,6 +993,8 @@ Impact Mapping - Segmento 2
 
 ## 4.1. Style Guidelines.  
 
+NeuroDraw, dedicado a la detección rápida y manejo del estrés laboral, transmite calma, confianza y profesionalismo. Nuestra identidad visual combina tonos azules y verdes para evocar tranquilidad, con tipografía clara y espacios limpios. Comunicamos con un lenguaje accesible pero riguroso, transformando conceptos complejos de neurociencia en soluciones prácticas para el bienestar laboral.
+
 ---
 
 ### 4.1.1. General Style Guidelines.  
