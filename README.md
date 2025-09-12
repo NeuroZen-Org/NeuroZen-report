@@ -449,26 +449,36 @@ viendo en ello sus descripciones y planes de negocios.
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-FODA de nuestra empresa: "NeuroZen" 
+**FODA de nuestra empresa: "NeuroZen"**
+
 F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a 
 profesionales de salud mental. 
+
 O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar 
 laboral. 
+
 D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad 
 en las respuestas al test. 
+
 A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos 
 sensibles de salud mental. 
+
 Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las 
 debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes 
 estrategias y tácticas: 
+
 ● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización 
 sobre la importancia de la salud mental. 
+
 ● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a 
 organizaciones que implementen nuestro sistema preventivo. 
+
 ● Implementar tecnología de análisis de comportamiento que complemente las respuestas 
 subjetivas del test con indicadores objetivos. 
+
 ● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a 
 usuarios y empresas clientes. 
+
 ● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en 
 términos de reducción de ausentismo y mejora de productividad. 
 
@@ -478,13 +488,17 @@ términos de reducción de ausentismo y mejora de productividad.
 
 ## 2.2.1. Diseño de entrevistas.
 
-Segmento: Personas activas en el ámbito laboral con jornadas extendidas 
+**Segmento: Personas activas en el ámbito laboral con jornadas extendidas**
+
 Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que 
 enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender 
 su rutina diaria, factores estresantes, y estrategias actuales para manejar la presión laboral. Esta 
 información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones 
 efectivas que mejoren su calidad de vida y rendimiento profesional. 
-Introducción: Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos 
+
+Introducción: 
+
+Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos 
 desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a 
 manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia 
 laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar 
@@ -507,14 +521,18 @@ tu bienestar? Si es así, ¿cuál y qué te parece?
 10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada 
 para ayudar a reducir el estrés laboral? 
 
-Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+**Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
 Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con 
 horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus 
 tiempos, los factores estresantes específicos de su situación laboral y sus mecanismos actuales para 
 gestionar el estrés. Esta información nos permitirá adaptar nuestra plataforma para ofrecer soluciones 
 que respondan a las características particulares de este segmento, que según estudios, experimenta 
 niveles variables de estrés debido a la naturaleza omnipresente de su trabajo. 
-Introducción: Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una 
+
+Introducción: 
+
+Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una 
 plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar 
 mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una 
 solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad 
@@ -541,18 +559,28 @@ reducir el estrés?
 
 ## 2.2.2. Registro de entrevistas
 
-Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas 
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
 Entrevista N°1 
+
 ● Nombre: Enzo Joaquín Alatrista Amaya. 
+
 ● Sexo: Masculino. 
+
 ● Edad: 25. 
+
 ● Estado Civil: Soltero. 
+
 ● Labor: Ingeniero de Sistemas. 
+
 Detalles de la entrevista: 
+
 ● Duración: 03:26 
+
 [● Link: https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing](https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista: 
+
 La entrevista con Enzo, ingeniero de sistemas de 25 años, revela el alto nivel de presión en el 
 sector tecnológico. Sus jornadas laborales de hasta 11 horas, sumadas a la disponibilidad 
 constante y los cambios de último minuto, han afectado su salud con insomnio, dolores de 
@@ -563,17 +591,28 @@ más allá de charlas esporádicas. Enzo valora herramientas simples y accesible
 recordatorios para pausas, ejercicios rápidos y la opción de contactar a un profesional desde 
 la misma app.
 
+
 Entrevista N°2 
+
 ● Nombre: Andrés Luján Carrión 
+
 ● Sexo: Masculino 
+
 ● Edad: 40 
+
 ● Estado Civil: Soltero 
+
 ● Labor: Rector(USL) 
+
 Detalles de la entrevista: 
+
 ● Duración: 4min11seg
+
 [Link al archivo de Google Drive](https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing)
 
+
 Resumen de los puntos clave en la entrevista: 
+
 - El entrevistado trabaja entre 10 y 12 horas diarias.
 - Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que 
 requieren tiempo.
@@ -582,18 +621,28 @@ requieren tiempo.
 - Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una 
 comunidad de apoyo.
 
-Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos** 
+
 Entrevista N°3 
+
 ● Nombre: Cristofer Pablo Paucar 
+
 ● Sexo: Masculino 
+
 ● Edad: 21 
+
 ● Estado Civil: Soltero 
+
 ● Labor: Repartidor 
+
 Detalles de la entrevista: 
+
 ● Duración: 6:27 
+
 [● Link:](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:  
+
 La entrevista con Cristofer Paucar, un repartidor delivery de 21 años que trabaja sin un 
 horario fijo. Organiza su jornada en función de la demanda y necesidades económicas, lo que 
 implica horarios variables que a menudo se extienden hasta la noche. Reconoce que tiene 
@@ -603,6 +652,7 @@ Los principales factores de estrés que enfrenta son la inestabilidad laboral, l
 económica, fallas en las aplicaciones de reparto, el tráfico, clientes exigentes y el desgaste 
 físico. Califica su nivel de estrés como medio, aunque se eleva en situaciones específicas 
 como fines de mes o días lluviosos. 
+
 Cristofer considera que la falta de un horario fijo agrava el estrés al dificultar la separación 
 entre el trabajo y la vida personal. Ha notado efectos negativos en su salud física y mental, 
 incluyendo dolores corporales, cansancio, insomnio e irritabilidad. Para manejar el estrés, 
@@ -613,16 +663,25 @@ alguna. Identifica la mañana y la noche como los momentos más adecuados para r
 actividades relajantes, aunque muchas veces depende del flujo de trabajo diario. 
 
 Entrevista N°4 
+
 ● Nombre: Laura Méndez 
+
 ● Sexo: Mujer 
+
 ● Edad: 24 años 
+
 ● Estado Civil: Soltera 
+
 ● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos 
+
 Detalles de la entrevista: 
+
 ● Duración: 8 minutos con 39 segundos  
+
 [● Link:](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista: 
+
 La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años, 
 revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su 
 situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional, 
@@ -638,21 +697,27 @@ efectivos para "apagar" su mente al finalizar la jornada.
 
 ## 2.2.3. Análisis de entrevistas
 
-Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas 
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
 Hallazgos: 
 
 ● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias, 
 sin límites claros entre vida laboral y personal. 
+
 ● Enfrentan presión constante por resultados inmediatos ante cambios que requieren 
 tiempo. 
+
 ● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión 
 muscular, irritabilidad y dolores de cabeza. 
+
 ● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral. 
+
 ● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide 
 ser constantes. 
+
 ● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados. 
 Conclusión: 
+
 Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés 
 crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y 
 presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante 
@@ -664,21 +729,26 @@ aplicación debe enfocarse en crear micro hábitos de bienestar que puedan soste
 en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su 
 desempeño profesional. 
 
-Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
 Hallazgos: 
 
 ● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su 
 vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo. 
+
 ● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y 
 necesidades económicas. 
+
 ● Principales factores de estrés: Comparten preocupaciones por la inestabilidad 
 económica, las expectativas de disponibilidad constante y la dificultad para 
 desconectar. 
+
 ● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos, 
 cansancio e irritabilidad. 
+
 ● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para 
-manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular. 
+manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular.
+
 ● Necesidad de herramientas adaptables: Los dos expresan interés en explorar 
 soluciones que se ajusten a sus horarios variables. 
 
