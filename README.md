@@ -608,7 +608,7 @@ Detalles de la entrevista:
 
 ● Duración: 4min11seg
 
-[Link al archivo de Google Drive](https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing)
+[● Link: https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing](https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing)
 
 
 Resumen de los puntos clave en la entrevista: 
@@ -639,7 +639,7 @@ Detalles de la entrevista:
 
 ● Duración: 6:27 
 
-[● Link:](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+[● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:  
 
@@ -678,7 +678,7 @@ Detalles de la entrevista:
 
 ● Duración: 8 minutos con 39 segundos  
 
-[● Link:](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
+[● Link: https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista: 
 
