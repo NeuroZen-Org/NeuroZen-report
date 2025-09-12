@@ -1009,6 +1009,13 @@ Impact Mapping - Segmento 2
 
 ## 4.2.1. Organization Systems
 
+La información se organiza de forma lógica para que el usuario encuentre rápido lo que necesita:
+
+
+Estructura basada en módulos claros: inicio, autoevaluación, recomendaciones, profesionales, comunidad y recursos.
+
+Jerarquización de contenidos: lo más usado (tests y recomendaciones) aparece en posiciones destacadas.
+
 ---
 
 ## 4.2.2. Labeling Systems
