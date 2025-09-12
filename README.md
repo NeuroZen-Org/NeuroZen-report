@@ -630,7 +630,13 @@ Este segmento incluye personas que no necesariamente sean trabajadores formales.
 
 ---
 
-## 3.3. Impact Mapping.  
+## 3.3. Impact Mapping
+
+Impact Mapping - Segmento 1
+![ImpactMapping_s1](imgs/impactmapping_s1.png)
+
+Impact Mapping - Segmento 2
+![ImpactMapping_s2](imgs/impactmapping_s2.png)
 
 ---
 
