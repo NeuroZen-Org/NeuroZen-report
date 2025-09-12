@@ -435,20 +435,42 @@ viendo en ello sus descripciones y planes de negocios.
 
 | Criterio | Calm | Wysa | Equoo |
 | :--- | :--- | :--- | :--- |
-| **Ventaja Competitiva / Valor Ofrecido** | Diversidad de maneras para relajar a las personas; efectivo para cualquier necesidad. | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y ofrece la opción de coaching humano para un apoyo más profundo. | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
-| **Mercado Objetivo** | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción. | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7. | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas. |
-| **Estrategias de Marketing** | Usa un modelo freemium, marketing con celebridades y alianzas con empresas. | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn. | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas. |
-| **Productos & Servicios** | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos. | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos. | App de entrenamiento emocional, versión empresarial, y evaluaciones personalizadas. |
-| **Precios & Costos** | Modelo freemium; plan mensual 15 USD, plan anual 70 USD, plan familiar 100 USD, y plan de por vida 400 USD. | Modelo freemium; plan mensual 12 USD, plan anual 19 USD, y tarifas corporativas variables. | Modelo freemium; $5-10/mes individual, planes corporativos por volumen. |
-| **Canales de Distribución** | App móvil en iOS y Android; plataforma web para empresas y coaching. | App móvil en iOS y Android; plataforma web para empresas y coaching. | Apps móviles (iOS/Android), plataforma web, e integración con sistemas corporativos. |
-| **Fortalezas** | Disponible 24/7, diversidad de opciones para hacer en la aplicación. | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva. | Base científica sólida, formato atractivo, y un enfoque preventivo. |
-| **Debilidades** | Precio elevado, no ofrece sesiones en vivo, enfoque principal en personas que hablan inglés. | No reemplaza terapia presencial, contenido gratuito limitado y calidad dependiente de la IA. | Alta competencia, creación continua de contenido, percepción como una solución "ligera." |
-| **Oportunidades** | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, y localización cultural. | Creciente interés en salud mental, expansión internacional, e integraciones tecnológicas. |
-| **Amenazas** | Competencia intensa, precios más asequibles en otras aplicaciones. | Competencia intensa, regulaciones de salud digital, y preocupaciones por la privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, y escepticismo sobre la eficacia digital. |
+| **Perfil: Descripción** | Aplicación de bienestar mental para relajarse, dormir mejor y reducir el estrés. Ofrece meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración y clases de mindfulness. | Asistente de bienestar emocional basado en IA que ofrece terapia cognitivo-conductual (CBT), terapia dialéctica conductual (DBT), journaling y meditaciones, disponible 24/7. | Plataforma gamificada que desarrolla inteligencia emocional mediante juegos interactivos basados en psicología. |
+| **Ventaja Competitiva** | Diversidad de maneras para relajarse; efectivo para cualquier necesidad. | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y la opción de coaching humano para apoyo más profundo. | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
+| **Perfil de Marketing: Mercado Objetivo** | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción. | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7. | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas. |
+| **Perfil de Marketing: Estrategias de marketing** | Modelo freemium, marketing con celebridades y alianzas con empresas. | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn. | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas. |
+| **Perfil de Producto: Productos & Servicios** | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos. | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos. | App de entrenamiento emocional, versión empresarial y evaluaciones personalizadas. |
+| **Perfil de Producto: Precios & Costos** | **Freemium**; plan mensual **15 USD**, anual **70 USD**, familiar **100 USD**, de por vida **400 USD**. | **Freemium**; plan mensual **12 USD**, anual **19 USD**; tarifas corporativas variables. | **Freemium**; plan individual **$5-10/mes**, planes corporativos por volumen. |
+| **Perfil de Producto: Canales de Distribución** | App móvil (iOS/Android); plataforma web para empresas y coaching. | App móvil (iOS/Android); plataforma web para empresas y coaching. | Apps móviles (iOS/Android); plataforma web; integración con sistemas corporativos. |
+| **Análisis SWOT: Fortalezas** | Disponible 24/7, diversidad de opciones en la aplicación. | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva. | Base científica sólida, formato atractivo, enfoque preventivo. |
+| **Análisis SWOT: Debilidades** | Precio elevado, no ofrece sesiones en vivo, enfoque principal para angloparlantes. | No reemplaza terapia presencial, contenido gratuito limitado, calidad dependiente de la IA. | Alta competencia, creación continua de contenido, percepción de ser una solución "ligera". |
+| **Análisis SWOT: Oportunidades** | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural. | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas. |
+| **Análisis SWOT: Amenazas** | Competencia intensa, precios más asequibles en otras apps. | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital. |
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
----
+FODA de nuestra empresa: "NeuroZen" 
+F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a 
+profesionales de salud mental. 
+O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar 
+laboral. 
+D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad 
+en las respuestas al test. 
+A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos 
+sensibles de salud mental. 
+Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las 
+debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes 
+estrategias y tácticas: 
+● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización 
+sobre la importancia de la salud mental. 
+● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a 
+organizaciones que implementen nuestro sistema preventivo. 
+● Implementar tecnología de análisis de comportamiento que complemente las respuestas 
+subjetivas del test con indicadores objetivos. 
+● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a 
+usuarios y empresas clientes. 
+● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en 
+términos de reducción de ausentismo y mejora de productividad. 
 
 ## 2.2. Entrevistas.  
 
@@ -456,19 +478,228 @@ viendo en ello sus descripciones y planes de negocios.
 
 ## 2.2.1. Diseño de entrevistas.
 
----
+Segmento: Personas activas en el ámbito laboral con jornadas extendidas 
+Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que 
+enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender 
+su rutina diaria, factores estresantes, y estrategias actuales para manejar la presión laboral. Esta 
+información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones 
+efectivas que mejoren su calidad de vida y rendimiento profesional. 
+Introducción: Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos 
+desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a 
+manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia 
+laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar 
+una solución que realmente responda a las necesidades de personas como tú. 
+
+Preguntas: 
+1. Para comenzar, ¿podrías presentarte y contarnos brevemente sobre tu profesión y el sector en 
+el que trabajas? 
+2. ¿Cómo describirías una jornada laboral típica para ti? ¿Cuántas horas trabajas habitualmente? 
+3. ¿Qué aspectos de tu trabajo consideras que generan mayor presión o estrés? 
+4. ¿Has notado cambios en tu salud física o mental que atribuyas al estrés laboral? 
+5. ¿Cómo suele afectar el estrés laboral a tu rendimiento en el trabajo y a tu vida personal? 
+6. ¿Qué estrategias utilizas actualmente para manejar el estrés relacionado con tu trabajo? 
+7. ¿Tu empresa o lugar de trabajo ofrece algún programa o recurso para ayudar a los empleados 
+a manejar el estrés? 
+8. En los momentos de mayor presión laboral, ¿qué tipo de apoyo o herramientas te resultarían 
+más útiles? 
+9. ¿Utilizas actualmente alguna aplicación o plataforma digital para gestionar el estrés o mejorar 
+tu bienestar? Si es así, ¿cuál y qué te parece? 
+10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada 
+para ayudar a reducir el estrés laboral? 
+
+Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con 
+horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus 
+tiempos, los factores estresantes específicos de su situación laboral y sus mecanismos actuales para 
+gestionar el estrés. Esta información nos permitirá adaptar nuestra plataforma para ofrecer soluciones 
+que respondan a las características particulares de este segmento, que según estudios, experimenta 
+niveles variables de estrés debido a la naturaleza omnipresente de su trabajo. 
+Introducción: Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una 
+plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar 
+mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una 
+solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad 
+en esta conversación. 
+
+Preguntas: 
+1. Para empezar, ¿podrías contarnos a qué te dedicas y cómo es tu rutina de trabajo habitual? 
+2. ¿Cómo organizas tu tiempo entre el trabajo y otras actividades? ¿Tienes algún método para 
+establecer límites? 
+3. ¿Sientes que tu trabajo "te sigue a todas partes"? ¿Puedes describir cómo es esa experiencia? 
+4. ¿Cuáles son los principales factores que te generan estrés en tu trabajo? 
+5. ¿Cómo describirías el nivel de estrés que experimentas habitualmente (bajo, medio, alto)? 
+¿Varía mucho dependiendo de las temporadas o circunstancias? 
+6. ¿De qué manera crees que el no tener un horario fijo afecta tu nivel de estrés, en comparación 
+con trabajos formales con horarios establecidos? 
+7. ¿Has notado algún impacto en tu salud física o mental debido al estrés relacionado con tu 
+trabajo? 
+8. ¿Qué estrategias o métodos utilizas actualmente para manejar el estrés cuando sientes que el 
+trabajo invade todos los aspectos de tu vida? 
+9. ¿Utilizas alguna aplicación, plataforma o recurso digital para ayudarte a organizar tu trabajo o 
+manejar el estrés? ¿Cuál ha sido tu experiencia? 
+10. ¿Qué momentos del día considerarías más apropiados para dedicar tiempo a actividades para 
+reducir el estrés? 
 
 ## 2.2.2. Registro de entrevistas
 
----
+Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas 
+Entrevista N°1 
+● Nombre: Enzo Joaquín Alatrista Amaya. 
+● Sexo: Masculino. 
+● Edad: 25. 
+● Estado Civil: Soltero. 
+● Labor: Ingeniero de Sistemas. 
+Detalles de la entrevista: 
+● Duración: 03:26 
+[● Link: https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing](https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista: 
+La entrevista con Enzo, ingeniero de sistemas de 25 años, revela el alto nivel de presión en el 
+sector tecnológico. Sus jornadas laborales de hasta 11 horas, sumadas a la disponibilidad 
+constante y los cambios de último minuto, han afectado su salud con insomnio, dolores de 
+cabeza e irritabilidad. Esto impacta su productividad y vida personal, generando agotamiento 
+emocional. Aunque intenta manejar el estrés con caminatas y ejercicios de respiración, su 
+rutina no le permite ser constante. Su empresa no ofrece apoyo real para el manejo del estrés, 
+más allá de charlas esporádicas. Enzo valora herramientas simples y accesibles, con 
+recordatorios para pausas, ejercicios rápidos y la opción de contactar a un profesional desde 
+la misma app.
+
+Entrevista N°2 
+● Nombre: Andrés Luján Carrión 
+● Sexo: Masculino 
+● Edad: 40 
+● Estado Civil: Soltero 
+● Labor: Rector(USL) 
+Detalles de la entrevista: 
+● Duración: 4min11seg
+[Link al archivo de Google Drive](https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista: 
+- El entrevistado trabaja entre 10 y 12 horas diarias.
+- Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que 
+requieren tiempo.
+- Ha notado fatiga mental, insomnio y tensión muscular.
+- Le parecerían útiles herramientas como coaching personalizado y plataformas digitales.
+- Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una 
+comunidad de apoyo.
+
+Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+Entrevista N°3 
+● Nombre: Cristofer Pablo Paucar 
+● Sexo: Masculino 
+● Edad: 21 
+● Estado Civil: Soltero 
+● Labor: Repartidor 
+Detalles de la entrevista: 
+● Duración: 6:27 
+[● Link:](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:  
+La entrevista con Cristofer Paucar, un repartidor delivery de 21 años que trabaja sin un 
+horario fijo. Organiza su jornada en función de la demanda y necesidades económicas, lo que 
+implica horarios variables que a menudo se extienden hasta la noche. Reconoce que tiene 
+dificultades para establecer límites entre su vida personal y laboral, ya que su trabajo "lo 
+sigue a todas partes" debido a la constante atención al celular. 
+Los principales factores de estrés que enfrenta son la inestabilidad laboral, la incertidumbre 
+económica, fallas en las aplicaciones de reparto, el tráfico, clientes exigentes y el desgaste 
+físico. Califica su nivel de estrés como medio, aunque se eleva en situaciones específicas 
+como fines de mes o días lluviosos. 
+Cristofer considera que la falta de un horario fijo agrava el estrés al dificultar la separación 
+entre el trabajo y la vida personal. Ha notado efectos negativos en su salud física y mental, 
+incluyendo dolores corporales, cansancio, insomnio e irritabilidad. Para manejar el estrés, 
+intenta desconectarse ocasionalmente, escuchar música o realizar actividades recreativas, 
+aunque no siempre lo logra. Si bien usa aplicaciones básicas para organizar su vida personal, 
+no emplea herramientas específicas para el manejo del estrés, pero le gustaría explorar 
+alguna. Identifica la mañana y la noche como los momentos más adecuados para realizar 
+actividades relajantes, aunque muchas veces depende del flujo de trabajo diario. 
+
+Entrevista N°4 
+● Nombre: Laura Méndez 
+● Sexo: Mujer 
+● Edad: 24 años 
+● Estado Civil: Soltera 
+● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos 
+Detalles de la entrevista: 
+● Duración: 8 minutos con 39 segundos  
+[● Link:](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista: 
+La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años, 
+revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su 
+situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional, 
+con un teléfono que funciona como "oficina móvil" y clientes que esperan disponibilidad 
+constante. Los principales factores de estrés identificados incluyen la inestabilidad económica 
+que la lleva a sobrecargarse de trabajo, las expectativas poco realistas de los clientes, y la 
+imposibilidad de desconectar completamente, resultando en un nivel de estrés medio-alto con 
+picos que afectan su salud física y creatividad. Aunque intenta implementar estrategias como 
+yoga o ejercicio, estas prácticas son inconsistentes debido a su carga laboral, por lo que 
+necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas rápidas 
+accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos 
+efectivos para "apagar" su mente al finalizar la jornada.
 
 ## 2.2.3. Análisis de entrevistas
 
----
+Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas 
+
+Hallazgos: 
+
+● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias, 
+sin límites claros entre vida laboral y personal. 
+● Enfrentan presión constante por resultados inmediatos ante cambios que requieren 
+tiempo. 
+● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión 
+muscular, irritabilidad y dolores de cabeza. 
+● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral. 
+● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide 
+ser constantes. 
+● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados. 
+Conclusión: 
+Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés 
+crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y 
+presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante 
+técnicas convencionales resultan insuficientes ante la falta de límites laborales claros y apoyo 
+institucional. Este grupo necesita soluciones tecnológicas personalizadas que se integren 
+fácilmente a su rutina, ofrezcan intervenciones breves pero efectivas, y proporcionen tanto 
+seguimiento automatizado como acceso a apoyo profesional cuando sea necesario. La 
+aplicación debe enfocarse en crear micro hábitos de bienestar que puedan sostenerse incluso 
+en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su 
+desempeño profesional. 
+
+Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos 
+
+Hallazgos: 
+
+● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su 
+vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo. 
+● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y 
+necesidades económicas. 
+● Principales factores de estrés: Comparten preocupaciones por la inestabilidad 
+económica, las expectativas de disponibilidad constante y la dificultad para 
+desconectar. 
+● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos, 
+cansancio e irritabilidad. 
+● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para 
+manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular. 
+● Necesidad de herramientas adaptables: Los dos expresan interés en explorar 
+soluciones que se ajusten a sus horarios variables. 
+
+Conclusión: 
+
+Los testimonios de Cristofer y Laura revelan una realidad laboral cada vez más común: 
+trabajadores con horarios flexibles que enfrentan una constante disponibilidad laboral 
+mediada por dispositivos móviles, generando una difuminación de límites entre trabajo y vida 
+personal que impacta negativamente su bienestar. Esta situación crea un ciclo donde la 
+inestabilidad económica los impulsa a aceptar más trabajo, intensificando el estrés y 
+deteriorando su salud física y mental. Sus casos evidencian la necesidad urgente de 
+desarrollar herramientas y estrategias específicamente diseñadas para trabajadores con 
+horarios irregulares, que sean accesibles desde dispositivos móviles, requieran poco tiempo 
+de implementación y ayuden efectivamente a establecer límites saludables sin comprometer 
+su sustento económico. 
 
 ## 2.3. Needfinding
 
----
+Al recopilar toda la información de los segmentos objetivo y realizar las entrevistas se hará 
+un análisis de estos mismos haciendo uso de User Persona, Task Matrix, Journey Mapping, 
+Empathy Mapping y As-Is Scenario Mapping. 
 
 ### 2.3.1. User Personas.
 
