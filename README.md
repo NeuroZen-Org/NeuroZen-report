@@ -851,7 +851,26 @@ Empathy Mapping y As-Is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language. 
 
----
+Este glosario define los términos clave que usamos en el proyecto para mantener un lenguaje común entre el equipo de desarrollo y los expertos en salud mental.
+
+| Término                  | Definición                                                                                   |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| **Usuario**              | Persona adulta (20–50 años) que utiliza la app para evaluar, monitorear y gestionar su estrés laboral. |
+| **Perfil biométrico**    | Conjunto de datos físicos iniciales del usuario (postura, rostro, respiración) que sirven como línea base. |
+| **Test de autoevaluación** | Cuestionario digital que mide síntomas y sensaciones de estrés percibidas por el usuario. |
+| **Análisis biométrico**  | Proceso de escaneo mediante la cámara/sensores para detectar señales físicas de estrés. |
+| **Síntomas físicos**     | Manifestaciones registradas por el usuario, como dolores de cabeza, insomnio, tensión muscular. |
+| **Nivel de estrés**      | Clasificación automática (bajo, medio, alto) que combina datos de tests y biometría. |
+| **Recomendaciones personalizadas** | Consejos, ejercicios o pausas sugeridas por la app en base al estado actual del usuario. |
+| **Ejercicios de respiración** | Actividad guiada por la app para reducir la tensión y ansiedad en pocos minutos. |
+| **Pausas activas**       | Recordatorios programados que invitan al usuario a descansar o hacer micro ejercicios durante la jornada laboral. |
+| **Dashboard personal**   | Panel con estadísticas, tendencias y patrones de estrés en el tiempo. |
+| **Desencadenante de estrés** | Evento o situación registrada por el usuario que provoca incremento de su estrés (ej. exceso de trabajo, conflictos, tráfico). |
+| **Informe de progreso**  | Documento generado con evolución de estrés y hábitos del usuario, que puede compartirse con un psicólogo. |
+| **Especialista en salud mental** | Psicólogo disponible en la plataforma para consultas y tratamiento profesional. |
+| **Cita**                 | Agendamiento de una sesión con un especialista, virtual o presencial. |
+| **Grupo de apoyo**       | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés. |
+| **Biblioteca de recursos** | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés. |
 
 # Capítulo III: Requirements Specification  
 
