@@ -1044,6 +1044,12 @@ Uso de headings (H1, H2, H3) para mejorar la indexación en buscadores.
 
 ## 4.2.4. Searching Systems
 
+Búsqueda interna intuitiva, con autocompletado y sugerencias rápidas.
+
+Posibilidad de filtrar resultados (ejemplo: artículos, psicólogos, recursos, ejercicios).
+
+Optimización para resultados relevantes según la necesidad del usuario.
+
 ---
 
 ## 4.2.5. Navigation Systems
