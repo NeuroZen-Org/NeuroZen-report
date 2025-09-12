@@ -1013,6 +1013,14 @@ Impact Mapping - Segmento 2
 
 ## 4.2.2. Labeling Systems
 
+El etiquetado debe ser claro, breve y familiar para los usuarios:
+
+Uso de términos simples como: Inicio, Test de Estrés, Recomendaciones, Comunidad, Psicólogos, Recursos.
+
+Evitar tecnicismos clínicos, priorizando un lenguaje cotidiano.
+
+Consistencia en los nombres en toda la app y web.
+
 ---
 
 ## 4.2.3. SEO Tags and Meta Tags
