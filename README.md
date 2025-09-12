@@ -1282,6 +1282,8 @@ El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) busca of
 
 ## 4.6. Domain-Driven Software Architecture.  
 
+La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con NeuroZen, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil demantener.
+
 ---
 
 ### 4.6.1. Software Architecture Context Diagram.  
