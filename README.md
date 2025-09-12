@@ -433,7 +433,18 @@ viendo en ello sus descripciones y planes de negocios.
 
 ### 2.1.1. Análisis competitivo
 
----
+| Criterio | Calm | Wysa | Equoo |
+| :--- | :--- | :--- | :--- |
+| **Ventaja Competitiva / Valor Ofrecido** | Diversidad de maneras para relajar a las personas; efectivo para cualquier necesidad. | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y ofrece la opción de coaching humano para un apoyo más profundo. | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
+| **Mercado Objetivo** | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción. | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7. | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas. |
+| **Estrategias de Marketing** | Usa un modelo freemium, marketing con celebridades y alianzas con empresas. | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn. | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas. |
+| **Productos & Servicios** | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos. | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos. | App de entrenamiento emocional, versión empresarial, y evaluaciones personalizadas. |
+| **Precios & Costos** | Modelo freemium; plan mensual 15 USD, plan anual 70 USD, plan familiar 100 USD, y plan de por vida 400 USD. | Modelo freemium; plan mensual 12 USD, plan anual 19 USD, y tarifas corporativas variables. | Modelo freemium; $5-10/mes individual, planes corporativos por volumen. |
+| **Canales de Distribución** | App móvil en iOS y Android; plataforma web para empresas y coaching. | App móvil en iOS y Android; plataforma web para empresas y coaching. | Apps móviles (iOS/Android), plataforma web, e integración con sistemas corporativos. |
+| **Fortalezas** | Disponible 24/7, diversidad de opciones para hacer en la aplicación. | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva. | Base científica sólida, formato atractivo, y un enfoque preventivo. |
+| **Debilidades** | Precio elevado, no ofrece sesiones en vivo, enfoque principal en personas que hablan inglés. | No reemplaza terapia presencial, contenido gratuito limitado y calidad dependiente de la IA. | Alta competencia, creación continua de contenido, percepción como una solución "ligera." |
+| **Oportunidades** | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, y localización cultural. | Creciente interés en salud mental, expansión internacional, e integraciones tecnológicas. |
+| **Amenazas** | Competencia intensa, precios más asequibles en otras aplicaciones. | Competencia intensa, regulaciones de salud digital, y preocupaciones por la privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, y escepticismo sobre la eficacia digital. |
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
