@@ -788,11 +788,41 @@ Empathy Mapping y As-Is Scenario Mapping.
 
 ### 2.3.3. User Journey Mapping.  
 
----
+<div>
+  <p align="center"><img src="assets/md-images/Journey-1.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Journey-2.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Journey-3.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Journey-4.png" alt="Canvas" width="700px" /></p>
+</div>
+
 
 ### 2.3.4. Empathy Mapping.  
 
----
+<div>
+  <p align="center"><img src="assets/md-images/Empathy-1.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Empathy-2.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Empathy-3.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/Empathy-4.png" alt="Canvas" width="700px" /></p>
+</div>
+
 
 ### 2.3.5. As-is Scenario Mapping.  
 
