@@ -1242,6 +1242,16 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
 
 ### 4.3.2. Landing Page Mock-up.  
 
+Un mockup es una representación visual de un producto que muestra cómo lucirá, a diferencia de un wireframe, que se enfoca en la estructura. Aunque no es interactivo, puede ser de media o alta fidelidad y ayuda a tomar decisiones finales sobre aspectos como esquemas de colores, estilo visual y tipografía. Es una herramienta valiosa en el proceso de diseño para alinear expectativas y obtener retroalimentación antes de la implementación.
+
+<div>
+  <p align="center"><img src="assets/md-images/landingmockup1.png" alt="Canvas" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landingmockup2.png" alt="Canvas" width="450px" /></p>
+</div>
+
 ---
 
 ## 4.4. Web Applications UX/UI Design.  
