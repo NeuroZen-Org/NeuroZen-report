@@ -144,7 +144,7 @@ diversas actividades para complementar el tratamiento contra el estrés.
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
-### 1.1.2.1. Joao Castro Picón Manuel Fernando
+### 1.1.2.1. Manuel Fernando Joao Castro Picon
 
 Mi nombre es Joao Castro Picón tengo 19 anos, actualmente estoy cursando el 5to ciclo de la carrera de ingeniería de Software en la Universidad Peruana de Ciencia Aplicadas. En mis tiempos libre me gusta entrenar como hacer calistenia, escuchar música y practicar deporte como el futbol. Me considero una persona dispuesta a lograr sus metas, soy responsable y me adapto al trabajo en equipo. Mi meta es ser un gran profesional.
 
