@@ -26,7 +26,7 @@
 | Abud Angulo, Juan Carlos           | U202317692 |
 
 <div>
-  <p align="center"><b>Ciclo 2025 - 2</b></p>
+  <p align="center"><b>Ciclo 2025 - 20</b></p>
 </div>
 
 ---
@@ -398,7 +398,7 @@ consciencia y manejo proactivo del estrés en el entorno laboral.
 
 #### 1.2.2.4. Lean UX Canvas
 
-Lean UX Canvas es una de las herramientas que hemos utilizado para conmprender a nuestros posibles usuarios y sus necesidades. Esta es usada en el campo del diseño centrado en el usuario y la metodología Lean con la intención de desarrollar productos de forma eficientes y práctica para los usuarios. A su vez, esta puede ser utilizada por equipos multidisciplinarios para que colaboración de forma ordenada dentro un marco estructurado.
+Lean UX Canvas es una de las herramientas que hemos utilizado para comprender a nuestros posibles usuarios y sus necesidades. Esta es usada en el campo del diseño centrado en el usuario y la metodología Lean con la intención de desarrollar productos de forma eficientes y práctica para los usuarios. A su vez, esta puede ser utilizada por equipos multidisciplinarios para que colaboración de forma ordenada dentro un marco estructurado.
 
 <div>
   <p align="center"><img src="assets/md-images/ux_canvas.png" alt="Canvas" width="700px" /></p>
@@ -421,68 +421,67 @@ Este segmento incluye personas que no necesariamente sean trabajadores formales.
 
 ## 2.1 Competidores
 
-En este apartado analizaremos las posibles competencias para nuestra página web, 
-viendo en ello sus descripciones y planes de negocios. 
+En este apartado analizaremos las posibles competencias para nuestra página web,
+viendo en ello sus descripciones y planes de negocios.
 
-| Competidores | Características | Diferencias | Limitaciones |
-|--------------|----------------|-------------|--------------|
-| **Calm** | - Contiene un ejercicio de respiración para reducir el estrés.<br>- Cursos de 10 minutos al día para reducir el estrés.<br>- Ejercicios físicos tipo meditaciones para relajar el cuerpo.<br>- Historias en audiolibro para dormir mejor. | - Enfoque multimedia de alta producción con audios narrados por celebridades y música profesional.<br>- Contenido especializado por necesidad (estrés, concentración, sueño). | - La mayoría del contenido requiere suscripción de pago.<br>- No tiene controles parentales para gestionar el uso infantil. |
-| **Wysa** | - Chatbot de apoyo emocional impulsado por IA.<br>- Ejercicios como respiraciones guiadas, meditaciones y relajación muscular.<br>- Privacidad: no requiere nombre real y las conversaciones son anónimas.<br>- Versión de pago con acceso a terapeutas profesionales. | - Interfaz conversacional con IA (diferente a Calm con audio y Equoo con juegos).<br>- Incorpora técnicas de CBT y DBT guiadas.<br>- Modelo freemium claro (chatbot gratuito + coaching humano de pago). | - No puede atender emergencias de salud mental ni sustituir atención profesional.<br>- Limitaciones técnicas para comprender lenguaje complejo y matices emocionales. |
-| **Equoo** | - Usa Terapia Cognitiva Conductual y psicología positiva para enseñar habilidades emocionales.<br>- Juego con 52 niveles sobre neuroticismo, amabilidad y reciprocidad.<br>- Chatbot personalizado de apoyo.<br>- Estudios clínicos respaldan su eficacia para reducir ansiedad y depresión. | - Experiencia gamificada con misiones y recompensas.<br>- Orientación a jóvenes con narrativa adaptada.<br>- Progresión tipo “nivel” con estadísticas, ausente en Calm y Wysa. | - Variedad limitada de juegos emocionales, lo que puede volverse repetitivo.<br>- El enfoque gamificado puede no resonar con quienes prefieren métodos más directos. |
-
+| Competidores | Características                                                                                                                                                                                                                                                                              | Diferencias                                                                                                                                                                                              | Limitaciones                                                                                                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Calm**     | - Contiene un ejercicio de respiración para reducir el estrés.<br>- Cursos de 10 minutos al día para reducir el estrés.<br>- Ejercicios físicos tipo meditaciones para relajar el cuerpo.<br>- Historias en audiolibro para dormir mejor.                                                    | - Enfoque multimedia de alta producción con audios narrados por celebridades y música profesional.<br>- Contenido especializado por necesidad (estrés, concentración, sueño).                            | - La mayoría del contenido requiere suscripción de pago.<br>- No tiene controles parentales para gestionar el uso infantil.                                           |
+| **Wysa**     | - Chatbot de apoyo emocional impulsado por IA.<br>- Ejercicios como respiraciones guiadas, meditaciones y relajación muscular.<br>- Privacidad: no requiere nombre real y las conversaciones son anónimas.<br>- Versión de pago con acceso a terapeutas profesionales.                       | - Interfaz conversacional con IA (diferente a Calm con audio y Equoo con juegos).<br>- Incorpora técnicas de CBT y DBT guiadas.<br>- Modelo freemium claro (chatbot gratuito + coaching humano de pago). | - No puede atender emergencias de salud mental ni sustituir atención profesional.<br>- Limitaciones técnicas para comprender lenguaje complejo y matices emocionales. |
+| **Equoo**    | - Usa Terapia Cognitiva Conductual y psicología positiva para enseñar habilidades emocionales.<br>- Juego con 52 niveles sobre neuroticismo, amabilidad y reciprocidad.<br>- Chatbot personalizado de apoyo.<br>- Estudios clínicos respaldan su eficacia para reducir ansiedad y depresión. | - Experiencia gamificada con misiones y recompensas.<br>- Orientación a jóvenes con narrativa adaptada.<br>- Progresión tipo “nivel” con estadísticas, ausente en Calm y Wysa.                           | - Variedad limitada de juegos emocionales, lo que puede volverse repetitivo.<br>- El enfoque gamificado puede no resonar con quienes prefieren métodos más directos.  |
 
 ### 2.1.1. Análisis competitivo
 
-| Criterio | Calm | Wysa | Equoo |
-| :--- | :--- | :--- | :--- |
-| **Perfil: Descripción** | Aplicación de bienestar mental para relajarse, dormir mejor y reducir el estrés. Ofrece meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración y clases de mindfulness. | Asistente de bienestar emocional basado en IA que ofrece terapia cognitivo-conductual (CBT), terapia dialéctica conductual (DBT), journaling y meditaciones, disponible 24/7. | Plataforma gamificada que desarrolla inteligencia emocional mediante juegos interactivos basados en psicología. |
-| **Ventaja Competitiva** | Diversidad de maneras para relajarse; efectivo para cualquier necesidad. | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y la opción de coaching humano para apoyo más profundo. | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
-| **Perfil de Marketing: Mercado Objetivo** | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción. | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7. | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas. |
-| **Perfil de Marketing: Estrategias de marketing** | Modelo freemium, marketing con celebridades y alianzas con empresas. | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn. | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas. |
-| **Perfil de Producto: Productos & Servicios** | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos. | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos. | App de entrenamiento emocional, versión empresarial y evaluaciones personalizadas. |
-| **Perfil de Producto: Precios & Costos** | **Freemium**; plan mensual **15 USD**, anual **70 USD**, familiar **100 USD**, de por vida **400 USD**. | **Freemium**; plan mensual **12 USD**, anual **19 USD**; tarifas corporativas variables. | **Freemium**; plan individual **$5-10/mes**, planes corporativos por volumen. |
-| **Perfil de Producto: Canales de Distribución** | App móvil (iOS/Android); plataforma web para empresas y coaching. | App móvil (iOS/Android); plataforma web para empresas y coaching. | Apps móviles (iOS/Android); plataforma web; integración con sistemas corporativos. |
-| **Análisis SWOT: Fortalezas** | Disponible 24/7, diversidad de opciones en la aplicación. | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva. | Base científica sólida, formato atractivo, enfoque preventivo. |
-| **Análisis SWOT: Debilidades** | Precio elevado, no ofrece sesiones en vivo, enfoque principal para angloparlantes. | No reemplaza terapia presencial, contenido gratuito limitado, calidad dependiente de la IA. | Alta competencia, creación continua de contenido, percepción de ser una solución "ligera". |
-| **Análisis SWOT: Oportunidades** | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural. | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas. |
-| **Análisis SWOT: Amenazas** | Competencia intensa, precios más asequibles en otras apps. | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital. |
+| Criterio                                          | Calm                                                                                                                                                                                                      | Wysa                                                                                                                                                                          | Equoo                                                                                                                             |
+| :------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| **Perfil: Descripción**                           | Aplicación de bienestar mental para relajarse, dormir mejor y reducir el estrés. Ofrece meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración y clases de mindfulness. | Asistente de bienestar emocional basado en IA que ofrece terapia cognitivo-conductual (CBT), terapia dialéctica conductual (DBT), journaling y meditaciones, disponible 24/7. | Plataforma gamificada que desarrolla inteligencia emocional mediante juegos interactivos basados en psicología.                   |
+| **Ventaja Competitiva**                           | Diversidad de maneras para relajarse; efectivo para cualquier necesidad.                                                                                                                                  | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y la opción de coaching humano para apoyo más profundo.                                                | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
+| **Perfil de Marketing: Mercado Objetivo**         | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción.                                                                                                                     | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7.                                                                                   | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas.                                           |
+| **Perfil de Marketing: Estrategias de marketing** | Modelo freemium, marketing con celebridades y alianzas con empresas.                                                                                                                                      | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn.                                                                                             | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas.                                            |
+| **Perfil de Producto: Productos & Servicios**     | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos.                                                                                          | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos.                                                                                    | App de entrenamiento emocional, versión empresarial y evaluaciones personalizadas.                                                |
+| **Perfil de Producto: Precios & Costos**          | **Freemium**; plan mensual **15 USD**, anual **70 USD**, familiar **100 USD**, de por vida **400 USD**.                                                                                                   | **Freemium**; plan mensual **12 USD**, anual **19 USD**; tarifas corporativas variables.                                                                                      | **Freemium**; plan individual **$5-10/mes**, planes corporativos por volumen.                                                     |
+| **Perfil de Producto: Canales de Distribución**   | App móvil (iOS/Android); plataforma web para empresas y coaching.                                                                                                                                         | App móvil (iOS/Android); plataforma web para empresas y coaching.                                                                                                             | Apps móviles (iOS/Android); plataforma web; integración con sistemas corporativos.                                                |
+| **Análisis SWOT: Fortalezas**                     | Disponible 24/7, diversidad de opciones en la aplicación.                                                                                                                                                 | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva.                                                                                                        | Base científica sólida, formato atractivo, enfoque preventivo.                                                                    |
+| **Análisis SWOT: Debilidades**                    | Precio elevado, no ofrece sesiones en vivo, enfoque principal para angloparlantes.                                                                                                                        | No reemplaza terapia presencial, contenido gratuito limitado, calidad dependiente de la IA.                                                                                   | Alta competencia, creación continua de contenido, percepción de ser una solución "ligera".                                        |
+| **Análisis SWOT: Oportunidades**                  | Expansión internacional, integración con servicios de salud mental profesional.                                                                                                                           | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural.                                                                                   | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas.                                           |
+| **Análisis SWOT: Amenazas**                       | Competencia intensa, precios más asequibles en otras apps.                                                                                                                                                | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos.                                                                                   | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital.                               |
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
 **FODA de nuestra empresa: "NeuroZen"**
 
-F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a 
-profesionales de salud mental. 
+F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a
+profesionales de salud mental.
 
-O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar 
-laboral. 
+O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar
+laboral.
 
-D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad 
-en las respuestas al test. 
+D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad
+en las respuestas al test.
 
-A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos 
-sensibles de salud mental. 
+A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos
+sensibles de salud mental.
 
-Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las 
-debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes 
-estrategias y tácticas: 
+Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las
+debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes
+estrategias y tácticas:
 
-● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización 
-sobre la importancia de la salud mental. 
+● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización
+sobre la importancia de la salud mental.
 
-● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a 
-organizaciones que implementen nuestro sistema preventivo. 
+● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a
+organizaciones que implementen nuestro sistema preventivo.
 
-● Implementar tecnología de análisis de comportamiento que complemente las respuestas 
-subjetivas del test con indicadores objetivos. 
+● Implementar tecnología de análisis de comportamiento que complemente las respuestas
+subjetivas del test con indicadores objetivos.
 
-● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a 
-usuarios y empresas clientes. 
+● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a
+usuarios y empresas clientes.
 
-● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en 
-términos de reducción de ausentismo y mejora de productividad. 
+● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en
+términos de reducción de ausentismo y mejora de productividad.
 
-## 2.2. Entrevistas.  
+## 2.2. Entrevistas.
 
 ---
 
@@ -490,389 +489,386 @@ términos de reducción de ausentismo y mejora de productividad.
 
 **Segmento: Personas activas en el ámbito laboral con jornadas extendidas**
 
-Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que 
-enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender 
-su rutina diaria, factores estresantes, y estrategias actuales para manejar la presión laboral. Esta 
-información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones 
-efectivas que mejoren su calidad de vida y rendimiento profesional. 
+Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que
+enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender
+su rutina diaria, factores estresantes, y estrategias actuales para manejar la presión laboral. Esta
+información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones
+efectivas que mejoren su calidad de vida y rendimiento profesional.
 
-Introducción: 
+Introducción:
 
-Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos 
-desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a 
-manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia 
-laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar 
-una solución que realmente responda a las necesidades de personas como tú. 
+Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos
+desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a
+manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia
+laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar
+una solución que realmente responda a las necesidades de personas como tú.
 
-Preguntas: 
-1. Para comenzar, ¿podrías presentarte y contarnos brevemente sobre tu profesión y el sector en 
-el que trabajas? 
-2. ¿Cómo describirías una jornada laboral típica para ti? ¿Cuántas horas trabajas habitualmente? 
-3. ¿Qué aspectos de tu trabajo consideras que generan mayor presión o estrés? 
-4. ¿Has notado cambios en tu salud física o mental que atribuyas al estrés laboral? 
-5. ¿Cómo suele afectar el estrés laboral a tu rendimiento en el trabajo y a tu vida personal? 
-6. ¿Qué estrategias utilizas actualmente para manejar el estrés relacionado con tu trabajo? 
-7. ¿Tu empresa o lugar de trabajo ofrece algún programa o recurso para ayudar a los empleados 
-a manejar el estrés? 
-8. En los momentos de mayor presión laboral, ¿qué tipo de apoyo o herramientas te resultarían 
-más útiles? 
-9. ¿Utilizas actualmente alguna aplicación o plataforma digital para gestionar el estrés o mejorar 
-tu bienestar? Si es así, ¿cuál y qué te parece? 
-10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada 
-para ayudar a reducir el estrés laboral? 
+Preguntas:
+
+1. Para comenzar, ¿podrías presentarte y contarnos brevemente sobre tu profesión y el sector en
+   el que trabajas?
+2. ¿Cómo describirías una jornada laboral típica para ti? ¿Cuántas horas trabajas habitualmente?
+3. ¿Qué aspectos de tu trabajo consideras que generan mayor presión o estrés?
+4. ¿Has notado cambios en tu salud física o mental que atribuyas al estrés laboral?
+5. ¿Cómo suele afectar el estrés laboral a tu rendimiento en el trabajo y a tu vida personal?
+6. ¿Qué estrategias utilizas actualmente para manejar el estrés relacionado con tu trabajo?
+7. ¿Tu empresa o lugar de trabajo ofrece algún programa o recurso para ayudar a los empleados
+   a manejar el estrés?
+8. En los momentos de mayor presión laboral, ¿qué tipo de apoyo o herramientas te resultarían
+   más útiles?
+9. ¿Utilizas actualmente alguna aplicación o plataforma digital para gestionar el estrés o mejorar
+   tu bienestar? Si es así, ¿cuál y qué te parece?
+10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada
+    para ayudar a reducir el estrés laboral?
 
 **Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con 
-horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus 
-tiempos, los factores estresantes específicos de su situación laboral y sus mecanismos actuales para 
-gestionar el estrés. Esta información nos permitirá adaptar nuestra plataforma para ofrecer soluciones 
-que respondan a las características particulares de este segmento, que según estudios, experimenta 
-niveles variables de estrés debido a la naturaleza omnipresente de su trabajo. 
+Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con
+horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus
+tiempos, los factores estresantes específicos de su situación laboral y sus mecanismos actuales para
+gestionar el estrés. Esta información nos permitirá adaptar nuestra plataforma para ofrecer soluciones
+que respondan a las características particulares de este segmento, que según estudios, experimenta
+niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
-Introducción: 
+Introducción:
 
-Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una 
-plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar 
-mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una 
-solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad 
-en esta conversación. 
+Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una
+plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar
+mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una
+solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad
+en esta conversación.
 
-Preguntas: 
-1. Para empezar, ¿podrías contarnos a qué te dedicas y cómo es tu rutina de trabajo habitual? 
-2. ¿Cómo organizas tu tiempo entre el trabajo y otras actividades? ¿Tienes algún método para 
-establecer límites? 
-3. ¿Sientes que tu trabajo "te sigue a todas partes"? ¿Puedes describir cómo es esa experiencia? 
-4. ¿Cuáles son los principales factores que te generan estrés en tu trabajo? 
-5. ¿Cómo describirías el nivel de estrés que experimentas habitualmente (bajo, medio, alto)? 
-¿Varía mucho dependiendo de las temporadas o circunstancias? 
-6. ¿De qué manera crees que el no tener un horario fijo afecta tu nivel de estrés, en comparación 
-con trabajos formales con horarios establecidos? 
-7. ¿Has notado algún impacto en tu salud física o mental debido al estrés relacionado con tu 
-trabajo? 
-8. ¿Qué estrategias o métodos utilizas actualmente para manejar el estrés cuando sientes que el 
-trabajo invade todos los aspectos de tu vida? 
-9. ¿Utilizas alguna aplicación, plataforma o recurso digital para ayudarte a organizar tu trabajo o 
-manejar el estrés? ¿Cuál ha sido tu experiencia? 
-10. ¿Qué momentos del día considerarías más apropiados para dedicar tiempo a actividades para 
-reducir el estrés? 
+Preguntas:
+
+1. Para empezar, ¿podrías contarnos a qué te dedicas y cómo es tu rutina de trabajo habitual?
+2. ¿Cómo organizas tu tiempo entre el trabajo y otras actividades? ¿Tienes algún método para
+   establecer límites?
+3. ¿Sientes que tu trabajo "te sigue a todas partes"? ¿Puedes describir cómo es esa experiencia?
+4. ¿Cuáles son los principales factores que te generan estrés en tu trabajo?
+5. ¿Cómo describirías el nivel de estrés que experimentas habitualmente (bajo, medio, alto)?
+   ¿Varía mucho dependiendo de las temporadas o circunstancias?
+6. ¿De qué manera crees que el no tener un horario fijo afecta tu nivel de estrés, en comparación
+   con trabajos formales con horarios establecidos?
+7. ¿Has notado algún impacto en tu salud física o mental debido al estrés relacionado con tu
+   trabajo?
+8. ¿Qué estrategias o métodos utilizas actualmente para manejar el estrés cuando sientes que el
+   trabajo invade todos los aspectos de tu vida?
+9. ¿Utilizas alguna aplicación, plataforma o recurso digital para ayudarte a organizar tu trabajo o
+   manejar el estrés? ¿Cuál ha sido tu experiencia?
+10. ¿Qué momentos del día considerarías más apropiados para dedicar tiempo a actividades para
+    reducir el estrés?
 
 ## 2.2.2. Registro de entrevistas
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
-Entrevista N°1 
+Entrevista N°1
 
-● Nombre: Enzo Joaquín Alatrista Amaya. 
+● Nombre: Enzo Joaquín Alatrista Amaya.
 
-● Sexo: Masculino. 
+● Sexo: Masculino.
 
-● Edad: 25. 
+● Edad: 25.
 
-● Estado Civil: Soltero. 
+● Estado Civil: Soltero.
 
-● Labor: Ingeniero de Sistemas. 
+● Labor: Ingeniero de Sistemas.
 
-Detalles de la entrevista: 
+Detalles de la entrevista:
 
-● Duración: 03:26 
+● Duración: 03:26
 
 [● Link: https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing](https://drive.google.com/file/d/13V0bp8f4mNgHBX6nU5c74mhhuCYzXYmT/view?usp=sharing)
 
-Resumen de los puntos clave en la entrevista: 
+Resumen de los puntos clave en la entrevista:
 
-La entrevista con Enzo, ingeniero de sistemas de 25 años, revela el alto nivel de presión en el 
-sector tecnológico. Sus jornadas laborales de hasta 11 horas, sumadas a la disponibilidad 
-constante y los cambios de último minuto, han afectado su salud con insomnio, dolores de 
-cabeza e irritabilidad. Esto impacta su productividad y vida personal, generando agotamiento 
-emocional. Aunque intenta manejar el estrés con caminatas y ejercicios de respiración, su 
-rutina no le permite ser constante. Su empresa no ofrece apoyo real para el manejo del estrés, 
-más allá de charlas esporádicas. Enzo valora herramientas simples y accesibles, con 
-recordatorios para pausas, ejercicios rápidos y la opción de contactar a un profesional desde 
+La entrevista con Enzo, ingeniero de sistemas de 25 años, revela el alto nivel de presión en el
+sector tecnológico. Sus jornadas laborales de hasta 11 horas, sumadas a la disponibilidad
+constante y los cambios de último minuto, han afectado su salud con insomnio, dolores de
+cabeza e irritabilidad. Esto impacta su productividad y vida personal, generando agotamiento
+emocional. Aunque intenta manejar el estrés con caminatas y ejercicios de respiración, su
+rutina no le permite ser constante. Su empresa no ofrece apoyo real para el manejo del estrés,
+más allá de charlas esporádicas. Enzo valora herramientas simples y accesibles, con
+recordatorios para pausas, ejercicios rápidos y la opción de contactar a un profesional desde
 la misma app.
 
+Entrevista N°2
 
-Entrevista N°2 
+● Nombre: Andrés Luján Carrión
 
-● Nombre: Andrés Luján Carrión 
+● Sexo: Masculino
 
-● Sexo: Masculino 
+● Edad: 40
 
-● Edad: 40 
+● Estado Civil: Soltero
 
-● Estado Civil: Soltero 
+● Labor: Rector(USL)
 
-● Labor: Rector(USL) 
-
-Detalles de la entrevista: 
+Detalles de la entrevista:
 
 ● Duración: 4min11seg
 
 [● Link: https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing](https://drive.google.com/file/d/1aePzhaW86rM-1leKeeb1c65SbWk9Y0yZ/view?usp=sharing)
 
-
-Resumen de los puntos clave en la entrevista: 
+Resumen de los puntos clave en la entrevista:
 
 - El entrevistado trabaja entre 10 y 12 horas diarias.
-- Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que 
-requieren tiempo.
+- Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que
+  requieren tiempo.
 - Ha notado fatiga mental, insomnio y tensión muscular.
 - Le parecerían útiles herramientas como coaching personalizado y plataformas digitales.
-- Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una 
-comunidad de apoyo.
+- Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una
+  comunidad de apoyo.
 
-**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos** 
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-Entrevista N°3 
+Entrevista N°3
 
-● Nombre: Cristofer Pablo Paucar 
+● Nombre: Cristofer Pablo Paucar
 
-● Sexo: Masculino 
+● Sexo: Masculino
 
-● Edad: 21 
+● Edad: 21
 
-● Estado Civil: Soltero 
+● Estado Civil: Soltero
 
-● Labor: Repartidor 
+● Labor: Repartidor
 
-Detalles de la entrevista: 
+Detalles de la entrevista:
 
-● Duración: 6:27 
+● Duración: 6:27
 
 [● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
 
-Resumen de los puntos clave en la entrevista:  
+Resumen de los puntos clave en la entrevista:
 
-La entrevista con Cristofer Paucar, un repartidor delivery de 21 años que trabaja sin un 
-horario fijo. Organiza su jornada en función de la demanda y necesidades económicas, lo que 
-implica horarios variables que a menudo se extienden hasta la noche. Reconoce que tiene 
-dificultades para establecer límites entre su vida personal y laboral, ya que su trabajo "lo 
-sigue a todas partes" debido a la constante atención al celular. 
-Los principales factores de estrés que enfrenta son la inestabilidad laboral, la incertidumbre 
-económica, fallas en las aplicaciones de reparto, el tráfico, clientes exigentes y el desgaste 
-físico. Califica su nivel de estrés como medio, aunque se eleva en situaciones específicas 
-como fines de mes o días lluviosos. 
+La entrevista con Cristofer Paucar, un repartidor delivery de 21 años que trabaja sin un
+horario fijo. Organiza su jornada en función de la demanda y necesidades económicas, lo que
+implica horarios variables que a menudo se extienden hasta la noche. Reconoce que tiene
+dificultades para establecer límites entre su vida personal y laboral, ya que su trabajo "lo
+sigue a todas partes" debido a la constante atención al celular.
+Los principales factores de estrés que enfrenta son la inestabilidad laboral, la incertidumbre
+económica, fallas en las aplicaciones de reparto, el tráfico, clientes exigentes y el desgaste
+físico. Califica su nivel de estrés como medio, aunque se eleva en situaciones específicas
+como fines de mes o días lluviosos.
 
-Cristofer considera que la falta de un horario fijo agrava el estrés al dificultar la separación 
-entre el trabajo y la vida personal. Ha notado efectos negativos en su salud física y mental, 
-incluyendo dolores corporales, cansancio, insomnio e irritabilidad. Para manejar el estrés, 
-intenta desconectarse ocasionalmente, escuchar música o realizar actividades recreativas, 
-aunque no siempre lo logra. Si bien usa aplicaciones básicas para organizar su vida personal, 
-no emplea herramientas específicas para el manejo del estrés, pero le gustaría explorar 
-alguna. Identifica la mañana y la noche como los momentos más adecuados para realizar 
-actividades relajantes, aunque muchas veces depende del flujo de trabajo diario. 
+Cristofer considera que la falta de un horario fijo agrava el estrés al dificultar la separación
+entre el trabajo y la vida personal. Ha notado efectos negativos en su salud física y mental,
+incluyendo dolores corporales, cansancio, insomnio e irritabilidad. Para manejar el estrés,
+intenta desconectarse ocasionalmente, escuchar música o realizar actividades recreativas,
+aunque no siempre lo logra. Si bien usa aplicaciones básicas para organizar su vida personal,
+no emplea herramientas específicas para el manejo del estrés, pero le gustaría explorar
+alguna. Identifica la mañana y la noche como los momentos más adecuados para realizar
+actividades relajantes, aunque muchas veces depende del flujo de trabajo diario.
 
-Entrevista N°4 
+Entrevista N°4
 
-● Nombre: Laura Méndez 
+● Nombre: Laura Méndez
 
-● Sexo: Mujer 
+● Sexo: Mujer
 
-● Edad: 24 años 
+● Edad: 24 años
 
-● Estado Civil: Soltera 
+● Estado Civil: Soltera
 
-● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos 
+● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos
 
-Detalles de la entrevista: 
+Detalles de la entrevista:
 
-● Duración: 8 minutos con 39 segundos  
+● Duración: 8 minutos con 39 segundos
 
 [● Link: https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
 
-Resumen de los puntos clave en la entrevista: 
+Resumen de los puntos clave en la entrevista:
 
-La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años, 
-revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su 
-situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional, 
-con un teléfono que funciona como "oficina móvil" y clientes que esperan disponibilidad 
-constante. Los principales factores de estrés identificados incluyen la inestabilidad económica 
-que la lleva a sobrecargarse de trabajo, las expectativas poco realistas de los clientes, y la 
-imposibilidad de desconectar completamente, resultando en un nivel de estrés medio-alto con 
-picos que afectan su salud física y creatividad. Aunque intenta implementar estrategias como 
-yoga o ejercicio, estas prácticas son inconsistentes debido a su carga laboral, por lo que 
-necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas rápidas 
-accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos 
+La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años,
+revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su
+situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional,
+con un teléfono que funciona como "oficina móvil" y clientes que esperan disponibilidad
+constante. Los principales factores de estrés identificados incluyen la inestabilidad económica
+que la lleva a sobrecargarse de trabajo, las expectativas poco realistas de los clientes, y la
+imposibilidad de desconectar completamente, resultando en un nivel de estrés medio-alto con
+picos que afectan su salud física y creatividad. Aunque intenta implementar estrategias como
+yoga o ejercicio, estas prácticas son inconsistentes debido a su carga laboral, por lo que
+necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas rápidas
+accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos
 efectivos para "apagar" su mente al finalizar la jornada.
 
 ## 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
-Hallazgos: 
+Hallazgos:
 
-● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias, 
-sin límites claros entre vida laboral y personal. 
+● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias,
+sin límites claros entre vida laboral y personal.
 
-● Enfrentan presión constante por resultados inmediatos ante cambios que requieren 
-tiempo. 
+● Enfrentan presión constante por resultados inmediatos ante cambios que requieren
+tiempo.
 
-● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión 
-muscular, irritabilidad y dolores de cabeza. 
+● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión
+muscular, irritabilidad y dolores de cabeza.
 
-● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral. 
+● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral.
 
-● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide 
-ser constantes. 
+● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide
+ser constantes.
 
-● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados. 
-Conclusión: 
+● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados.
+Conclusión:
 
-Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés 
-crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y 
-presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante 
-técnicas convencionales resultan insuficientes ante la falta de límites laborales claros y apoyo 
-institucional. Este grupo necesita soluciones tecnológicas personalizadas que se integren 
-fácilmente a su rutina, ofrezcan intervenciones breves pero efectivas, y proporcionen tanto 
-seguimiento automatizado como acceso a apoyo profesional cuando sea necesario. La 
-aplicación debe enfocarse en crear micro hábitos de bienestar que puedan sostenerse incluso 
-en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su 
-desempeño profesional. 
+Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés
+crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y
+presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante
+técnicas convencionales resultan insuficientes ante la falta de límites laborales claros y apoyo
+institucional. Este grupo necesita soluciones tecnológicas personalizadas que se integren
+fácilmente a su rutina, ofrezcan intervenciones breves pero efectivas, y proporcionen tanto
+seguimiento automatizado como acceso a apoyo profesional cuando sea necesario. La
+aplicación debe enfocarse en crear micro hábitos de bienestar que puedan sostenerse incluso
+en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su
+desempeño profesional.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-Hallazgos: 
+Hallazgos:
 
-● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su 
-vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo. 
+● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su
+vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo.
 
-● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y 
-necesidades económicas. 
+● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y
+necesidades económicas.
 
-● Principales factores de estrés: Comparten preocupaciones por la inestabilidad 
-económica, las expectativas de disponibilidad constante y la dificultad para 
-desconectar. 
+● Principales factores de estrés: Comparten preocupaciones por la inestabilidad
+económica, las expectativas de disponibilidad constante y la dificultad para
+desconectar.
 
-● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos, 
-cansancio e irritabilidad. 
+● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos,
+cansancio e irritabilidad.
 
-● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para 
+● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para
 manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular.
 
-● Necesidad de herramientas adaptables: Los dos expresan interés en explorar 
-soluciones que se ajusten a sus horarios variables. 
+● Necesidad de herramientas adaptables: Los dos expresan interés en explorar
+soluciones que se ajusten a sus horarios variables.
 
-Conclusión: 
+Conclusión:
 
-Los testimonios de Cristofer y Laura revelan una realidad laboral cada vez más común: 
-trabajadores con horarios flexibles que enfrentan una constante disponibilidad laboral 
-mediada por dispositivos móviles, generando una difuminación de límites entre trabajo y vida 
-personal que impacta negativamente su bienestar. Esta situación crea un ciclo donde la 
-inestabilidad económica los impulsa a aceptar más trabajo, intensificando el estrés y 
-deteriorando su salud física y mental. Sus casos evidencian la necesidad urgente de 
-desarrollar herramientas y estrategias específicamente diseñadas para trabajadores con 
-horarios irregulares, que sean accesibles desde dispositivos móviles, requieran poco tiempo 
-de implementación y ayuden efectivamente a establecer límites saludables sin comprometer 
-su sustento económico. 
+Los testimonios de Cristofer y Laura revelan una realidad laboral cada vez más común:
+trabajadores con horarios flexibles que enfrentan una constante disponibilidad laboral
+mediada por dispositivos móviles, generando una difuminación de límites entre trabajo y vida
+personal que impacta negativamente su bienestar. Esta situación crea un ciclo donde la
+inestabilidad económica los impulsa a aceptar más trabajo, intensificando el estrés y
+deteriorando su salud física y mental. Sus casos evidencian la necesidad urgente de
+desarrollar herramientas y estrategias específicamente diseñadas para trabajadores con
+horarios irregulares, que sean accesibles desde dispositivos móviles, requieran poco tiempo
+de implementación y ayuden efectivamente a establecer límites saludables sin comprometer
+su sustento económico.
 
 ## 2.3. Needfinding
 
-Al recopilar toda la información de los segmentos objetivo y realizar las entrevistas se hará 
-un análisis de estos mismos haciendo uso de User Persona, Task Matrix, Journey Mapping, 
-Empathy Mapping y As-Is Scenario Mapping. 
+Al recopilar toda la información de los segmentos objetivo y realizar las entrevistas se hará
+un análisis de estos mismos haciendo uso de User Persona, Task Matrix, Journey Mapping,
+Empathy Mapping y As-Is Scenario Mapping.
 
 ### 2.3.1. User Personas.
 
 <div>
-  <p align="center"><img src="assets/md-images/user laura.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/user-persona/laura.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/user andres.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/user-persona/andres.png" alt="Canvas" width="700px" /></p>
 </div>
 
+### 2.3.2. User Task Matrix.
 
-### 2.3.2. User Task Matrix.  
+| Tareas                                                     | Laura Méndez |             | Andrés Luján |             |
+| :--------------------------------------------------------- | :----------- | :---------- | :----------- | :---------- |
+|                                                            | Frecuencia   | Importancia | Frecuencia   | Importancia |
+| **Registrar señales corporales de estrés**                 | Media        | Media       | Alta         | Alta        |
+| **Completar autoevaluación de niveles de estrés**          | Media        | Alta        | Alta         | Media       |
+| **Consultar análisis de patrones de estrés**               | Alta         | Media       | Media        | Alta        |
+| **Acceder a recomendaciones personalizadas**               | Media        | Alta        | Alta         | Alta        |
+| **Registrar seguimiento de implementación de estrategias** | Media        | Alta        | Alta         | Alta        |
 
-| Tareas | Laura Méndez | | Andrés Luján | |
-| :--- | :--- | :--- | :--- | :--- |
-| | Frecuencia | Importancia | Frecuencia | Importancia |
-| **Registrar señales corporales de estrés** | Media | Media | Alta | Alta |
-| **Completar autoevaluación de niveles de estrés** | Media | Alta | Alta | Media |
-| **Consultar análisis de patrones de estrés** | Alta | Media | Media | Alta |
-| **Acceder a recomendaciones personalizadas** | Media | Alta | Alta | Alta |
-| **Registrar seguimiento de implementación de estrategias** | Media | Alta | Alta | Alta |
-
-### 2.3.3. User Journey Mapping.  
-
-<div>
-  <p align="center"><img src="assets/md-images/Journey-1.png" alt="Canvas" width="700px" /></p>
-</div>
+### 2.3.3. User Journey Mapping.
 
 <div>
-  <p align="center"><img src="assets/md-images/Journey-2.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-1.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/Journey-3.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-2.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/Journey-4.png" alt="Canvas" width="700px" /></p>
-</div>
-
-
-### 2.3.4. Empathy Mapping.  
-
-<div>
-  <p align="center"><img src="assets/md-images/Empathy-1.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-3.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/Empathy-2.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-4.png" alt="Canvas" width="700px" /></p>
+</div>
+
+### 2.3.4. Empathy Mapping.
+
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-1.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/Empathy-3.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-2.png" alt="Canvas" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/Empathy-4.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-3.png" alt="Canvas" width="700px" /></p>
 </div>
 
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-4.png" alt="Canvas" width="700px" /></p>
+</div>
 
-### 2.3.5. As-is Scenario Mapping.  
+### 2.3.5. As-is Scenario Mapping.
 
 **As-is Scenario Mapping de Laura Méndez**
 
-| Phases | Registrar señales corporales de estrés | Completar autoevaluación de niveles de estrés | Consultar análisis de patrones de estrés | Acceder a recomendaciones personalizadas | Registrar seguimiento de implementación de estrategias |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Doing** | Toma fotos de su postura durante horas de trabajo. | Completa cuestionarios rápidos entre proyectos. | Revisa los gráficos semanales de estrés. | Accede a recomendaciones desde su teléfono móvil. | Registra la efectividad de las técnicas implementadas. |
-| **Thinking** | Duda si está estresada o solo cansada. | Evalúa si está aceptando demasiados proyectos. | Busca patrones relacionados con ciertos clientes. | Cuestiona si las recomendaciones se adaptan a su estilo de vida. | Se pregunta si está siendo constante con las técnicas. |
-| **Feeling** | Se siente abrumada al notar signos físicos de estrés. | Siente alivio al cuantificar su estrés. | Muestra curiosidad al descubrir patrones de estrés. | Experimenta esperanza al recibir nuevas estrategias. | Siente orgullo cuando logra implementar estrategias consistentemente. |
+| Phases       | Registrar señales corporales de estrés                | Completar autoevaluación de niveles de estrés   | Consultar análisis de patrones de estrés            | Acceder a recomendaciones personalizadas                         | Registrar seguimiento de implementación de estrategias                |
+| :----------- | :---------------------------------------------------- | :---------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **Doing**    | Toma fotos de su postura durante horas de trabajo.    | Completa cuestionarios rápidos entre proyectos. | Revisa los gráficos semanales de estrés.            | Accede a recomendaciones desde su teléfono móvil.                | Registra la efectividad de las técnicas implementadas.                |
+| **Thinking** | Duda si está estresada o solo cansada.                | Evalúa si está aceptando demasiados proyectos.  | Busca patrones relacionados con ciertos clientes.   | Cuestiona si las recomendaciones se adaptan a su estilo de vida. | Se pregunta si está siendo constante con las técnicas.                |
+| **Feeling**  | Se siente abrumada al notar signos físicos de estrés. | Siente alivio al cuantificar su estrés.         | Muestra curiosidad al descubrir patrones de estrés. | Experimenta esperanza al recibir nuevas estrategias.             | Siente orgullo cuando logra implementar estrategias consistentemente. |
 
 **As-is Scenario Mapping de Andrés Luján**
 
-| Phases | Registrar señales corporales de estrés | Completar autoevaluación de niveles de estrés | Consultar análisis de patrones de estrés | Acceder a recomendaciones personalizadas | Registrar seguimiento de implementación de estrategias |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Doing** | Documenta su tensión muscular después de reuniones prolongadas. | Realiza evaluaciones al final de su jornada laboral. | Analiza tendencias de estrés durante diferentes períodos académicos. | Revisa el coaching emocional personalizado entre reuniones. | Registra diariamente la efectividad de las estrategias implementadas. |
-| **Thinking** | Se pregunta si su fatiga es visible para su equipo. | Considera cómo los cambios institucionales afectan su nivel de estrés. | Reflexiona sobre la relación entre sus horas de trabajo y su bienestar. | Evalúa qué recomendaciones son viables con su apretada agenda. | Analiza qué técnicas funcionan mejor durante temporadas de alta presión. |
-| **Feeling** | Se siente frustrado al reconocer signos físicos de agotamiento. | Experimenta preocupación al constatar altos niveles de estrés sostenido. | Siente determinación al identificar patrones problemáticos. | Muestra optimismo al encontrar soluciones adaptadas a su rol de liderazgo. | Siente satisfacción cuando logra incorporar nuevos hábitos a su rutina. |
+| Phases       | Registrar señales corporales de estrés                          | Completar autoevaluación de niveles de estrés                            | Consultar análisis de patrones de estrés                                | Acceder a recomendaciones personalizadas                                   | Registrar seguimiento de implementación de estrategias                   |
+| :----------- | :-------------------------------------------------------------- | :----------------------------------------------------------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **Doing**    | Documenta su tensión muscular después de reuniones prolongadas. | Realiza evaluaciones al final de su jornada laboral.                     | Analiza tendencias de estrés durante diferentes períodos académicos.    | Revisa el coaching emocional personalizado entre reuniones.                | Registra diariamente la efectividad de las estrategias implementadas.    |
+| **Thinking** | Se pregunta si su fatiga es visible para su equipo.             | Considera cómo los cambios institucionales afectan su nivel de estrés.   | Reflexiona sobre la relación entre sus horas de trabajo y su bienestar. | Evalúa qué recomendaciones son viables con su apretada agenda.             | Analiza qué técnicas funcionan mejor durante temporadas de alta presión. |
+| **Feeling**  | Se siente frustrado al reconocer signos físicos de agotamiento. | Experimenta preocupación al constatar altos niveles de estrés sostenido. | Siente determinación al identificar patrones problemáticos.             | Muestra optimismo al encontrar soluciones adaptadas a su rol de liderazgo. | Siente satisfacción cuando logra incorporar nuevos hábitos a su rutina.  |
 
-## 2.4. Ubiquitous Language. 
+## 2.4. Ubiquitous Language.
 
 Este glosario define los términos clave que usamos en el proyecto para mantener un lenguaje común entre el equipo de desarrollo y los expertos en salud mental.
 
-| Término                  | Definición                                                                                   |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| **Usuario**              | Persona adulta (20–50 años) que utiliza la app para evaluar, monitorear y gestionar su estrés laboral. |
-| **Perfil biométrico**    | Conjunto de datos físicos iniciales del usuario (postura, rostro, respiración) que sirven como línea base. |
-| **Test de autoevaluación** | Cuestionario digital que mide síntomas y sensaciones de estrés percibidas por el usuario. |
-| **Análisis biométrico**  | Proceso de escaneo mediante la cámara/sensores para detectar señales físicas de estrés. |
-| **Síntomas físicos**     | Manifestaciones registradas por el usuario, como dolores de cabeza, insomnio, tensión muscular. |
-| **Nivel de estrés**      | Clasificación automática (bajo, medio, alto) que combina datos de tests y biometría. |
-| **Recomendaciones personalizadas** | Consejos, ejercicios o pausas sugeridas por la app en base al estado actual del usuario. |
-| **Ejercicios de respiración** | Actividad guiada por la app para reducir la tensión y ansiedad en pocos minutos. |
-| **Pausas activas**       | Recordatorios programados que invitan al usuario a descansar o hacer micro ejercicios durante la jornada laboral. |
-| **Dashboard personal**   | Panel con estadísticas, tendencias y patrones de estrés en el tiempo. |
-| **Desencadenante de estrés** | Evento o situación registrada por el usuario que provoca incremento de su estrés (ej. exceso de trabajo, conflictos, tráfico). |
-| **Informe de progreso**  | Documento generado con evolución de estrés y hábitos del usuario, que puede compartirse con un psicólogo. |
-| **Especialista en salud mental** | Psicólogo disponible en la plataforma para consultas y tratamiento profesional. |
-| **Cita**                 | Agendamiento de una sesión con un especialista, virtual o presencial. |
-| **Grupo de apoyo**       | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés. |
-| **Biblioteca de recursos** | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés. |
+| Término                            | Definición                                                                                                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Usuario**                        | Persona adulta (20–50 años) que utiliza la app para evaluar, monitorear y gestionar su estrés laboral.                         |
+| **Perfil biométrico**              | Conjunto de datos físicos iniciales del usuario (postura, rostro, respiración) que sirven como línea base.                     |
+| **Test de autoevaluación**         | Cuestionario digital que mide síntomas y sensaciones de estrés percibidas por el usuario.                                      |
+| **Análisis biométrico**            | Proceso de escaneo mediante la cámara/sensores para detectar señales físicas de estrés.                                        |
+| **Síntomas físicos**               | Manifestaciones registradas por el usuario, como dolores de cabeza, insomnio, tensión muscular.                                |
+| **Nivel de estrés**                | Clasificación automática (bajo, medio, alto) que combina datos de tests y biometría.                                           |
+| **Recomendaciones personalizadas** | Consejos, ejercicios o pausas sugeridas por la app en base al estado actual del usuario.                                       |
+| **Ejercicios de respiración**      | Actividad guiada por la app para reducir la tensión y ansiedad en pocos minutos.                                               |
+| **Pausas activas**                 | Recordatorios programados que invitan al usuario a descansar o hacer micro ejercicios durante la jornada laboral.              |
+| **Dashboard personal**             | Panel con estadísticas, tendencias y patrones de estrés en el tiempo.                                                          |
+| **Desencadenante de estrés**       | Evento o situación registrada por el usuario que provoca incremento de su estrés (ej. exceso de trabajo, conflictos, tráfico). |
+| **Informe de progreso**            | Documento generado con evolución de estrés y hábitos del usuario, que puede compartirse con un psicólogo.                      |
+| **Especialista en salud mental**   | Psicólogo disponible en la plataforma para consultas y tratamiento profesional.                                                |
+| **Cita**                           | Agendamiento de una sesión con un especialista, virtual o presencial.                                                          |
+| **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
+| **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
 
-# Capítulo III: Requirements Specification  
+# Capítulo III: Requirements Specification
 
 ---
 
@@ -880,23 +876,23 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 
 **User Journey Mapping – Laura Méndez**
 
-| Fases                                     | Doing                                                                                   | Thinking                                                                         | Feeling                                     |
-|------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
-| Registrar señales corporales de estrés   | La app detecta automáticamente postura y signos faciales                               | “Es útil que el sistema registre señales sin que yo tenga que hacerlo.”         | Tranquilidad por el monitoreo pasivo        |
-| Completar autoevaluación de niveles de estrés | Recibe notificaciones de autoevaluación guiada con IA                                   | “Ahora sé si lo que siento es estrés o solo cansancio.”                         | Alivio por entender rápidamente su estado emocional |
-| Consultar análisis de patrones de estrés | Visualiza resúmenes visuales con predicción de picos                                   | “Ya puedo ver cómo ciertos clientes o días afectan mi bienestar.”               | Curiosidad y sensación de control            |
-| Acceder a recomendaciones personalizadas | Recibe sugerencias integradas a su rutina diaria                                       | “Esto se adapta a mí y no interrumpe mi día.”                                   | Esperanza al ver opciones viables            |
-| Registrar seguimiento de estrategias     | Ve sus avances con ayuda de recordatorios motivacionales                               | “Estoy logrando mantener el hábito, y se nota en mi bienestar.”                 | Orgullo y motivación al ver progresos        |
+| Fases                                         | Doing                                                    | Thinking                                                                | Feeling                                             |
+| --------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| Registrar señales corporales de estrés        | La app detecta automáticamente postura y signos faciales | “Es útil que el sistema registre señales sin que yo tenga que hacerlo.” | Tranquilidad por el monitoreo pasivo                |
+| Completar autoevaluación de niveles de estrés | Recibe notificaciones de autoevaluación guiada con IA    | “Ahora sé si lo que siento es estrés o solo cansancio.”                 | Alivio por entender rápidamente su estado emocional |
+| Consultar análisis de patrones de estrés      | Visualiza resúmenes visuales con predicción de picos     | “Ya puedo ver cómo ciertos clientes o días afectan mi bienestar.”       | Curiosidad y sensación de control                   |
+| Acceder a recomendaciones personalizadas      | Recibe sugerencias integradas a su rutina diaria         | “Esto se adapta a mí y no interrumpe mi día.”                           | Esperanza al ver opciones viables                   |
+| Registrar seguimiento de estrategias          | Ve sus avances con ayuda de recordatorios motivacionales | “Estoy logrando mantener el hábito, y se nota en mi bienestar.”         | Orgullo y motivación al ver progresos               |
 
 **User Journey Mapping – Andrés Luján**
 
-| Fases                                     | Doing                                                                                   | Thinking                                                                       | Feeling                                       |
-|------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------|
-| Registrar señales corporales de estrés   | El sistema registra tensión y postura automáticamente                                  | “El sistema me ayuda a notar lo que mi cuerpo expresa.”                       | Alivio al no depender solo de su percepción   |
-| Completar autoevaluación de niveles de estrés | Usa voz o toques rápidos para autoevaluarse                                             | “Esta evaluación se adapta a mis tiempos.”                                    | Comodidad y sensación de autonomía            |
-| Consultar análisis de patrones de estrés | El sistema anticipa picos de estrés según su agenda                                    | “Puedo prever cuándo debo cuidarme más o delegar.”                            | Seguridad al planificar estratégicamente      |
-| Acceder a recomendaciones personalizadas | Recibe recomendaciones justo después de momentos clave                                 | “Estas estrategias están hechas para mi rol de liderazgo.”                    | Optimismo por la personalización del sistema  |
-| Registrar seguimiento de estrategias     | Revisa un resumen mensual con IA                                                       | “Sé qué funcionó y qué debo ajustar para el próximo mes.”                     | Satisfacción por tener una guía continua      |
+| Fases                                         | Doing                                                  | Thinking                                                   | Feeling                                      |
+| --------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- | -------------------------------------------- |
+| Registrar señales corporales de estrés        | El sistema registra tensión y postura automáticamente  | “El sistema me ayuda a notar lo que mi cuerpo expresa.”    | Alivio al no depender solo de su percepción  |
+| Completar autoevaluación de niveles de estrés | Usa voz o toques rápidos para autoevaluarse            | “Esta evaluación se adapta a mis tiempos.”                 | Comodidad y sensación de autonomía           |
+| Consultar análisis de patrones de estrés      | El sistema anticipa picos de estrés según su agenda    | “Puedo prever cuándo debo cuidarme más o delegar.”         | Seguridad al planificar estratégicamente     |
+| Acceder a recomendaciones personalizadas      | Recibe recomendaciones justo después de momentos clave | “Estas estrategias están hechas para mi rol de liderazgo.” | Optimismo por la personalización del sistema |
+| Registrar seguimiento de estrategias          | Revisa un resumen mensual con IA                       | “Sé qué funcionó y qué debo ajustar para el próximo mes.”  | Satisfacción por tener una guía continua     |
 
 ---
 
@@ -969,14 +965,11 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US19 | Analizar carga laboral             |
 |          US20 | Recibir recordatorios de ergonomía |
 
-
 | ID Épica | Épica                              | ID HU | Título HU                               | Descripción HU                                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                            |
 | -------- | ---------------------------------- | ----- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP01     | Registro y Configuración de Cuenta | US01  | Registrar cuenta de usuario             | Como nuevo usuario, quiero registrar una cuenta con mi correo o número de teléfono, para acceder a las funciones de la aplicación. | **Escenario 1: Registro exitoso**<br>Dado que el usuario no tiene cuenta,<br>Cuando ingresa sus datos obligatorios y acepta términos,<br>Entonces el sistema crea la cuenta y envía verificación.<br><br>**Escenario 2: Registro fallido**<br>Dado que el usuario ingresa datos inválidos,<br>Cuando intenta registrarse,<br>Entonces el sistema muestra mensaje de error y no crea cuenta.        |
 | EP01     | Registro y Configuración de Cuenta | US02  | Configurar perfil biométrico            | Como usuario, quiero registrar mis datos biométricos para personalizar el análisis de estrés.                                      | **Escenario 1: Configuración inicial**<br>Dado que el usuario tiene cuenta activa,<br>Cuando registra o sincroniza datos biométricos,<br>Entonces el sistema los guarda y usa en futuros análisis.<br><br>**Escenario 2: Error de sincronización**<br>Dado que el usuario conecta un dispositivo,<br>Cuando ocurre un error,<br>Entonces el sistema muestra advertencia y permite reintentar.      |
 | EP01     | Registro y Configuración de Cuenta | US03  | Completar cuestionario inicial de salud | Como usuario nuevo, quiero completar un cuestionario de salud para generar mi plan inicial.                                        | **Escenario 1: Cuestionario completado**<br>Dado que el usuario accede al cuestionario inicial,<br>Cuando responde todas las preguntas,<br>Entonces el sistema guarda respuestas y genera perfil.<br><br>**Escenario 2: Cuestionario incompleto**<br>Dado que el usuario abandona el cuestionario,<br>Cuando vuelve a ingresar,<br>Entonces el sistema permite retomar desde el progreso guardado. |
-
-
 
 | ID Épica | Épica                             | ID HU | Título HU                                 | Descripción HU                                                                                      | Criterios de Aceptación                                                                                                                                                                                                                                                                                                             |
 | -------- | --------------------------------- | ----- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -984,15 +977,11 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP02     | Detección y Evaluación del Estrés | US05  | Análisis biométrico de señales de estrés  | Como usuario, quiero que la app analice mis datos biométricos para detectar estrés automáticamente. | **Escenario 1: Análisis exitoso**<br>Dado que el usuario sincronizó su dispositivo,<br>Cuando los datos se reciben,<br>Entonces el sistema calcula nivel de estrés.<br><br>**Escenario 2: Datos insuficientes**<br>Dado que faltan datos,<br>Cuando se intenta analizar,<br>Entonces el sistema notifica al usuario.                |
 | EP02     | Detección y Evaluación del Estrés | US06  | Registro de síntomas físicos              | Como usuario, quiero registrar manualmente mis síntomas físicos para complementar el análisis.      | **Escenario 1: Registro exitoso**<br>Dado que el usuario accede a “Síntomas”,<br>Cuando ingresa información,<br>Entonces el sistema guarda los datos.<br><br>**Escenario 2: Validación**<br>Dado que el usuario omite un campo obligatorio,<br>Cuando intenta guardar,<br>Entonces el sistema solicita completar el campo.          |
 
-
-
 | ID Épica | Épica                                | ID HU | Título HU                                  | Descripción HU                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                           |
 | -------- | ------------------------------------ | ----- | ------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP03     | Recomendaciones y Gestión del Estrés | US07  | Recibir recomendaciones personalizadas     | Como usuario, quiero recibir recomendaciones basadas en mi perfil de estrés.  | **Escenario 1: Recomendaciones generadas**<br>Dado que el usuario completó cuestionario y biometría,<br>Cuando accede a recomendaciones,<br>Entonces el sistema muestra sugerencias personalizadas.<br><br>**Escenario 2: Falta de datos**<br>Dado que el usuario no completó su perfil,<br>Cuando intenta ver recomendaciones,<br>Entonces el sistema muestra mensaje indicando datos faltantes. |
 | EP03     | Recomendaciones y Gestión del Estrés | US08  | Realizar ejercicios de respiración guiados | Como usuario, quiero realizar ejercicios guiados para reducir el estrés.      | **Escenario 1: Ejercicio completado**<br>Dado que el usuario selecciona un ejercicio,<br>Cuando lo finaliza,<br>Entonces el sistema registra la actividad.<br><br>**Escenario 2: Interrupción**<br>Dado que el usuario abandona el ejercicio,<br>Cuando regresa,<br>Entonces el sistema permite reiniciar o continuar.                                                                            |
 | EP03     | Recomendaciones y Gestión del Estrés | US09  | Programar pausas activas laborales         | Como usuario, quiero programar pausas para reducir mi carga laboral y estrés. | **Escenario 1: Pausa programada**<br>Dado que el usuario accede a la agenda,<br>Cuando programa una pausa,<br>Entonces el sistema guarda recordatorio.<br><br>**Escenario 2: Notificación**<br>Dado que se acerca la pausa,<br>Cuando llega la hora,<br>Entonces el sistema envía recordatorio.                                                                                                   |
-
-
 
 | ID Épica | Épica                               | ID HU | Título HU                               | Descripción HU                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                               |
 | -------- | ----------------------------------- | ----- | --------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1000,25 +989,17 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP04     | Seguimiento y Análisis del Progreso | US11  | Generar informes de progreso            | Como usuario, quiero generar informes para evaluar mis avances.                    | **Escenario 1: Informe generado**<br>Dado que el usuario selecciona un periodo,<br>Cuando solicita un informe,<br>Entonces el sistema genera reporte descargable.<br><br>**Escenario 2: Falta de datos**<br>Dado que el usuario no tiene registros,<br>Cuando intenta generar,<br>Entonces el sistema muestra advertencia.            |
 | EP04     | Seguimiento y Análisis del Progreso | US12  | Registrar desencadenantes de estrés     | Como usuario, quiero registrar situaciones que detonan mi estrés para analizarlas. | **Escenario 1: Registro exitoso**<br>Dado que el usuario accede a “Desencadenantes”,<br>Cuando ingresa información,<br>Entonces el sistema guarda el registro.<br><br>**Escenario 2: Registro incompleto**<br>Dado que el usuario no llena campos obligatorios,<br>Cuando intenta guardar,<br>Entonces el sistema solicita completar. |
 
-
-
-
 | ID Épica | Épica                      | ID HU | Título HU                            | Descripción HU                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                  |
 | -------- | -------------------------- | ----- | ------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP05     | Conexión con Especialistas | US13  | Buscar psicólogos especializados     | Como usuario, quiero buscar psicólogos según especialidad para recibir apoyo. | **Escenario 1: Búsqueda exitosa**<br>Dado que el usuario accede a la búsqueda,<br>Cuando ingresa criterios,<br>Entonces el sistema muestra psicólogos disponibles.<br><br>**Escenario 2: Sin resultados**<br>Dado que no hay coincidencias,<br>Cuando busca,<br>Entonces el sistema muestra mensaje indicando que no hay psicólogos.     |
 | EP05     | Conexión con Especialistas | US14  | Agendar cita con psicólogo           | Como usuario, quiero agendar una cita en línea con un psicólogo.              | **Escenario 1: Cita agendada**<br>Dado que el usuario selecciona especialista y horario,<br>Cuando confirma,<br>Entonces el sistema guarda la cita.<br><br>**Escenario 2: Conflicto de horario**<br>Dado que ya existe una cita en ese horario,<br>Cuando intenta reservar,<br>Entonces el sistema muestra error y solicita otra opción. |
 | EP05     | Conexión con Especialistas | US15  | Compartir informes con especialistas | Como usuario, quiero compartir mis informes de progreso con un psicólogo.     | **Escenario 1: Informe compartido**<br>Dado que el usuario selecciona un informe,<br>Cuando lo envía,<br>Entonces el especialista recibe acceso.<br><br>**Escenario 2: Error de envío**<br>Dado que ocurre una falla,<br>Cuando intenta compartir,<br>Entonces el sistema muestra mensaje de error.                                      |
 
-
-
 | ID Épica | Épica                      | ID HU | Título HU                         | Descripción HU                                                               | Criterios de Aceptación                                                                                                                                                                                                                                                                                                   |
 | -------- | -------------------------- | ----- | --------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP06     | Comunidad y Soporte Social | US16  | Participar en grupos de apoyo     | Como usuario, quiero unirme a grupos de apoyo para compartir experiencias.   | **Escenario 1: Unión exitosa**<br>Dado que el usuario accede a grupos,<br>Cuando selecciona uno,<br>Entonces el sistema lo agrega.<br><br>**Escenario 2: Grupo cerrado**<br>Dado que el grupo requiere aprobación,<br>Cuando solicita unirse,<br>Entonces el sistema notifica que debe esperar confirmación.              |
 | EP06     | Comunidad y Soporte Social | US17  | Acceder a biblioteca de recursos  | Como usuario, quiero acceder a artículos y videos sobre manejo del estrés.   | **Escenario 1: Acceso exitoso**<br>Dado que el usuario accede a la biblioteca,<br>Cuando selecciona un recurso,<br>Entonces el sistema lo abre.<br><br>**Escenario 2: Recurso no disponible**<br>Dado que un recurso fue eliminado,<br>Cuando el usuario lo selecciona,<br>Entonces el sistema notifica indisponibilidad. |
 | EP06     | Comunidad y Soporte Social | US18  | Participar en desafíos antiestrés | Como usuario, quiero unirme a retos que me ayuden a mejorar mi salud mental. | **Escenario 1: Unión a desafío**<br>Dado que el usuario accede a desafíos,<br>Cuando selecciona uno,<br>Entonces el sistema lo registra.<br><br>**Escenario 2: Desafío finalizado**<br>Dado que el reto ya concluyó,<br>Cuando intenta unirse,<br>Entonces el sistema notifica que no está disponible.                    |
-
-
-
 
 | ID Épica | Épica                           | ID HU | Título HU                          | Descripción HU                                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                |
 | -------- | ------------------------------- | ----- | ---------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1064,17 +1045,17 @@ Impact Mapping - Segmento 2
 
 ---
 
-# Capítulo IV: Product Design  
+# Capítulo IV: Product Design
 
 ---
 
-## 4.1. Style Guidelines.  
+## 4.1. Style Guidelines.
 
 NeuroDraw, dedicado a la detección rápida y manejo del estrés laboral, transmite calma, confianza y profesionalismo. Nuestra identidad visual combina tonos azules y verdes para evocar tranquilidad, con tipografía clara y espacios limpios. Comunicamos con un lenguaje accesible pero riguroso, transformando conceptos complejos de neurociencia en soluciones prácticas para el bienestar laboral.
 
 ---
 
-### 4.1.1. General Style Guidelines.  
+### 4.1.1. General Style Guidelines.
 
 Logo: El logo de NeuroZen fusiona elementos neurológicos y serenidad en un diseño significativo. La silueta de perfil humano en Verde Bosque muestra circuitos cerebrales que simbolizan cómo nuestra plataforma conecta ciencia y bienestar mental.
 
@@ -1083,68 +1064,69 @@ Logo: El logo de NeuroZen fusiona elementos neurológicos y serenidad en un dise
 </div>
 
 Tipografía:
- 
+
 La tipografía de la página debe ser fácil de leer, adaptándose al dispositivo en el que se encuentre. Para ello, se emplearán dos fuentes sans-serif (sin remates decorativos) porque son más legibles y claras. Además, el contenido mostrado debe de resaltar.
 
-Color Guide: 
+Color Guide:
+
 1. Verde Bosque (#2D5A4A)
 Representación: El verde bosque simboliza estabilidad, crecimiento y conexión con la naturaleza. En el contexto de NeuroZen, este color representa la base sólida que ofrece la plataforma para ayudar a los usuarios a manejar su estrés. Se utiliza en elementos principales como el logotipo y encabezados, transmitiendo confianza y un ambiente relajante que invita a la calma mental.
 <div>
-  <p align="center"><img src="assets/md-images/verdebosque.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/colors/verdebosque.png" alt="Canvas" width="450px" /></p>
 </div>
 
 2. Verde Menta (#A2C4B5)
 Representación: El verde menta evoca frescura, renovación y claridad mental. Este color más suave complementa al verde bosque y se utiliza en áreas secundarias de la plataforma. Representa la sensación refrescante que experimentan los usuarios al reducir su estrés mediante las técnicas proporcionadas por NeuroZen, creando un ambiente digital que respira tranquilidad.
 <div>
-  <p align="center"><img src="assets/md-images/verdementa.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/colors/verdementa.png" alt="Canvas" width="450px" /></p>
 </div>
 
 3. Beige Cálido (#F1E9D4)
 Representación: El beige cálido transmite neutralidad, confort y serenidad. En NeuroZen, este color se utiliza para fondos y espacios de descanso visual, proporcionando un ambiente acogedor que reduce la fatiga visual durante las sesiones de meditación o ejercicios anti-estrés. El beige crea un entorno digital que se siente como un refugio seguro.
 <div>
-  <p align="center"><img src="assets/md-images/beigecalido.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/colors/beigecalido.png" alt="Canvas" width="450px" /></p>
 </div>
 
 4. Turquesa Profundo (#1A6F78)
 Representación: El turquesa profundo simboliza la profundidad emocional, la comunicación y la sabiduría. Este color representa el componente científico y psicológico de NeuroZen, destacando las herramientas basadas en evidencia para el manejo del estrés. Se utiliza en elementos interactivos y botones de acción, invitando a los usuarios a explorar soluciones más profundas.
 <div>
-  <p align="center"><img src="assets/md-images/turquesa.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/colors/turquesa.png" alt="Canvas" width="450px" /></p>
 </div>
 
 5. Gris Piedra (#8C9893)
 Representación: El gris piedra evoca neutralidad, equilibrio y estabilidad. En NeuroZen, este color funciona como un ancla visual que equilibra los verdes y turquesas más expresivos. Se utiliza para texto secundario y elementos de interfaz sutiles, aportando sofisticación sin competir con los colores principales que transmiten calma y bienestar.
 <div>
-  <p align="center"><img src="assets/md-images/grispiedra.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/colors/grispiedra.png" alt="Canvas" width="450px" /></p>
 </div>
 
 La paleta de colores de NeuroZen combina verdes y turquesas para transmitir naturaleza y tecnología, beige para crear un entorno acogedor y gris piedra para aportar profesionalismo. En conjunto, el diseño busca generar una experiencia visual relajante y coherente con la misión de reducir el estrés del usuario.
 
-Buttons: 
+Buttons:
 
 La plataforma NeuroZen para control del estrés presenta una interfaz intuitiva con botones fácilmente identificables en toda la experiencia. Los botones principales utilizan Verde Bosque (#2D5A4A) para acciones importantes como iniciar meditaciones, mientras que los secundarios aparecen en Verde Menta (#A2C4B5), creando jerarquía visual. El fondo en Beige Cálido (#F1E9D4) proporciona un ambiente relajante, complementado por elementos interactivos en Turquesa Profundo (#1A6F78) para funciones especiales y Gris Piedra (#8C9893) para textos y detalles sutiles. Todos los botones tienen formas redondeadas y tamaños generosos, facilitando su uso incluso en momentos de estrés, mientras que los estados de hover y feedback ofrecen respuestas visuales claras que refuerzan la sensación de calma y control que define la experiencia de NeuroZen.
 
-Variaciones del logo en diferentes representaciones: 
+Variaciones del logo en diferentes representaciones:
 
 <div>
-  <p align="center"><img src="assets/md-images/neurozen1.png" alt="Canvas" width="250px" /></p>
+  <p align="center"><img src="assets/md-images/neurozen-logos/neurozen1.png" alt="Canvas" width="250px" /></p>
 </div>
 -Una opción minimalista, sin muchos detalles y relajante a la vista.
 <div>
-  <p align="center"><img src="assets/md-images/neurozen2.png" alt="Canvas" width="250px" /></p>
+  <p align="center"><img src="assets/md-images/neurozen-logos/neurozen2.png" alt="Canvas" width="250px" /></p>
 </div>
 -Una opción con mejor detalle y uso de colores.
 <div>
-  <p align="center"><img src="assets/md-images/neurozen3.png" alt="Canvas" width="250px" /></p>
+  <p align="center"><img src="assets/md-images/neurozen-logos/neurozen3.png" alt="Canvas" width="250px" /></p>
 </div>
 -Una representación más abstracta que inspira relajación.
 <div>
-  <p align="center"><img src="assets/md-images/neurozen4.png" alt="Canvas" width="250px" /></p>
+  <p align="center"><img src="assets/md-images/neurozen-logos/neurozen4.png" alt="Canvas" width="250px" /></p>
 </div>
 -Una opción que combina las dos primeras ideas.
 
 ---
 
-### 4.1.2. Web Style Guidelines.  
+### 4.1.2. Web Style Guidelines.
 
 Para NeuroZen, estamos desarrollando una plataforma web y una landing page enfocada en el bienestar laboral. Por ello, implementaremos un diseño adaptable (Web Responsive Design) que optimice la presentación de la información en cualquier dispositivo, ya sea computadora, tablet o smartphone. Esto garantizará que el contenido sea accesible y claro en todo momento, mejorando la experiencia de los usuarios.
 
@@ -1152,7 +1134,7 @@ Como equipo, hemos decidido incorporar el patrón de diseño en forma de Z para 
 
 ---
 
-## 4.2. Information Architecture.  
+## 4.2. Information Architecture.
 
 NeuroZen detecta el estrés laboral combinando datos biométricos (postura, tensión facial, respiración) con autoevaluaciones emocionales para generar un perfil de estrés personalizado. La app ofrece recomendaciones y ejercicios para reducir los síntomas, envía notificaciones en tiempo real ante aumentos de estrés y permite revisar un historial de tendencias para identificar patrones.
 
@@ -1163,7 +1145,6 @@ A futuro, se integrará con psicólogos y programas de bienestar laboral para em
 ## 4.2.1. Organization Systems
 
 La información se organiza de forma lógica para que el usuario encuentre rápido lo que necesita:
-
 
 Estructura basada en módulos claros: inicio, autoevaluación, recomendaciones, profesionales, comunidad y recursos.
 
@@ -1217,15 +1198,17 @@ Compatibilidad responsive, manteniendo la navegación fluida en móviles y escri
 
 ---
 
-## 4.3. Landing Page UI Design.  
+## 4.3. Landing Page UI Design.
 
 El diseño de la interfaz de usuario para la landing page de NeuroZen será un elemento clave, ya que representará la primera impresión que recibirán los usuarios sobre la aplicación. Su objetivo es ofrecer una experiencia visual atractiva y fácil de usar que despierte el interés de los visitantes y los motive a conocer más sobre las funciones de la plataforma.
 
 ---
 
-### 4.3.1. Landing Page Wireframe.  
+### 4.3.1. Landing Page Wireframe.
 
 Los Wireframes de la página son una versión simplificada de la manera en la que se organizará la información. Se hace una organización de la estructura visual de todos los componentes previo a centrarse en la parte visual de la página. Gracias a esto, podemos observar que cosas se necesitan cambiar si fuera necesario, agilizando el tiempo de organizar los datos.
+
+<!-- ! Cambiar los wireframes, nada que ver con el producto final -->
 
 <div>
   <p align="center"><img src="assets/md-images/webinicio.png" alt="Canvas" width="700px" /></p>
@@ -1240,65 +1223,66 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
 
 ---
 
-### 4.3.2. Landing Page Mock-up.  
+### 4.3.2. Landing Page Mock-up.
 
 Un mockup es una representación visual de un producto que muestra cómo lucirá, a diferencia de un wireframe, que se enfoca en la estructura. Aunque no es interactivo, puede ser de media o alta fidelidad y ayuda a tomar decisiones finales sobre aspectos como esquemas de colores, estilo visual y tipografía. Es una herramienta valiosa en el proceso de diseño para alinear expectativas y obtener retroalimentación antes de la implementación.
 
 <div>
-  <p align="center"><img src="assets/md-images/landingmockup1.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/landing-mockup/landingmockup1.png" alt="Canvas" width="700px" /></p>
 </div>
 
+<!-- ! Otro que cambiar xd -->
 <div>
-  <p align="center"><img src="assets/md-images/landingmockup2.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/landing-mockup/landingmockup2.png" alt="Canvas" width="450px" /></p>
 </div>
 
 ---
 
-## 4.4. Web Applications UX/UI Design.  
+## 4.4. Web Applications UX/UI Design.
 
 El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) busca ofrecer una interacción digital clara, sencilla y motivadora. La UX se enfoca en entender las necesidades de las personas que buscan manejar su estrés y en crear flujos que les permitan registrar sus datos, evaluar su estado y recibir recomendaciones de forma rápida. La UI complementa esta experiencia con un diseño visual relajante y ordenado, usando colores, íconos y botones que transmiten calma y profesionalismo. Al combinar funcionalidad intuitiva con una estética agradable, se logra que el usuario se sienta acompañado y en control de su bienestar.
 
 ---
 
-### 4.4.1. Web Applications Wireframes.  
+### 4.4.1. Web Applications Wireframes.
 
 ---
 
-### 4.4.2. Web Applications Wireflow Diagrams.  
+### 4.4.2. Web Applications Wireflow Diagrams.
 
 ---
 
-### 4.4.2. Web Applications Mock-ups.  
+### 4.4.2. Web Applications Mock-ups.
 
 ---
 
-### 4.4.3. Web Applications User Flow Diagrams.  
+### 4.4.3. Web Applications User Flow Diagrams.
 
 ---
 
-## 4.5. Web Applications Prototyping.  
+## 4.5. Web Applications Prototyping.
 
 ---
 
-## 4.6. Domain-Driven Software Architecture.  
+## 4.6. Domain-Driven Software Architecture.
 
 La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con NeuroZen, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil demantener.
 
 ---
 
-### 4.6.1. Software Architecture Context Diagram.  
+### 4.6.1. Software Architecture Context Diagram.
 
 ---
 
-### 4.6.2. Software Architecture Container Diagrams.  
+### 4.6.2. Software Architecture Container Diagrams.
 
 ---
 
-### 4.6.3. Software Architecture Components Diagrams.  
+### 4.6.3. Software Architecture Components Diagrams.
 
 ---
 
-## 4.7. Software Object-Oriented Design.  
+## 4.7. Software Object-Oriented Design.
 
 ---
 
@@ -1306,74 +1290,74 @@ La arquitectura de software orientada al dominio es un enfoque de diseño que se
 
 ---
 
-### 4.7.2. Class Dictionary.  
+### 4.7.2. Class Dictionary.
 
 ---
 
-## 4.8. Database Design.  
+## 4.8. Database Design.
 
 ---
 
-### 4.8.1. Database Diagram.  
+### 4.8.1. Database Diagram.
 
 ---
 
-## 5.1. Software Configuration Management.  
+## 5.1. Software Configuration Management.
 
 ---
 
-### 5.1.1. Software Development Environment Configuration.  
+### 5.1.1. Software Development Environment Configuration.
 
 ---
 
-### 5.1.2. Source Code Management.  
+### 5.1.2. Source Code Management.
 
 ---
 
-### 5.1.3. Source Code Style Guide & Conventions.  
+### 5.1.3. Source Code Style Guide & Conventions.
 
 ---
 
-### 5.1.4. Software Deployment Configuration.  
+### 5.1.4. Software Deployment Configuration.
 
 ---
 
-## 5.2. Landing Page, Services & Applications Implementation.  
+## 5.2. Landing Page, Services & Applications Implementation.
 
 ---
 
-## 5.2.X. Sprint n  
+## 5.2.X. Sprint n
 
 ---
 
-### 5.2.X.1. Sprint Planning n.  
+### 5.2.X.1. Sprint Planning n.
 
 ---
 
-### 5.2.X.2. Aspect Leaders and Collaborators.  
+### 5.2.X.2. Aspect Leaders and Collaborators.
 
 ---
 
-### 5.2.X.3. Sprint Backlog n.  
+### 5.2.X.3. Sprint Backlog n.
 
 ---
 
-### 5.2.X.4. Development Evidence for Sprint Review.  
+### 5.2.X.4. Development Evidence for Sprint Review.
 
 ---
 
-### 5.2.X.5. Execution Evidence for Sprint Review.  
+### 5.2.X.5. Execution Evidence for Sprint Review.
 
 ---
 
-### 5.2.X.6. Services Documentation Evidence for Sprint Review.  
+### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 
 ---
 
-### 5.2.X.7. Software Deployment Evidence for Sprint Review.  
+### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
 ---
 
-### 5.2.X.8. Team Collaboration Insights during Sprint.  
+### 5.2.X.8. Team Collaboration Insights during Sprint.
 
 ---
