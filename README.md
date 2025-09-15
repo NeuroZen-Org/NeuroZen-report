@@ -1208,19 +1208,21 @@ El diseño de la interfaz de usuario para la landing page de NeuroZen será un e
 
 Los Wireframes de la página son una versión simplificada de la manera en la que se organizará la información. Se hace una organización de la estructura visual de todos los componentes previo a centrarse en la parte visual de la página. Gracias a esto, podemos observar que cosas se necesitan cambiar si fuera necesario, agilizando el tiempo de organizar los datos.
 
-<!-- ! Cambiar los wireframes, nada que ver con el producto final
-
 <div>
-  <p align="center"><img src="assets/md-images/webinicio.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/landing/wireframe/wireframe1.png" alt="Home page wireframe" width="700px" /></p>
 </div>
 
 <div>
-<p align="center">
-  <img src="assets/md-images/mobileinicio.png" alt="Canvas" width="250px" />
-  <img src="assets/md-images/webinicio2.png" alt="Canvas" width="250px" />
-</p>
+  <p align="center"><img src="assets/md-images/landing/wireframe/wireframe2.png" alt="Sign Up wireframe" width="700px" /></p>
 </div>
--->
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/wireframe/wireframe3.png" alt="Log In wireframe" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/wireframe/wireframe4.png" alt="Stress test wireframe" width="700px" /></p>
+</div>
 
 ---
 
@@ -1229,14 +1231,20 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
 Un mockup es una representación visual de un producto que muestra cómo lucirá, a diferencia de un wireframe, que se enfoca en la estructura. Aunque no es interactivo, puede ser de media o alta fidelidad y ayuda a tomar decisiones finales sobre aspectos como esquemas de colores, estilo visual y tipografía. Es una herramienta valiosa en el proceso de diseño para alinear expectativas y obtener retroalimentación antes de la implementación.
 
 <div>
-  <p align="center"><img src="assets/md-images/landing-mockup/landingmockup1.png" alt="Canvas" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup1.png" alt="Home page mockup" width="700px" /></p>
 </div>
 
-<!-- ! Otro que cambiar xd
 <div>
-  <p align="center"><img src="assets/md-images/landing-mockup/landingmockup2.png" alt="Canvas" width="450px" /></p>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup2.png" alt="Sign Up mockup" width="700px" /></p>
 </div>
- -->
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup3.png" alt="Log In mockup" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup4.png" alt="Stress test mockup" width="700px" /></p>
+</div>
 
 ---
 
