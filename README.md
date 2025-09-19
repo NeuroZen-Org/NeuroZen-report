@@ -715,6 +715,7 @@ muscular, irritabilidad y dolores de cabeza.
 ser constantes.
 
 ● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados.
+
 Conclusión:
 
 Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés
