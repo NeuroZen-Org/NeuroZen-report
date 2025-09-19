@@ -1011,10 +1011,16 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 ## 3.3. Impact Mapping
 
 Impact Mapping - Segmento 1
-![ImpactMapping_s1](imgs/impactmapping_s1.png)
+
+<div>
+  <p align="center"><img src="assets/md-images/impact_mapping/ImpactMapping_s1.png" alt="Impact mapping segmento 1" width="700px" /></p>
+</div>
 
 Impact Mapping - Segmento 2
-![ImpactMapping_s2](imgs/impactmapping_s2.png)
+
+<div>
+  <p align="center"><img src="assets/md-images/impact_mapping/ImpactMapping_s2.png" alt="Impact mapping segmento 2" width="700px" /></p>
+</div>
 
 ---
 
