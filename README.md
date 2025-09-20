@@ -33,22 +33,20 @@
 
 ## Registro de Versiones del Informe
 
-El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto.  
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto.
 
-| Versión | Fecha   | Autor                           | Descripción de modificación                                                                 |
-|-------------|-------------|-------------------------------------|-------------------------------------------------------------------------------------------------|
-| 1.0         | 2025-09-10  | Manuel Castro                       | Creación inicial del documento: carátula, índice preliminar y Student Outcome (TB1).            |
-| 1.1         | 2025-09-12  | Diego Requena            | Se añadió Introducción: Startup Profile y Solution Profile (antecedentes, problemática, Lean UX).|
-| 1.2         | 2025-09-14  | Santiago Solis                  | Se incorporó Segmentos Objetivos y análisis competitivo de competidores (Calm, Wysa, Equoo).   |
-| 1.3         | 2025-09-16  | Miguel Vila                    | Se agregó diseño y registro de entrevistas (segmentos 1 y 2) con sus respectivos resúmenes.    |
-| 1.4         | 2025-09-17  | Manuel Castro                   | Inclusión de Needfinding: User Personas, Journey Mapping y Empathy Map.                        |
-| 1.5         | 2025-09-18  | Equipo completo                     | Desarrollo de User Stories con Epics, criterios de aceptación y armado del Product Backlog.    |
-| 1.6         | 2025-09-19  | Juan Angulo & Diego Requena  | Se documentó el Big Picture Event Storming con capturas y explicación del proceso.             |
-| 1.7         | 2025-09-20  | Miguel Vila & Santiago Solis | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.|
+| Versión | Fecha      | Autor                        | Descripción de modificación                                                                       |
+| ------- | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1.0     | 2025-09-10 | Manuel Castro                | Creación inicial del documento: carátula, índice preliminar y Student Outcome (TB1).              |
+| 1.1     | 2025-09-12 | Diego Requena                | Se añadió Introducción: Startup Profile y Solution Profile (antecedentes, problemática, Lean UX). |
+| 1.2     | 2025-09-14 | Santiago Solis               | Se incorporó Segmentos Objetivos y análisis competitivo de competidores (Calm, Wysa, Equoo).      |
+| 1.3     | 2025-09-16 | Miguel Vila                  | Se agregó diseño y registro de entrevistas (segmentos 1 y 2) con sus respectivos resúmenes.       |
+| 1.4     | 2025-09-17 | Manuel Castro                | Inclusión de Needfinding: User Personas, Journey Mapping y Empathy Map.                           |
+| 1.5     | 2025-09-18 | Equipo completo              | Desarrollo de User Stories con Epics, criterios de aceptación y armado del Product Backlog.       |
+| 1.6     | 2025-09-19 | Juan Angulo & Diego Requena  | Se documentó el Big Picture Event Storming con capturas y explicación del proceso.                |
+| 1.7     | 2025-09-20 | Miguel Vila & Santiago Solis | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.  |
 
-## Project Report Collaboration Insights  
-
-
+## Project Report Collaboration Insights
 
 # Contenido
 
@@ -82,13 +80,13 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
    &nbsp;&nbsp;&nbsp;&nbsp;2.4. [Big Picture EventStorming](#24-Big-Picture-EventStorming)  
    &nbsp;&nbsp;&nbsp;&nbsp;2.5. [Ubiquitous Language](#25-ubiquitous-language)
 
-4. **[Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)**  
+3. **[Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)**  
    &nbsp;&nbsp;&nbsp;&nbsp;3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.2. [User Stories](#32-user-stories)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.3. [Impact Mapping](#33-impact-mapping)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.4. [Product Backlog](#34-product-backlog)
 
-5. **[Capítulo IV: Product Design](#4-capítulo-iv-product-design)**  
+4. **[Capítulo IV: Product Design](#4-capítulo-iv-product-design)**  
    &nbsp;&nbsp;&nbsp;&nbsp;4.1. [Style Guidelines](#41-style-guidelines)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.1. [General Style Guidelines](#411-general-style-guidelines)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2. [Web Style Guidelines](#412-web-style-guidelines)  
@@ -117,7 +115,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
    &nbsp;&nbsp;&nbsp;&nbsp;4.8. [Database Design](#48-database-design)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.1. [Database Diagram](#481-database-diagram)
 
-6. **[Capítulo V: Product Implementation, Validation & Deployment](#5-capítulo-v-product-implementation-validation--deployment)**  
+5. **[Capítulo V: Product Implementation, Validation & Deployment](#5-capítulo-v-product-implementation-validation--deployment)**  
    &nbsp;&nbsp;&nbsp;&nbsp;5.1. [Software Configuration Management](#51-software-configuration-management)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.2. [Source Code Management](#512-source-code-management)  
@@ -139,18 +137,19 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
    &nbsp;&nbsp;&nbsp;&nbsp;5.4. [Video About-the-Product](#54-video-about-the-product)
 
-7. **[Conclusiones](#6-conclusiones)**  
+6. **[Conclusiones](#6-conclusiones)**  
    &nbsp;&nbsp;&nbsp;&nbsp;6.1. [Conclusiones](#61-conclusiones)  
    &nbsp;&nbsp;&nbsp;&nbsp;6.2. [Recomendaciones](#62-recomendaciones)
 
-8. **[Bibliografía](#7-bibliografía)**
+7. **[Bibliografía](#7-bibliografía)**
 
-9. **[Anexos](#8-anexos)**
+8. **[Anexos](#8-anexos)**
 
 ---
+
 # Student Outcome
 
-El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**  
+El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**
 
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
@@ -160,11 +159,10 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ## Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
 
-| **Criterio específico** | **Acciones realizadas (TB1)** | **Conclusiones (TB1)** |
-|-------------------------|-------------------------------|-------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- *Diego Requena*: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- *Miguel Vila*: Explicó el apartado de **Solution Profile** durante la exposición.<br>- *Valentino Solis*: Presentó la problemática y segmentos objetivos.<br>- *Juan Angulo*: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redacción de la **carátula** y parte de la descripción del startup.<br>- *Diego Requena*: Contribuyó en el **índice de contenidos** y organización del documento.<br>- *Miguel Vila*: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- *Valentino Solis*: Redactó los apartados de antecedentes y problemática.<br>- *Juan Angulo*: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
-
+| **Criterio específico**                                                   | **Acciones realizadas (TB1)**                                                                                                                                                                                                                                                                                                                                                                                                                           | **Conclusiones (TB1)**                                                                                                                                                                                                |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | - _Manuel Castro_: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- _Diego Requena_: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- _Miguel Vila_: Explicó el apartado de **Solution Profile** durante la exposición.<br>- _Valentino Solis_: Presentó la problemática y segmentos objetivos.<br>- _Juan Angulo_: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia.                   |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - _Manuel Castro_: Redacción de la **carátula** y parte de la descripción del startup.<br>- _Diego Requena_: Contribuyó en el **índice de contenidos** y organización del documento.<br>- _Miguel Vila_: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- _Valentino Solis_: Redactó los apartados de antecedentes y problemática.<br>- _Juan Angulo_: Revisó ortografía y estilo en el Student Outcome.                               | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
 
 ---
 
@@ -183,14 +181,13 @@ diversas actividades para complementar el tratamiento contra el estrés.
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
-| Foto | Nombres y Apellidos | Carrera | Descripción |
-|------|---------------------|---------|-------------|
-| ![Joao](assets/md-images/members/joao-castro.jpeg) | Manuel Fernando Joao Castro Picón | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta entrenar calistenia, escuchar música y jugar fútbol. Me considero responsable, adaptable al trabajo en equipo y con metas claras para ser un gran profesional. |
-| ![Valentino](assets/md-images/members/trevor.jpeg) | Santiago Valentino Solis Chang | Ingeniería de Software | Tengo 20 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre disfruto jugar videojuegos, practicar tenis y aprender sobre programación web. Soy responsable, comprometido y capaz de trabajar en equipo. |
-| ![Miguel](assets/md-images/members/miguel-vila.jpeg) | Miguel Angel Vila Guillen | Ingeniería de Software | Tengo 19 años y estudio el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta jugar videojuegos, tocar la guitarra y el fútbol. Me considero capaz de trabajar en equipo y aspiro a ser un profesional competente. |
-| ![Diego](assets/md-images/members/diego-requena.jpeg) | Diego Gabriel Requena Gutiérrez | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida con mis objetivos, busco optimizar mi rendimiento y mantener un equilibrio entre la excelencia y una vida saludable. |
-| ![JuanCarlos](assets/md-images/members/juan-angulo.jpeg) | Juan Carlos Abud Angulo | Ingeniería de Software | Tengo 23 años; Estoy cursando la carrera de ingeniería de software en quinto ciclo. Soy una persona orientada a objetivos y con una meta clara, quiero poder crear soluciones disrruptivas que revolucionen el mercado. |
-
+| Foto                                                     | Nombres y Apellidos               | Carrera                | Descripción                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------- | --------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Joao](assets/md-images/members/joao-castro.jpeg)       | Manuel Fernando Joao Castro Picón | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta entrenar calistenia, escuchar música y jugar fútbol. Me considero responsable, adaptable al trabajo en equipo y con metas claras para ser un gran profesional. |
+| ![Valentino](assets/md-images/members/trevor.jpeg)       | Santiago Valentino Solis Chang    | Ingeniería de Software | Tengo 20 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre disfruto jugar videojuegos, practicar tenis y aprender sobre programación web. Soy responsable, comprometido y capaz de trabajar en equipo.          |
+| ![Miguel](assets/md-images/members/miguel-vila.jpeg)     | Miguel Angel Vila Guillen         | Ingeniería de Software | Tengo 19 años y estudio el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta jugar videojuegos, tocar la guitarra y el fútbol. Me considero capaz de trabajar en equipo y aspiro a ser un profesional competente.                         |
+| ![Diego](assets/md-images/members/diego-requena.jpeg)    | Diego Gabriel Requena Gutiérrez   | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida con mis objetivos, busco optimizar mi rendimiento y mantener un equilibrio entre la excelencia y una vida saludable.                       |
+| ![JuanCarlos](assets/md-images/members/juan-angulo.jpeg) | Juan Carlos Abud Angulo           | Ingeniería de Software | Tengo 23 años; Estoy cursando la carrera de ingeniería de software en quinto ciclo. Soy una persona orientada a objetivos y con una meta clara, quiero poder crear soluciones disrruptivas que revolucionen el mercado.                                     |
 
 ## 1.2. Solution Profile
 
@@ -687,7 +684,7 @@ Detalles de la entrevista:
 
 ● Duración: 8 minutos con 39 segundos
 
-[● Link: https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing](https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing) 
+[● Link: https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing](https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
 
@@ -858,14 +855,15 @@ Empathy Mapping y As-Is Scenario Mapping.
 
 ## 2.4. Big Picture Event Storming.
 
-En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
+En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.
 
 ### Big Picture Event Storming - Mapa General
+
 ![Big Picture Event Storming](assets/md-images/big-picture/Bigpicture1.png)
 
 ### Big Picture Event Storming - Leyenda de Colores
-![Big Picture Event Storming Colores](assets/md-images/big-picture/Bigpicture2.png)
 
+![Big Picture Event Storming Colores](assets/md-images/big-picture/Bigpicture2.png)
 
 ## 2.5. Ubiquitous Language.
 
@@ -890,10 +888,7 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
 | **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
 
-
-
-
-# Capítulo III: Requirements Specification
+# 3. Capítulo III: Requirements Specification
 
 ---
 
@@ -1076,7 +1071,7 @@ Impact Mapping - Segmento 2
 
 ---
 
-# Capítulo IV: Product Design
+# 4. Capítulo IV: Product Design
 
 ---
 
@@ -1173,7 +1168,7 @@ A futuro, se integrará con psicólogos y programas de bienestar laboral para em
 
 ---
 
-## 4.2.1. Organization Systems
+### 4.2.1. Organization Systems
 
 La información se organiza de forma lógica para que el usuario encuentre rápido lo que necesita:
 
@@ -1183,7 +1178,7 @@ Jerarquización de contenidos: lo más usado (tests y recomendaciones) aparece e
 
 ---
 
-## 4.2.2. Labeling Systems
+### 4.2.2. Labeling Systems
 
 El etiquetado debe ser claro, breve y familiar para los usuarios:
 
@@ -1195,7 +1190,7 @@ Consistencia en los nombres en toda la app y web.
 
 ---
 
-## 4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 
 Meta títulos: deben incluir palabras clave relacionadas con salud mental, estrés laboral y bienestar.
 
@@ -1207,7 +1202,7 @@ Uso de headings (H1, H2, H3) para mejorar la indexación en buscadores.
 
 ---
 
-## 4.2.4. Searching Systems
+### 4.2.4. Searching Systems
 
 Búsqueda interna intuitiva, con autocompletado y sugerencias rápidas.
 
@@ -1217,7 +1212,7 @@ Optimización para resultados relevantes según la necesidad del usuario.
 
 ---
 
-## 4.2.5. Navigation Systems
+### 4.2.5. Navigation Systems
 
 Menú principal: siempre visible, con las secciones clave (Inicio, Autoevaluación, Recomendaciones, Comunidad, Contacto).
 
@@ -1289,42 +1284,42 @@ El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) busca of
 
 Los wireframes representan la estructura básica de las pantallas clave de la aplicación web, evidenciando la aplicación de principios de simplicidad, consistencia visual y accesibilidad.
 
-* **Wireframe – Login**
+- **Wireframe – Login**
 <p align="center"><img src="assets/md-images/iniciar-cuenta.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Register**
+- **Wireframe – Register**
 <p align="center"><img src="assets/md-images/crear-cuenta.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Landing Page**
+- **Wireframe – Landing Page**
 <p align="center"><img src="assets/md-images/landing-page1.png" alt="Stress test mockup" width="500px" /></p>
 
 <p align="center"><img src="assets/md-images/landing-page2.png" alt="Stress test mockup" width="500px" /></p>
 
-* **Wireframe – Test**
+- **Wireframe – Test**
 <p align="center"><img src="assets/md-images/test-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Menú**
+- **Wireframe – Menú**
 <p align="center"><img src="assets/md-images/menu-principal.png" alt="Stress test mockup" width="500px" /></p>
 
-* **Wireframe – Recommended Activity**
+- **Wireframe – Recommended Activity**
 <p align="center"><img src="assets/md-images/actividades-recomendadas.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Professional Contact**
+- **Wireframe – Professional Contact**
 <p align="center"><img src="assets/md-images/contacto-profesional.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Profile**
+- **Wireframe – Profile**
 <p align="center"><img src="assets/md-images/perfil-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Zen IA**
+- **Wireframe – Zen IA**
 <p align="center"><img src="assets/md-images/zen-ia.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Selected Activity**
+- **Wireframe – Selected Activity**
 <p align="center"><img src="assets/md-images/actividad-seleccionada.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Favorites**
+- **Wireframe – Favorites**
 <p align="center"><img src="assets/md-images/favoritos-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Planes**
+- **Wireframe – Planes**
 <p align="center"><img src="assets/md-images/planes-figma.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
@@ -1341,50 +1336,48 @@ Los wireflows ilustran cómo se enlazan los wireframes a través de interaccione
 
 Los mock-ups muestran la versión visual detallada de las pantallas, aplicando la identidad visual de NeuroZen (colores, tipografías y estilos inclusivos). Aquí se evidencian las decisiones finales de diseño.
 
-* **Wireframe – Login**
+- **Wireframe – Login**
 <p align="center"><img src="assets/md-images/ainiciar-cuenta.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Register**
+- **Wireframe – Register**
 <p align="center"><img src="assets/md-images/acrear-cuenta.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Landing Page**
+- **Wireframe – Landing Page**
 <p align="center"><img src="assets/md-images/alanding-page1.png" alt="Stress test mockup" width="500px" /></p>
 
 <p align="center"><img src="assets/md-images/alanding-page2.png" alt="Stress test mockup" width="500px" /></p>
 
-* **Wireframe – Test**
+- **Wireframe – Test**
 <p align="center"><img src="assets/md-images/atest-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Menú**
+- **Wireframe – Menú**
 <p align="center"><img src="assets/md-images/amenu-principal.png" alt="Stress test mockup" width="600px" /></p>
 <p align="center"><img src="assets/md-images/aamenu-principal.png" alt="Stress test mockup" width="600px" /></p>
 
-* **Wireframe – Recommended Activity**
+- **Wireframe – Recommended Activity**
 <p align="center"><img src="assets/md-images/aactividades-recomendadas.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Professional Contact**
+- **Wireframe – Professional Contact**
 <p align="center"><img src="assets/md-images/acontacto-profesional.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Profile**
+- **Wireframe – Profile**
 <p align="center"><img src="assets/md-images/aperfil-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Zen IA**
+- **Wireframe – Zen IA**
 <p align="center"><img src="assets/md-images/azen-ia.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Selected Activity**
+- **Wireframe – Selected Activity**
 <p align="center"><img src="assets/md-images/aactividad-seleccionada.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Favorites**
+- **Wireframe – Favorites**
 <p align="center"><img src="assets/md-images/afavoritos-figma.png" alt="Stress test mockup" width="700px" /></p>
 
-* **Wireframe – Planes**
+- **Wireframe – Planes**
 <p align="center"><img src="assets/md-images/aplanes-figma.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
 ### 4.4.4. Web Applications User Flow Diagrams.
-
-# User Flow Diagrams
 
 Los **User Flow Diagrams** representan los caminos que siguen los usuarios dentro de la aplicación para cumplir sus objetivos.  
 Estos flujos integran los **mock-ups** y los **wireflows**, mostrando tanto la ruta esperada (**happy path**) como las rutas alternativas en caso de error (**unhappy path**).
@@ -1393,64 +1386,64 @@ A continuación, presentamos los principales **User Goals** identificados y sus 
 
 ---
 
-## User Flow 1: Registro de nuevo usuario
+#### User Flow 1: Registro de nuevo usuario
 
-| **Elemento**          | **Descripción**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **User Goal**        | Crear una cuenta en la plataforma para acceder a las funcionalidades de NeuroZen. |
-| **Happy Path**       | El usuario ingresa su correo, contraseña y confirmación → Presiona **Registrarse** → Recibe confirmación → Redirige al **login**. |
-| **Unhappy Path**     | El usuario deja campos vacíos o ingresa una contraseña inválida → El sistema muestra mensajes de error sin avanzar al siguiente paso. |
-| **Pantallas involucradas** | Wireframe **Register** → **Login**. |
-| **Usuario Destinado** | Usuario nuevo. |
-
----
-
-## User Flow 2: Inicio de sesión
-
-| **Elemento**          | **Descripción**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **User Goal**        | Acceder a la plataforma con credenciales válidas para usar las herramientas. |
-| **Happy Path**       | El usuario ingresa correo y contraseña válidos → Presiona **Iniciar Sesión** → Accede a la **Landing Page**. |
-| **Unhappy Path**     | Contraseña incorrecta o email inválido → Se muestra error y se mantiene en la misma pantalla. |
-| **Pantallas involucradas** | Wireframe **Login** → **Landing Page**. |
-| **Usuario Destinado** | Usuario recurrente. |
+| **Elemento**               | **Descripción**                                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Goal**              | Crear una cuenta en la plataforma para acceder a las funcionalidades de NeuroZen.                                                     |
+| **Happy Path**             | El usuario ingresa su correo, contraseña y confirmación → Presiona **Registrarse** → Recibe confirmación → Redirige al **login**.     |
+| **Unhappy Path**           | El usuario deja campos vacíos o ingresa una contraseña inválida → El sistema muestra mensajes de error sin avanzar al siguiente paso. |
+| **Pantallas involucradas** | Wireframe **Register** → **Login**.                                                                                                   |
+| **Usuario Destinado**      | Usuario nuevo.                                                                                                                        |
 
 ---
 
-## User Flow 3: Exploración de la Landing Page
+#### User Flow 2: Inicio de sesión
 
-| **Elemento**          | **Descripción**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **User Goal**        | Navegar por los beneficios, ejercicios y lista de psicólogos ofrecidos por NeuroZen. |
-| **Happy Path**       | Desde la **Landing Page** el usuario accede a secciones: **Beneficios**, **Ejercicios contra el estrés**, **Nuestros psicólogos**. |
-| **Unhappy Path**     | El usuario no logra encontrar la sección buscada → Recurre al menú principal para reorientarse. |
-| **Pantallas involucradas** | **Landing Page** (mock-up). |
-| **Usuario Destinado** | Usuarios registrados y no registrados. |
+| **Elemento**               | **Descripción**                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **User Goal**              | Acceder a la plataforma con credenciales válidas para usar las herramientas.                                 |
+| **Happy Path**             | El usuario ingresa correo y contraseña válidos → Presiona **Iniciar Sesión** → Accede a la **Landing Page**. |
+| **Unhappy Path**           | Contraseña incorrecta o email inválido → Se muestra error y se mantiene en la misma pantalla.                |
+| **Pantallas involucradas** | Wireframe **Login** → **Landing Page**.                                                                      |
+| **Usuario Destinado**      | Usuario recurrente.                                                                                          |
 
 ---
 
-## User Flow 4: Contacto con psicólogos
+#### User Flow 3: Exploración de la Landing Page
 
-| **Elemento**          | **Descripción**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **User Goal**        | Conectarse con un psicólogo desde la sección “Nuestros mejores psicólogos”. |
-| **Happy Path**       | El usuario selecciona un psicólogo → Accede a la ficha → Obtiene información de contacto o agenda una sesión. |
-| **Unhappy Path**     | El sistema no carga la información del psicólogo → El usuario recibe un mensaje de error. |
-| **Pantallas involucradas** | **Landing Page** → **Sección Psicólogos**. |
-| **Usuario Destinado** | Usuarios interesados en asesoría profesional. |
+| **Elemento**               | **Descripción**                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **User Goal**              | Navegar por los beneficios, ejercicios y lista de psicólogos ofrecidos por NeuroZen.                                               |
+| **Happy Path**             | Desde la **Landing Page** el usuario accede a secciones: **Beneficios**, **Ejercicios contra el estrés**, **Nuestros psicólogos**. |
+| **Unhappy Path**           | El usuario no logra encontrar la sección buscada → Recurre al menú principal para reorientarse.                                    |
+| **Pantallas involucradas** | **Landing Page** (mock-up).                                                                                                        |
+| **Usuario Destinado**      | Usuarios registrados y no registrados.                                                                                             |
+
+---
+
+#### User Flow 4: Contacto con psicólogos
+
+| **Elemento**               | **Descripción**                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **User Goal**              | Conectarse con un psicólogo desde la sección “Nuestros mejores psicólogos”.                                   |
+| **Happy Path**             | El usuario selecciona un psicólogo → Accede a la ficha → Obtiene información de contacto o agenda una sesión. |
+| **Unhappy Path**           | El sistema no carga la información del psicólogo → El usuario recibe un mensaje de error.                     |
+| **Pantallas involucradas** | **Landing Page** → **Sección Psicólogos**.                                                                    |
+| **Usuario Destinado**      | Usuarios interesados en asesoría profesional.                                                                 |
 
 ---
 
 ## 4.5. Web Applications Prototyping.
 
-# Introducción
+#### Introducción
 
 En esta sección se presentan los prototipos interactivos de la aplicación **NeuroZen**, diseñados tanto para desktop como para mobile web browser.  
 Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los **User Flow Diagrams** previamente definidos.
 
 ---
 
-## Criterios de Diseño
+#### Criterios de Diseño
 
 Los criterios principales que guiaron las decisiones de interacción fueron:
 
@@ -1460,14 +1453,14 @@ Los criterios principales que guiaron las decisiones de interacción fueron:
 
 ---
 
-## Prototipo Desktop
+#### Prototipo Desktop
 
 Los prototipos de escritorio muestran los siguientes flujos clave:
 
-- Registro de usuario.  
-- Login de usuario.  
-- Acceso al landing page con los beneficios y secciones informativas.  
-- Exploración de secciones de ejercicios y psicólogos.  
+- Registro de usuario.
+- Login de usuario.
+- Acceso al landing page con los beneficios y secciones informativas.
+- Exploración de secciones de ejercicios y psicólogos.
 
 **Screenshot de ejemplo (Desktop):**
 
@@ -1475,14 +1468,14 @@ Los prototipos de escritorio muestran los siguientes flujos clave:
 
 ---
 
-## Prototipo Mobile
+#### Prototipo Mobile
 
 Los prototipos móviles priorizan la navegación simplificada en pantallas pequeñas, asegurando la accesibilidad de todas las funciones principales:
 
-- Registro e inicio de sesión adaptados a mobile.  
-- Visualización compacta de los beneficios y ejercicios contra el estrés.  
-- Sección de psicólogos optimizada en tarjetas verticales.  
-- Navegación a través del menú hamburguesa.  
+- Registro e inicio de sesión adaptados a mobile.
+- Visualización compacta de los beneficios y ejercicios contra el estrés.
+- Sección de psicólogos optimizada en tarjetas verticales.
+- Navegación a través del menú hamburguesa.
 
 **Screenshot de ejemplo (Mobile):**
 
@@ -1490,26 +1483,26 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 
 ---
 
-## Conexión con los User Flow Diagrams
+#### Conexión con los User Flow Diagrams
 
 Los prototipos presentados corresponden directamente a los **User Flows** definidos en la sección 4.4:
 
-- Registro de usuario.  
-- Inicio de sesión.  
-- Acceso al landing page.  
-- Contacto con psicólogos.  
+- Registro de usuario.
+- Inicio de sesión.
+- Acceso al landing page.
+- Contacto con psicólogos.
 
 ---
 
 ## 4.6. Domain-Driven Software Architecture.
 
-La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con NeuroZen, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil demantener.
+La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con NeuroZen, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
 
 ---
 
 ### 4.6.1. Design-Level EventStorming.
 
-### Objetivo de la Sesión
+#### Objetivo de la Sesión
 
 **Objetivo:**  
 Estructurar el dominio en contextos claros, detallar el flujo principal (**test de estrés → recomendaciones → contacto profesional**)  
@@ -1517,67 +1510,73 @@ y los cruces entre contextos (**suscripciones, notificaciones**).
 
 ---
 
-### Captura de la Sesión:
+#### Captura de la Sesión:
 
 <p align="center"><img src="assets/md-images/design-level-eventstorming.png" alt="Stress test mockup" width="1200px" /></p>
 
-### Bounded Contexts
+#### Bounded Contexts
 
-- **Identity & Access (IAM):** registro, login, autorización.  
-- **Profiles & Preferences:** datos del usuario, preferencias de bienestar.  
-- **Stress Test & Support:** sesiones de test, cálculo de score, planes sugeridos.  
-- **Recommendations & Activities:** asignación y seguimiento de actividades.  
-- **Professionals Directory:** psicólogos, solicitud de contacto.  
-- **Subscriptions & Payments:** suscripciones y cobros.  
-- **Notifications:** correos/push transaccionales.  
-- **Analytics & Reporting:** métricas de uso y progreso.  
+- **Identity & Access (IAM):** registro, login, autorización.
+- **Profiles & Preferences:** datos del usuario, preferencias de bienestar.
+- **Stress Test & Support:** sesiones de test, cálculo de score, planes sugeridos.
+- **Recommendations & Activities:** asignación y seguimiento de actividades.
+- **Professionals Directory:** psicólogos, solicitud de contacto.
+- **Subscriptions & Payments:** suscripciones y cobros.
+- **Notifications:** correos/push transaccionales.
+- **Analytics & Reporting:** métricas de uso y progreso.
 
 ---
 
-### Aggregates, Commands, Events, Queries (Resumen)
+#### Aggregates, Commands, Events, Queries (Resumen)
 
-- **User:**  
-  - **Commands:** `RegisterUser`, `LoginUser`  
-  - **Events:** `UserRegistered`, `LoginSucceeded` / `LoginFailed`  
+- **User:**
+
+  - **Commands:** `RegisterUser`, `LoginUser`
+  - **Events:** `UserRegistered`, `LoginSucceeded` / `LoginFailed`
   - **Queries:** `GetUserProfile`
 
-- **Profile:**  
-  - **Commands:** `UpdateProfile`  
-  - **Events:** `ProfileUpdated`  
+- **Profile:**
+
+  - **Commands:** `UpdateProfile`
+  - **Events:** `ProfileUpdated`
   - **Queries:** `GetProfile`
 
-- **TestSession:**  
-  - **Commands:** `StartTest`, `SubmitAnswers`  
-  - **Events:** `TestSubmitted`, `StressScoreCalculated`  
+- **TestSession:**
+
+  - **Commands:** `StartTest`, `SubmitAnswers`
+  - **Events:** `TestSubmitted`, `StressScoreCalculated`
   - **Queries:** `GetLastScore`
 
-- **Plan/Activities:**  
-  - **Commands:** `AssignActivities`  
-  - **Events:** `ActivitiesAssigned`  
+- **Plan/Activities:**
+
+  - **Commands:** `AssignActivities`
+  - **Events:** `ActivitiesAssigned`
   - **Queries:** `GetActivities`
 
-- **Psychologist:**  
-  - **Commands:** `CreateProProfile`, `RequestContact`  
-  - **Events:** `PsychologistPublished`, `PsychologistContactRequested`  
+- **Psychologist:**
+
+  - **Commands:** `CreateProProfile`, `RequestContact`
+  - **Events:** `PsychologistPublished`, `PsychologistContactRequested`
   - **Queries:** `FindPsychologists`
 
-- **Subscription:**  
-  - **Commands:** `StartSubscription`, `ProcessPayment`  
-  - **Events:** `SubscriptionActivated`, `PaymentProcessed` / `PaymentFailed`  
+- **Subscription:**
+
+  - **Commands:** `StartSubscription`, `ProcessPayment`
+  - **Events:** `SubscriptionActivated`, `PaymentProcessed` / `PaymentFailed`
   - **Queries:** `GetSubscriptionStatus`
 
-- **Notification:**  
-  - **Commands:** `SendEmail`, `Push`  
-  - **Events:** `EmailSent`, `PushSent`  
+- **Notification:**
+  - **Commands:** `SendEmail`, `Push`
+  - **Events:** `EmailSent`, `PushSent`
   - **Queries:** `GetDeliveryStatus`
 
 ---
 
-### Flujo Principal (Happy Path)
+#### Flujo Principal (Happy Path)
 
-1. Usuario inicia test → registra respuestas → se calcula **score**.  
-2. Si el **score** supera el umbral → se asignan actividades y se notifica por email/push.  
-3. El usuario puede solicitar contacto con un psicólogo.  
+1. Usuario inicia test → registra respuestas → se calcula **score**.
+2. Si el **score** supera el umbral → se asignan actividades y se notifica por email/push.
+3. El usuario puede solicitar contacto con un psicólogo.
 
 ---
 
@@ -1588,27 +1587,29 @@ El sistema **NeuroZen** está al centro y muestra su relación con actores human
 
 ---
 
-### Diagrama
+#### Diagrama
 
 <p align="center"><img src="assets/md-images/primer-diagrama.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
-### Explicación
+#### Explicación
 
-- **Actores:**  
-  - Paciente/Usuario  
-  - Psicólogo  
-  - Administrador  
+- **Actores:**
 
-- **Sistemas externos:**  
-  - Pasarela de pagos  
-  - Servicio de correo (SMTP/Provider)  
-  - API de ejercicios/meditación  
+  - Paciente/Usuario
+  - Psicólogo
+  - Administrador
 
-- **Interacciones clave:**  
-  - Los usuarios interactúan con **NeuroZen**.  
-  - La plataforma se integra con servicios externos para pagos, notificaciones y contenidos.  
+- **Sistemas externos:**
+
+  - Pasarela de pagos
+  - Servicio de correo (SMTP/Provider)
+  - API de ejercicios/meditación
+
+- **Interacciones clave:**
+  - Los usuarios interactúan con **NeuroZen**.
+  - La plataforma se integra con servicios externos para pagos, notificaciones y contenidos.
 
 ---
 
@@ -1617,96 +1618,96 @@ El sistema **NeuroZen** está al centro y muestra su relación con actores human
 **Descripción:**  
 Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores de **NeuroZen**.
 
-**Diagrama**  
+**Diagrama**
 
 <p align="center"><img src="assets/md-images/1diagram.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
-### Contenedores y Decisiones Tecnológicas
+#### Contenedores y Decisiones Tecnológicas
 
-- **Web Frontend (HTML/CSS/JS):** interfaz para landing, login/registro, test, actividades y directorio de psicólogos.  
-- **Backend API (Node.js/Express):** lógica de dominio; expone endpoints REST.  
-- **MongoDB:** persistencia (usuarios, sesiones de test, actividades, psicólogos, suscripciones).  
-- **Auth Service (JWT/OAuth2):** autenticación/autorización.  
-- **Notifications (Email/Push):** envíos transaccionales.  
-- **Redis (opcional):** cache para sesiones/resultados.  
-- **Integraciones:** pasarela de pagos, API de ejercicios, SMTP/Provider.  
+- **Web Frontend (HTML/CSS/JS):** interfaz para landing, login/registro, test, actividades y directorio de psicólogos.
+- **Backend API (Node.js/Express):** lógica de dominio; expone endpoints REST.
+- **MongoDB:** persistencia (usuarios, sesiones de test, actividades, psicólogos, suscripciones).
+- **Auth Service (JWT/OAuth2):** autenticación/autorización.
+- **Notifications (Email/Push):** envíos transaccionales.
+- **Redis (opcional):** cache para sesiones/resultados.
+- **Integraciones:** pasarela de pagos, API de ejercicios, SMTP/Provider.
 
 ---
 
-### Comunicación
+#### Comunicación
 
-- **Frontend ↔ Backend:** comunicación vía REST.  
-- **Backend →** Auth / Notifications / DB / Redis.  
-- **Backend →** pasarela de pagos, API de ejercicios y SMTP vía adaptadores.  
+- **Frontend ↔ Backend:** comunicación vía REST.
+- **Backend →** Auth / Notifications / DB / Redis.
+- **Backend →** pasarela de pagos, API de ejercicios y SMTP vía adaptadores.
 
-## 4.6.4. Software Architecture Component Level Diagrams
+### 4.6.4. Software Architecture Component Level Diagrams
 
-### 4.6.4.1. Backend API.
+#### 4.6.4.1. Backend API.
 
-### Diagrama
+#### Diagrama
 
 <p align="center"><img src="assets/md-images/2diagram.png" alt="Stress test mockup" width="700px" /></p>
 
-## Componentes y Responsabilidades
+#### Componentes y Responsabilidades
 
-- **API Gateway / Router:** roteo de endpoints, validación básica.  
-- **Users Module:** registro, login, refresh token, gestión de roles.  
-- **Profiles Module:** CRUD de perfil y preferencias.  
-- **Test & Assessment Module:** inicio/guardado de respuestas, cálculo de score.  
-- **Recommendations Module:** asignación/listado de actividades, progreso.  
-- **Professionals Module:** directorio/búsqueda de psicólogos, solicitud de contacto.  
-- **Subscriptions & Payments Module:** planes, checkout, webhooks de pago.  
-- **Notifications Module:** cola y envío de correos/push.  
-- **Analytics Module:** métricas, reporting.  
-
----
-
-## Interacciones Internas Relevantes
-
-- **Test & Assessment → Recommendations:** asignación en base al score.  
-- **Subscriptions & Payments → Notifications:** confirmaciones/recordatorios.  
-- **Recommendations → Notifications:** envío de plan.  
+- **API Gateway / Router:** roteo de endpoints, validación básica.
+- **Users Module:** registro, login, refresh token, gestión de roles.
+- **Profiles Module:** CRUD de perfil y preferencias.
+- **Test & Assessment Module:** inicio/guardado de respuestas, cálculo de score.
+- **Recommendations Module:** asignación/listado de actividades, progreso.
+- **Professionals Module:** directorio/búsqueda de psicólogos, solicitud de contacto.
+- **Subscriptions & Payments Module:** planes, checkout, webhooks de pago.
+- **Notifications Module:** cola y envío de correos/push.
+- **Analytics Module:** métricas, reporting.
 
 ---
 
-### 4.6.4.1. Frontend Web.
+#### Interacciones Internas Relevantes
 
-### Diagrama
+- **Test & Assessment → Recommendations:** asignación en base al score.
+- **Subscriptions & Payments → Notifications:** confirmaciones/recordatorios.
+- **Recommendations → Notifications:** envío de plan.
+
+---
+
+#### 4.6.4.1. Frontend Web.
+
+#### Diagrama
 
 <p align="center"><img src="assets/md-images/3diagram.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
-### Vistas / Componentes
+#### Vistas / Componentes
 
-- **Header & Navigation:** navegación global (desktop/mobile).  
-- **Landing/Home:** beneficios, ejercicios destacados, psicólogos.  
-- **Auth (Login/Registro):** formularios, validaciones, almacenamiento de token.  
-- **Stress Test UI:** formulario del test, feedback de score.  
-- **Activities & Exercises:** plan sugerido, tarjetas de ejercicios.  
-- **Psychologists Directory:** ficha/listado de profesionales.  
-- **User Profile:** datos y preferencias.  
-- **UI Kit / Shared Components:** botones, inputs, tarjetas, modales, toasts.  
+- **Header & Navigation:** navegación global (desktop/mobile).
+- **Landing/Home:** beneficios, ejercicios destacados, psicólogos.
+- **Auth (Login/Registro):** formularios, validaciones, almacenamiento de token.
+- **Stress Test UI:** formulario del test, feedback de score.
+- **Activities & Exercises:** plan sugerido, tarjetas de ejercicios.
+- **Psychologists Directory:** ficha/listado de profesionales.
+- **User Profile:** datos y preferencias.
+- **UI Kit / Shared Components:** botones, inputs, tarjetas, modales, toasts.
 
 ---
 
-### Notas de Implementación
+#### Notas de Implementación
 
-- **Accesibilidad:** labels, foco visible, contraste AA/AAA.  
-- **Estado y persistencia ligera:** almacenamiento en **Storage** para token.  
-- **Rutas:** `/`, `/login`, `/registro`, `/test`, `/actividades`, `/psicologos`, `/perfil`. 
+- **Accesibilidad:** labels, foco visible, contraste AA/AAA.
+- **Estado y persistencia ligera:** almacenamiento en **Storage** para token.
+- **Rutas:** `/`, `/login`, `/registro`, `/test`, `/actividades`, `/psicologos`, `/perfil`.
 
 ---
 
 ## 4.7. Software Object-Oriented Design.
 
-En esta sección se muestran y describen los **diagramas de clases** que detallan la implementación de los componentes en cada *bounded context*.  
+En esta sección se muestran y describen los **diagramas de clases** que detallan la implementación de los componentes en cada _bounded context_.
 
 La propuesta incluye las **clases, interfaces y enumeraciones**, junto con sus relaciones.  
 Se representan los **atributos, métodos y niveles de visibilidad** (public, private, protected).  
-Además, se indican las **multiplicidades y asociaciones** entre clases, garantizando que estén alineadas con los *bounded contexts* definidos anteriormente.  
+Además, se indican las **multiplicidades y asociaciones** entre clases, garantizando que estén alineadas con los _bounded contexts_ definidos anteriormente.
 
 ---
 
@@ -1801,7 +1802,7 @@ Registra citas agendadas con psicólogos
 
 # 5. Capítulo V: Product Implementation, Validation & Deployment
 
-En esta sección se mencionan las decisiones y convenciones las cuales permitirán mantener una consistencia durante el desarrollo del proyecto. 
+En esta sección se mencionan las decisiones y convenciones las cuales permitirán mantener una consistencia durante el desarrollo del proyecto.
 
 ### 5.1.1 Software Development Environment Configuration
 
@@ -1809,7 +1810,7 @@ En esta sección se mencionan las decisiones y convenciones las cuales permitir�
 
 La gestión de los proyectos tiene como objetivo mejorar los procesos y su entorno para alcanzar los resultados esperados.
 
-* **Trello:** Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application.
+- **Trello:** Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application.
 
 <table>
     <tbody>
@@ -1824,7 +1825,7 @@ La gestión de los proyectos tiene como objetivo mejorar los procesos y su entor
 
 Es el proceso de garantizar que una organización documente verifique y satisfaga las necesidades, expectativas de sus clientes con las partes interesadas internas o externas.
 
-* **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándolos en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparta la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto.
+- **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándolos en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparta la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto.
 
 <table>
     <tbody>
@@ -1839,7 +1840,7 @@ Es el proceso de garantizar que una organización documente verifique y satisfag
 
 Nos permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor. En este caso realizar un modelo de sitio web para computadoras y celulares.
 
-* **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map
+- **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map
 
 <table>
     <tbody>
@@ -1850,7 +1851,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
     </tbody>
 </table>
 
-* **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
+- **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
 
 <table>
     <tbody>
@@ -1861,7 +1862,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
     </tbody>
 </table>
 
-* **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Landing Page.
+- **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Landing Page.
 
 <table>
     <tbody>
@@ -1872,7 +1873,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
     </tbody>
 </table>
 
-* **LucidChart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama. 
+- **LucidChart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
 
 <table>
     <tbody>
@@ -1883,7 +1884,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
     </tbody>
 </table>
 
-* **Structurizr:** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
+- **Structurizr:** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución.
 
 <table>
     <tbody>
@@ -1896,9 +1897,9 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
 
 **Software Development:**
 
-Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso. 
+Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso.
 
-* **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas.
+- **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas.
 
 <table>
     <tbody>
@@ -1909,7 +1910,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
     </tbody>
 </table>
 
-* **WebStorm:** Es un entorno de JetBrains, empresa desarrolladora de Software. Este nos ofrece facilidad en probar nuestro entorno web en navegadores web. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS y TypeScript.
+- **WebStorm:** Es un entorno de JetBrains, empresa desarrolladora de Software. Este nos ofrece facilidad en probar nuestro entorno web en navegadores web. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS y TypeScript.
 
 <table>
     <tbody>
@@ -1921,8 +1922,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
     </tbody>
 </table>
 
-* **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web.
-
+- **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web.
 
 <table>
     <tbody>
@@ -1934,7 +1934,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
     </tbody>
 </table>
 
-* **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. 
+- **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos.
 
 <table>
     <tbody>
@@ -1946,8 +1946,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
     </tbody>
 </table>
 
-
-* **TypeScript:** Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases
+- **TypeScript:** Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases
 
 <table>
     <tbody>
@@ -1959,7 +1958,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
     </tbody>
 </table>
 
-* **Angular:**  Framework de TypeScript, de código abierto, utilizado para desarrollar SPA(Single Page Application). 
+- **Angular:** Framework de TypeScript, de código abierto, utilizado para desarrollar SPA(Single Page Application).
 
 <table>
     <tbody>
@@ -1972,13 +1971,13 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
 
 **Software Testing:**
 
- Es el acto de examinar los artefactos y el comportamiento del software bajo prueba  mediante validación y verificación.
+Es el acto de examinar los artefactos y el comportamiento del software bajo prueba mediante validación y verificación.
 
-* **Lenguaje Gherkins:** Es un DSL o Lenguaje Específico de Dominio (Domain-Specific Language), es decir, un lenguaje que está creado para resolver un problema. Además de ser interpretado en código, se puede agregar los users stories del programa con sus respectivas partes: Feature, Scenario, Example, Scenario Outline, Given, When, Then y And.
+- **Lenguaje Gherkins:** Es un DSL o Lenguaje Específico de Dominio (Domain-Specific Language), es decir, un lenguaje que está creado para resolver un problema. Además de ser interpretado en código, se puede agregar los users stories del programa con sus respectivas partes: Feature, Scenario, Example, Scenario Outline, Given, When, Then y And.
 
 **Software Development:**
 
-* **Github pages:** Servicio de Github que nos permitió alojar nuestra landing page y nos permitirá alojar nuestro web applications.
+- **Github pages:** Servicio de Github que nos permitió alojar nuestra landing page y nos permitirá alojar nuestro web applications.
 
 <table>
     <tbody>
@@ -1990,6 +1989,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
 </table>
 
 ### 5.1.2. Source Code Management
+
 En esta sección se presenta la gestión de código fuente o como es conocido por sus siglas en inglés SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizará a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se emplea como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
 
 **GitFlow**
@@ -1998,52 +1998,52 @@ Es el modelo alternativo de creación de ramas en Git que en los últimos años 
 
 **Main Branches:**
 
-* **main:** es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores.
+- **main:** es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores.
 
-* **Develop:** Esta rama puede ser creada a partir de la rama main(master) y contará con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones.
+- **Develop:** Esta rama puede ser creada a partir de la rama main(master) y contará con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones.
 
 **Support Branches:**
 
-* **Feature:** se ramifica de developer y al finalizar debe fusionarse de nuevo en develop. Se emplea para desarrollar nuevas funciones que se integrarán en versiones posteriores. 
+- **Feature:** se ramifica de developer y al finalizar debe fusionarse de nuevo en develop. Se emplea para desarrollar nuevas funciones que se integrarán en versiones posteriores.
 
-* **Release:** también se ramifica de develop, es la rama que admite la preparación de una nueva versión de producción. 
+- **Release:** también se ramifica de develop, es la rama que admite la preparación de una nueva versión de producción.
 
-* **Hotfix:** también está destinado a una nueva versión de producción, pero esta se ramifica de main. Su función es reparar rápidamente las publicaciones de producción.
+- **Hotfix:** también está destinado a una nueva versión de producción, pero esta se ramifica de main. Su función es reparar rápidamente las publicaciones de producción.
 
 **Conventional Commits:**
 
 Son una convención para nombrar mensajes de commit en Git de forma estructurada, clara y semántica.
 
-* feat: Se añade una nueva funcionalidad.
-* fix: Se corrige un error.
-* docs: Cambios en la documentación.
-* style: Cambios de formato o estilo de código (sin impacto en la lógica).
-* refactor: Mejoras en el código que no añaden nuevas funcionalidades ni corrigen errores.
-* test: Añadir o modificar tests.
-* chore: Cambios menores sin impacto en el código de producción (actualización de dependencias, configuración, etc.).
+- feat: Se añade una nueva funcionalidad.
+- fix: Se corrige un error.
+- docs: Cambios en la documentación.
+- style: Cambios de formato o estilo de código (sin impacto en la lógica).
+- refactor: Mejoras en el código que no añaden nuevas funcionalidades ni corrigen errores.
+- test: Añadir o modificar tests.
+- chore: Cambios menores sin impacto en el código de producción (actualización de dependencias, configuración, etc.).
 
 ### 5.1.4 Software Deployment Configuration
 
-Como se mencionó previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. 
+Como se mencionó previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página.
 
 Para el desarrollo del Landing Page de Mindora se han usado las siguientes herramientas:
 
-* HTML: lenguaje con el cual está estructurado nuestro landing page.
+- HTML: lenguaje con el cual está estructurado nuestro landing page.
 
-* CSS: diseño y formato para el html desarrollado.
+- CSS: diseño y formato para el html desarrollado.
 
-El despliegue de nuestro landing page es posible gracias a la herramienta de Github Pages. El cual es un servicio que nos permite alojar nuestro landing directamente desde el 
-repositorio de GitHub. 
+El despliegue de nuestro landing page es posible gracias a la herramienta de Github Pages. El cual es un servicio que nos permite alojar nuestro landing directamente desde el
+repositorio de GitHub.
 
 Para lograr el despliegue seguimos lo siguientes pasos:
 
-1. Dirigirnos al repositorio de la página y entrar en la sección de configuración. 
+1. Dirigirnos al repositorio de la página y entrar en la sección de configuración.
 
 2. Ir a la opción de “Pages”, donde se encontrarán todas las opciones de publicación de página.
 
-3. Se debe seleccionar la rama la cual se va a publicar en el vínculo. También se debe seleccionar la carpeta donde se localizara la publicación. 
+3. Se debe seleccionar la rama la cual se va a publicar en el vínculo. También se debe seleccionar la carpeta donde se localizara la publicación.
 
-4. Finalmente, el link vínculo de nuestra página aparecerá en la parte superior. 
+4. Finalmente, el link vínculo de nuestra página aparecerá en la parte superior.
 
 ---
 
@@ -2051,13 +2051,14 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 
 La implementación de la página de inicio, los servicios y las aplicaciones es un paso fundamental en nuestro proceso de desarrollo. Nos permite materializar el diseño y la funcionalidad planificados, transformando los conceptos en productos tangibles y listos para su uso. Esta fase nos permite traducir las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
 
-## 5.2.1. Sprint 1
+### 5.2.1. Sprint 1
 
 El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
 
-### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1.
 
 El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
+
 <table  style="text-align: center;">
     <tbody>
         <tr>
@@ -2113,18 +2114,17 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 </tbody>
 </table>
 
-### 5.2.1.2. Aspect Leaders and Collaborators.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
 
-En la primera iteración (Sprint 1), el equipo se enfocó en la **implementación de la Landing Page**, relacionada con el Epic **EP08 – Exploración como Visitante**.  
+En la primera iteración (Sprint 1), el equipo se enfocó en la **implementación de la Landing Page**, relacionada con el Epic **EP08 – Exploración como Visitante**.
 
 #### Historias de Usuario Abordadas
 
-| ID   | Título                                               | Descripción                                                                                                                          | Estimación (Horas) | Asignado a | Estado |
-|------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------|--------|
-| US25 | Explorar funcionalidades de la app sin registro       | Como visitante, quiero explorar las funcionalidades principales sin crear cuenta, para conocer el valor de la aplicación.            | 6                  | Equipo     | Done   |
-| US26 | Visualizar landing page con beneficios y testimonios  | Como visitante, quiero ver información de beneficios y testimonios en la landing page, para entender la utilidad del producto.       | 7                  | Equipo     | Done   |
-| US27 | Visualizar información general desde la landing page  | Como visitante, quiero visualizar información general del producto en la landing page, para obtener una visión clara de lo que ofrece NeuroZen. | 5                  | Equipo     | Done   |
-
+| ID   | Título                                               | Descripción                                                                                                                                     | Estimación (Horas) | Asignado a | Estado |
+| ---- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ------ |
+| US25 | Explorar funcionalidades de la app sin registro      | Como visitante, quiero explorar las funcionalidades principales sin crear cuenta, para conocer el valor de la aplicación.                       | 6                  | Equipo     | Done   |
+| US26 | Visualizar landing page con beneficios y testimonios | Como visitante, quiero ver información de beneficios y testimonios en la landing page, para entender la utilidad del producto.                  | 7                  | Equipo     | Done   |
+| US27 | Visualizar información general desde la landing page | Como visitante, quiero visualizar información general del producto en la landing page, para obtener una visión clara de lo que ofrece NeuroZen. | 5                  | Equipo     | Done   |
 
 **Evidencia en del avance en trello**
 
@@ -2134,10 +2134,10 @@ Este Sprint permitió entregar la **Landing Page inicial de NeuroZen**, proporci
 
 ---
 
-### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog n.
 
 En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
-A continuación el sprint backlog 1: 
+A continuación el sprint backlog 1:
 
 <table>
 	<tbody>
@@ -2222,35 +2222,34 @@ A continuación el sprint backlog 1:
     <tbody>
 </table>
 
-### 5.2.1.4. Development Evidence for Sprint Review.
+#### 5.2.1.4. Development Evidence for Sprint Review.
 
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
 Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
 
-| Repository | Branch | Commit Message | Commit ID |
-|-------|-------|----------------|-----------|
-| /Report | develop | feat: add solution profile and detailed stress | 6866e2b |
-| /Report | develop | feat: add startup profile | dea56f1 |
+| Repository | Branch  | Commit Message                                 | Commit ID |
+| ---------- | ------- | ---------------------------------------------- | --------- |
+| /Report    | develop | feat: add solution profile and detailed stress | 6866e2b   |
+| /Report    | develop | feat: add startup profile                      | dea56f1   |
 
 #### Commits de Documentación y Diseño
 
-| Autor             | Fecha       | Commit Message               | Commit ID |
-|-------------------|-------------|------------------------------|-----------|
-| Diego Requena | 17/09/2025  | doc: add organization systems | c636ca4  |
-| Diego Requena | 17/09/2025  | doc: add labeling systems| 6056681  |
-| Joao Castro | 16/09/2025  | doc: add product backlog| 56d4eb3  |
-| Joao Castro | 16/09/2025  | doc: add startup description | 4c0779f  |
-| Santiago Solis | 16/09/2025  |  doc: add lean ux canvas | 4f941d0  |
-| Santiago Solis | 16/09/2025  | doc: add user stories | 99c87e8  |
-| Juan Angulo | 16/09/2025  | doc: add solution profile | 73d521e  |
-| Miguel Vila | 15/09/2025  | doc: add product backlog | 995e437  |
-| Miguel Vila | 15/09/2025  | doc: add impact mapping | f857f72  |
-
+| Autor          | Fecha      | Commit Message                | Commit ID |
+| -------------- | ---------- | ----------------------------- | --------- |
+| Diego Requena  | 17/09/2025 | doc: add organization systems | c636ca4   |
+| Diego Requena  | 17/09/2025 | doc: add labeling systems     | 6056681   |
+| Joao Castro    | 16/09/2025 | doc: add product backlog      | 56d4eb3   |
+| Joao Castro    | 16/09/2025 | doc: add startup description  | 4c0779f   |
+| Santiago Solis | 16/09/2025 | doc: add lean ux canvas       | 4f941d0   |
+| Santiago Solis | 16/09/2025 | doc: add user stories         | 99c87e8   |
+| Juan Angulo    | 16/09/2025 | doc: add solution profile     | 73d521e   |
+| Miguel Vila    | 15/09/2025 | doc: add product backlog      | 995e437   |
+| Miguel Vila    | 15/09/2025 | doc: add impact mapping       | f857f72   |
 
 ---
 
-### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
@@ -2272,19 +2271,19 @@ En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxit
 
 ---
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 
 ---
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 
 ---
 
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
@@ -2297,103 +2296,105 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ## 6.1. Conclusiones
 
 1. **Relevancia social**  
-   NeuroZen responde a una necesidad real: el cuidado de la salud mental en entornos digitales, cada vez más demandado en la sociedad actual.  
+   NeuroZen responde a una necesidad real: el cuidado de la salud mental en entornos digitales, cada vez más demandado en la sociedad actual.
 
 2. **Enfoque integral**  
-   Combina autoevaluación (tests) con acceso a especialistas, siendo más completo que soluciones que solo abordan una de estas partes.  
+   Combina autoevaluación (tests) con acceso a especialistas, siendo más completo que soluciones que solo abordan una de estas partes.
 
 3. **Seguridad y confianza**  
-   La inclusión de autenticación en dos pasos transmite seriedad y compromiso con la protección de los datos personales.  
+   La inclusión de autenticación en dos pasos transmite seriedad y compromiso con la protección de los datos personales.
 
 4. **Escalabilidad**  
-   El proyecto tiene el potencial de evolucionar hacia un ecosistema más robusto con nuevas funcionalidades, manteniendo su base sencilla en HTML y CSS.  
+   El proyecto tiene el potencial de evolucionar hacia un ecosistema más robusto con nuevas funcionalidades, manteniendo su base sencilla en HTML y CSS.
 
 5. **Potencial de impacto**  
-   NeuroZen puede crecer como una plataforma de apoyo integral, integrando tecnologías emergentes como inteligencia artificial, chatbots y seguimiento personalizado.  
+   NeuroZen puede crecer como una plataforma de apoyo integral, integrando tecnologías emergentes como inteligencia artificial, chatbots y seguimiento personalizado.
 
 ---
 
 ## 6.2. Recomendaciones
 
-1. **Mejora de la experiencia de usuario (UX/UI)**  
-   - Implementar un diseño minimalista y calmante (paleta de colores suaves, tipografía clara).  
-   - Incluir dashboards visuales para mostrar la evolución del usuario en sus niveles de estrés.  
+1. **Mejora de la experiencia de usuario (UX/UI)**
 
-2. **Nuevas funcionalidades sugeridas**  
-   - Chatbot de acompañamiento con ejercicios de relajación y consejos inmediatos.  
-   - Gamificación: logros y recompensas por completar actividades de autocuidado.  
-   - Agenda virtual para agendar citas con psicólogos desde la plataforma.  
+   - Implementar un diseño minimalista y calmante (paleta de colores suaves, tipografía clara).
+   - Incluir dashboards visuales para mostrar la evolución del usuario en sus niveles de estrés.
 
-3. **Escalabilidad técnica**  
-   - Evolucionar a frameworks como React, Vue o Angular para mayor dinamismo.  
-   - Incorporar bases de datos seguras (ej. MongoDB, PostgreSQL) para gestión de perfiles, tests y citas.  
+2. **Nuevas funcionalidades sugeridas**
 
-4. **Alianzas estratégicas**  
-   - Colaborar con psicólogos colegiados para dar mayor respaldo profesional.  
-   - Establecer convenios con universidades o centros de bienestar para ganar credibilidad.  
+   - Chatbot de acompañamiento con ejercicios de relajación y consejos inmediatos.
+   - Gamificación: logros y recompensas por completar actividades de autocuidado.
+   - Agenda virtual para agendar citas con psicólogos desde la plataforma.
 
-5. **Sostenibilidad y monetización**  
-   - Ofrecer una versión gratuita con funciones básicas y una premium con servicios avanzados (consultas online, planes personalizados).  
-   - Incluir publicidad ética y no invasiva relacionada con bienestar.  
+3. **Escalabilidad técnica**
+
+   - Evolucionar a frameworks como React, Vue o Angular para mayor dinamismo.
+   - Incorporar bases de datos seguras (ej. MongoDB, PostgreSQL) para gestión de perfiles, tests y citas.
+
+4. **Alianzas estratégicas**
+
+   - Colaborar con psicólogos colegiados para dar mayor respaldo profesional.
+   - Establecer convenios con universidades o centros de bienestar para ganar credibilidad.
+
+5. **Sostenibilidad y monetización**
+   - Ofrecer una versión gratuita con funciones básicas y una premium con servicios avanzados (consultas online, planes personalizados).
+   - Incluir publicidad ética y no invasiva relacionada con bienestar.
 
 ---
-
-
 
 # 7. Bibliografía
 
 ### Referencias
 
-Brown, T. (2009). *Change by design: How design thinking creates new alternatives for business and society*. Harper Business. https://www.harpercollins.com/products/change-by-design-tim-brown
+Brown, T. (2009). _Change by design: How design thinking creates new alternatives for business and society_. Harper Business. https://www.harpercollins.com/products/change-by-design-tim-brown
 
-Cockburn, A. (2001). *Writing effective use cases*. Addison-Wesley. https://www.informit.com/store/writing-effective-use-cases-9780201702255
+Cockburn, A. (2001). _Writing effective use cases_. Addison-Wesley. https://www.informit.com/store/writing-effective-use-cases-9780201702255
 
-Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book246896
+Creswell, J. W., & Poth, C. N. (2018). _Qualitative inquiry and research design: Choosing among five approaches_ (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book246896
 
-Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley. https://www.informit.com/store/domain-driven-design-tackling-complexity-in-the-heart-9780321125217
+Evans, E. (2003). _Domain-driven design: Tackling complexity in the heart of software_. Addison-Wesley. https://www.informit.com/store/domain-driven-design-tackling-complexity-in-the-heart-9780321125217
 
-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design patterns: Elements of reusable object-oriented software*. Addison-Wesley. https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). _Design patterns: Elements of reusable object-oriented software_. Addison-Wesley. https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610
 
-Goodman, E., Kuniavsky, M., & Moed, A. (2012). *Observing the user experience: A practitioner’s guide to user research* (2nd ed.). Morgan Kaufmann. https://www.elsevier.com/books/observing-the-user-experience/goodman/978-0-12-384869-7
+Goodman, E., Kuniavsky, M., & Moed, A. (2012). _Observing the user experience: A practitioner’s guide to user research_ (2nd ed.). Morgan Kaufmann. https://www.elsevier.com/books/observing-the-user-experience/goodman/978-0-12-384869-7
 
-Krug, S. (2014). *Don’t make me think, revisited: A common sense approach to web usability* (3rd ed.). New Riders. https://www.peachpit.com/store/dont-make-me-think-revisited-a-common-sense-approach-9780321965516
+Krug, S. (2014). _Don’t make me think, revisited: A common sense approach to web usability_ (3rd ed.). New Riders. https://www.peachpit.com/store/dont-make-me-think-revisited-a-common-sense-approach-9780321965516
 
-Larman, C. (2004). *Applying UML and patterns: An introduction to object-oriented analysis and design and iterative development* (3rd ed.). Prentice Hall. https://www.informit.com/store/applying-uml-and-patterns-an-introduction-to-object-9780131489066
+Larman, C. (2004). _Applying UML and patterns: An introduction to object-oriented analysis and design and iterative development_ (3rd ed.). Prentice Hall. https://www.informit.com/store/applying-uml-and-patterns-an-introduction-to-object-9780131489066
 
-Newman, S. (2015). *Building microservices: Designing fine-grained systems*. O’Reilly Media. https://www.oreilly.com/library/view/building-microservices/9781491950340/
+Newman, S. (2015). _Building microservices: Designing fine-grained systems_. O’Reilly Media. https://www.oreilly.com/library/view/building-microservices/9781491950340/
 
-Patton, M. Q. (2015). *Qualitative research & evaluation methods: Integrating theory and practice* (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-research-evaluation-methods/book232962
+Patton, M. Q. (2015). _Qualitative research & evaluation methods: Integrating theory and practice_ (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-research-evaluation-methods/book232962
 
-Preece, J., Rogers, Y., & Sharp, H. (2019). *Interaction design: Beyond human-computer interaction* (5th ed.). Wiley. https://www.wiley.com/en-us/Interaction+Design%3A+Beyond+Human+Computer+Interaction%2C+5th+Edition-p-9781119547259
+Preece, J., Rogers, Y., & Sharp, H. (2019). _Interaction design: Beyond human-computer interaction_ (5th ed.). Wiley. https://www.wiley.com/en-us/Interaction+Design%3A+Beyond+Human+Computer+Interaction%2C+5th+Edition-p-9781119547259
 
-Richardson, C. (2018). *Microservices patterns: With examples in Java*. Manning. https://www.manning.com/books/microservices-patterns
+Richardson, C. (2018). _Microservices patterns: With examples in Java_. Manning. https://www.manning.com/books/microservices-patterns
 
-Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). *This is service design doing: Applying service design thinking in the real world*. O’Reilly Media. https://www.thisisservicedesigndoing.com/
+Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). _This is service design doing: Applying service design thinking in the real world_. O’Reilly Media. https://www.thisisservicedesigndoing.com/
 
-Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150
-
+Yin, R. K. (2018). _Case study research and applications: Design and methods_ (6th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150
 
 # 8. Anexos
 
-## Anexo A. Formato para Evaluación de User Experience según Heurísticas  
+## Anexo A. Formato para Evaluación de User Experience según Heurísticas
 
-Durante la validación del prototipo se aplicaron heurísticas de usabilidad, arquitectura de información y diseño inclusivo.  
+Durante la validación del prototipo se aplicaron heurísticas de usabilidad, arquitectura de información y diseño inclusivo.
 
-**Tareas evaluadas:**  
-1. Registro de un usuario nuevo.  
-2. Inicio de sesión y recuperación de contraseña.  
-3. Realización de test de estrés.  
-4. Visualización de psicólogos disponibles.  
-5. Acceso a recomendaciones y actividades de relajación.  
-6. Uso de agenda para contacto con psicólogos.  
-7. Realización de pagos de suscripción. 
+**Tareas evaluadas:**
 
-## Anexo B. Integrantes del Equipo 
+1. Registro de un usuario nuevo.
+2. Inicio de sesión y recuperación de contraseña.
+3. Realización de test de estrés.
+4. Visualización de psicólogos disponibles.
+5. Acceso a recomendaciones y actividades de relajación.
+6. Uso de agenda para contacto con psicólogos.
+7. Realización de pagos de suscripción.
 
-| Foto | Nombres y Apellidos | Carrera | Descripción |
-|------|---------------------|---------|-------------|
-| ![Joao](assets/md-images/members/joao-castro.jpeg) | Manuel Fernando Joao Castro Picón | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta entrenar calistenia, escuchar música y jugar fútbol. Me considero responsable, adaptable al trabajo en equipo y con metas claras para ser un gran profesional. |
-| ![Valentino](assets/md-images/members/trevor.jpeg) | Santiago Valentino Solis Chang | Ingeniería de Software | Tengo 20 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre disfruto jugar videojuegos, practicar tenis y aprender sobre programación web. Soy responsable, comprometido y capaz de trabajar en equipo. |
-| ![Miguel](assets/md-images/members/miguel-vila.jpeg) | Miguel Angel Vila Guillen | Ingeniería de Software | Tengo 19 años y estudio el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta jugar videojuegos, tocar la guitarra y el fútbol. Me considero capaz de trabajar en equipo y aspiro a ser un profesional competente. |
-| ![Diego](assets/md-images/members/diego-requena.jpeg) | Diego Gabriel Requena Gutiérrez | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida con mis objetivos, busco optimizar mi rendimiento y mantener un equilibrio entre la excelencia y una vida saludable. |
-| ![JuanCarlos](assets/md-images/members/juan-angulo.jpeg) | Juan Carlos Abud Angulo | Ingeniería de Software | Soy responsable y comprometido con lo que hago. Estudio Ingeniería de Software, una carrera que me apasiona porque me permite desarrollar soluciones tecnológicas y aprender constantemente. Me considero disciplinado, fresco y entusiasta. |
+## Anexo B. Integrantes del Equipo
+
+| Foto                                                     | Nombres y Apellidos               | Carrera                | Descripción                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------- | --------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Joao](assets/md-images/members/joao-castro.jpeg)       | Manuel Fernando Joao Castro Picón | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta entrenar calistenia, escuchar música y jugar fútbol. Me considero responsable, adaptable al trabajo en equipo y con metas claras para ser un gran profesional. |
+| ![Valentino](assets/md-images/members/trevor.jpeg)       | Santiago Valentino Solis Chang    | Ingeniería de Software | Tengo 20 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre disfruto jugar videojuegos, practicar tenis y aprender sobre programación web. Soy responsable, comprometido y capaz de trabajar en equipo.          |
+| ![Miguel](assets/md-images/members/miguel-vila.jpeg)     | Miguel Angel Vila Guillen         | Ingeniería de Software | Tengo 19 años y estudio el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta jugar videojuegos, tocar la guitarra y el fútbol. Me considero capaz de trabajar en equipo y aspiro a ser un profesional competente.                         |
+| ![Diego](assets/md-images/members/diego-requena.jpeg)    | Diego Gabriel Requena Gutiérrez   | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida con mis objetivos, busco optimizar mi rendimiento y mantener un equilibrio entre la excelencia y una vida saludable.                       |
+| ![JuanCarlos](assets/md-images/members/juan-angulo.jpeg) | Juan Carlos Abud Angulo           | Ingeniería de Software | Soy responsable y comprometido con lo que hago. Estudio Ingeniería de Software, una carrera que me apasiona porque me permite desarrollar soluciones tecnológicas y aprender constantemente. Me considero disciplinado, fresco y entusiasta.                |
