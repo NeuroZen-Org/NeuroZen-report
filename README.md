@@ -871,10 +871,10 @@ Empathy Mapping y As-Is Scenario Mapping.
 En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
 
 ### Big Picture Event Storming - Mapa General
-![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
+![Big Picture Event Storming](assets/md-images/big-picture/Bigpicture1.png)
 
 ### Big Picture Event Storming - Leyenda de Colores
-![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
+![Big Picture Event Storming Colores](assets/md-images/big-picture/Bigpicture2.png)
 
 
 ## 2.5. Ubiquitous Language.
