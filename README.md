@@ -1318,7 +1318,7 @@ Los wireflows ilustran cómo se enlazan los wireframes a través de interaccione
 
 ---
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Los mock-ups muestran la versión visual detallada de las pantallas, aplicando la identidad visual de NeuroZen (colores, tipografías y estilos inclusivos). Aquí se evidencian las decisiones finales de diseño.
 
@@ -1363,7 +1363,62 @@ Los mock-ups muestran la versión visual detallada de las pantallas, aplicando l
 
 ---
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
+
+# User Flow Diagrams
+
+Los **User Flow Diagrams** representan los caminos que siguen los usuarios dentro de la aplicación para cumplir sus objetivos.  
+Estos flujos integran los **mock-ups** y los **wireflows**, mostrando tanto la ruta esperada (**happy path**) como las rutas alternativas en caso de error (**unhappy path**).
+
+A continuación, presentamos los principales **User Goals** identificados y sus respectivos flujos:
+
+---
+
+## User Flow 1: Registro de nuevo usuario
+
+| **Elemento**          | **Descripción**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **User Goal**        | Crear una cuenta en la plataforma para acceder a las funcionalidades de NeuroZen. |
+| **Happy Path**       | El usuario ingresa su correo, contraseña y confirmación → Presiona **Registrarse** → Recibe confirmación → Redirige al **login**. |
+| **Unhappy Path**     | El usuario deja campos vacíos o ingresa una contraseña inválida → El sistema muestra mensajes de error sin avanzar al siguiente paso. |
+| **Pantallas involucradas** | Wireframe **Register** → **Login**. |
+| **Usuario Destinado** | Usuario nuevo. |
+
+---
+
+## User Flow 2: Inicio de sesión
+
+| **Elemento**          | **Descripción**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **User Goal**        | Acceder a la plataforma con credenciales válidas para usar las herramientas. |
+| **Happy Path**       | El usuario ingresa correo y contraseña válidos → Presiona **Iniciar Sesión** → Accede a la **Landing Page**. |
+| **Unhappy Path**     | Contraseña incorrecta o email inválido → Se muestra error y se mantiene en la misma pantalla. |
+| **Pantallas involucradas** | Wireframe **Login** → **Landing Page**. |
+| **Usuario Destinado** | Usuario recurrente. |
+
+---
+
+## User Flow 3: Exploración de la Landing Page
+
+| **Elemento**          | **Descripción**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **User Goal**        | Navegar por los beneficios, ejercicios y lista de psicólogos ofrecidos por NeuroZen. |
+| **Happy Path**       | Desde la **Landing Page** el usuario accede a secciones: **Beneficios**, **Ejercicios contra el estrés**, **Nuestros psicólogos**. |
+| **Unhappy Path**     | El usuario no logra encontrar la sección buscada → Recurre al menú principal para reorientarse. |
+| **Pantallas involucradas** | **Landing Page** (mock-up). |
+| **Usuario Destinado** | Usuarios registrados y no registrados. |
+
+---
+
+## User Flow 4: Contacto con psicólogos
+
+| **Elemento**          | **Descripción**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **User Goal**        | Conectarse con un psicólogo desde la sección “Nuestros mejores psicólogos”. |
+| **Happy Path**       | El usuario selecciona un psicólogo → Accede a la ficha → Obtiene información de contacto o agenda una sesión. |
+| **Unhappy Path**     | El sistema no carga la información del psicólogo → El usuario recibe un mensaje de error. |
+| **Pantallas involucradas** | **Landing Page** → **Sección Psicólogos**. |
+| **Usuario Destinado** | Usuarios interesados en asesoría profesional. |
 
 ---
 
