@@ -1564,6 +1564,33 @@ y los cruces entre contextos (**suscripciones, notificaciones**).
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+**Descripción:**  
+El sistema **NeuroZen** está al centro y muestra su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).
+
+---
+
+### Diagrama
+
+<p align="center"><img src="assets/md-images/primer-diagrama.png" alt="Stress test mockup" width="1200px" /></p>
+
+---
+
+### Explicación
+
+- **Actores:**  
+  - Paciente/Usuario  
+  - Psicólogo  
+  - Administrador  
+
+- **Sistemas externos:**  
+  - Pasarela de pagos  
+  - Servicio de correo (SMTP/Provider)  
+  - API de ejercicios/meditación  
+
+- **Interacciones clave:**  
+  - Los usuarios interactúan con **NeuroZen**.  
+  - La plataforma se integra con servicios externos para pagos, notificaciones y contenidos.  
+
 ---
 
 ### 4.6.3. Software Architecture Components Diagrams.
