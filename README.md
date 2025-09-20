@@ -2214,6 +2214,30 @@ A continuación el sprint backlog 1:
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
+
+Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
+
+| Repository | Branch | Commit Message | Commit ID |
+|-------|-------|----------------|-----------|
+| /Report | develop | feat: add solution profile and detailed stress | 6866e2b |
+| /Report | develop | feat: add startup profile | dea56f1 |
+
+#### Commits de Documentación y Diseño
+
+| Autor             | Fecha       | Commit Message               | Commit ID |
+|-------------------|-------------|------------------------------|-----------|
+| Diego Requena | 17/09/2025  | doc: add organization systems | c636ca4  |
+| Diego Requena | 17/09/2025  | doc: add labeling systems| 6056681  |
+| Joao Castro | 16/09/2025  | doc: add product backlog| 56d4eb3  |
+| Joao Castro | 16/09/2025  | doc: add startup description | 4c0779f  |
+| Santiago Solis | 16/09/2025  |  doc: add lean ux canvas | 4f941d0  |
+| Santiago Solis | 16/09/2025  | doc: add user stories | 99c87e8  |
+| Juan Angulo | 16/09/2025  | doc: add solution profile | 73d521e  |
+| Miguel Vila | 15/09/2025  | doc: add product backlog | 995e437  |
+| Miguel Vila | 15/09/2025  | doc: add impact mapping | f857f72  |
+
+
 ---
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
