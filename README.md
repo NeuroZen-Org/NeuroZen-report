@@ -1490,6 +1490,76 @@ La arquitectura de software orientada al dominio es un enfoque de diseño que se
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+### Objetivo de la Sesión
+
+**Objetivo:**  
+Estructurar el dominio en contextos claros, detallar el flujo principal (**test de estrés → recomendaciones → contacto profesional**)  
+y los cruces entre contextos (**suscripciones, notificaciones**).
+
+---
+
+### Captura de la Sesión:
+
+<p align="center"><img src="assets/md-images/design-level-eventstorming.png" alt="Stress test mockup" width="1200px" /></p>
+
+### Bounded Contexts
+
+- **Identity & Access (IAM):** registro, login, autorización.  
+- **Profiles & Preferences:** datos del usuario, preferencias de bienestar.  
+- **Stress Test & Support:** sesiones de test, cálculo de score, planes sugeridos.  
+- **Recommendations & Activities:** asignación y seguimiento de actividades.  
+- **Professionals Directory:** psicólogos, solicitud de contacto.  
+- **Subscriptions & Payments:** suscripciones y cobros.  
+- **Notifications:** correos/push transaccionales.  
+- **Analytics & Reporting:** métricas de uso y progreso.  
+
+---
+
+### Aggregates, Commands, Events, Queries (Resumen)
+
+- **User:**  
+  - **Commands:** `RegisterUser`, `LoginUser`  
+  - **Events:** `UserRegistered`, `LoginSucceeded` / `LoginFailed`  
+  - **Queries:** `GetUserProfile`
+
+- **Profile:**  
+  - **Commands:** `UpdateProfile`  
+  - **Events:** `ProfileUpdated`  
+  - **Queries:** `GetProfile`
+
+- **TestSession:**  
+  - **Commands:** `StartTest`, `SubmitAnswers`  
+  - **Events:** `TestSubmitted`, `StressScoreCalculated`  
+  - **Queries:** `GetLastScore`
+
+- **Plan/Activities:**  
+  - **Commands:** `AssignActivities`  
+  - **Events:** `ActivitiesAssigned`  
+  - **Queries:** `GetActivities`
+
+- **Psychologist:**  
+  - **Commands:** `CreateProProfile`, `RequestContact`  
+  - **Events:** `PsychologistPublished`, `PsychologistContactRequested`  
+  - **Queries:** `FindPsychologists`
+
+- **Subscription:**  
+  - **Commands:** `StartSubscription`, `ProcessPayment`  
+  - **Events:** `SubscriptionActivated`, `PaymentProcessed` / `PaymentFailed`  
+  - **Queries:** `GetSubscriptionStatus`
+
+- **Notification:**  
+  - **Commands:** `SendEmail`, `Push`  
+  - **Events:** `EmailSent`, `PushSent`  
+  - **Queries:** `GetDeliveryStatus`
+
+---
+
+### Flujo Principal (Happy Path)
+
+1. Usuario inicia test → registra respuestas → se calcula **score**.  
+2. Si el **score** supera el umbral → se asignan actividades y se notifica por email/push.  
+3. El usuario puede solicitar contacto con un psicólogo.  
+
 ---
 
 ### 4.6.2. Software Architecture Container Diagrams.
