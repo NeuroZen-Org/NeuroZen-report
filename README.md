@@ -2118,7 +2118,7 @@ En la primera iteración (Sprint 1), el equipo se enfocó en la **implementació
 
 **Evidencia en del avance en trello**
 
-![sprint_trello](assets/dm-images/sprint_trello.png)
+![sprint_trello](assets/md-images/sprint_trello.png)
 
 Este Sprint permitió entregar la **Landing Page inicial de NeuroZen**, proporcionando a los visitantes un primer acercamiento a las **funcionalidades**, **beneficios**, **testimonios** y **información general** de la aplicación.
 
