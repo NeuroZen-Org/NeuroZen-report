@@ -2105,6 +2105,23 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 
+En la primera iteración (Sprint 1), el equipo se enfocó en la **implementación de la Landing Page**, relacionada con el Epic **EP08 – Exploración como Visitante**.  
+
+#### Historias de Usuario Abordadas
+
+| ID   | Título                                               | Descripción                                                                                                                          | Estimación (Horas) | Asignado a | Estado |
+|------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------|--------|
+| US25 | Explorar funcionalidades de la app sin registro       | Como visitante, quiero explorar las funcionalidades principales sin crear cuenta, para conocer el valor de la aplicación.            | 6                  | Equipo     | Done   |
+| US26 | Visualizar landing page con beneficios y testimonios  | Como visitante, quiero ver información de beneficios y testimonios en la landing page, para entender la utilidad del producto.       | 7                  | Equipo     | Done   |
+| US27 | Visualizar información general desde la landing page  | Como visitante, quiero visualizar información general del producto en la landing page, para obtener una visión clara de lo que ofrece NeuroZen. | 5                  | Equipo     | Done   |
+
+
+**Evidencia en del avance en trello**
+
+![sprint_trello](assets/dm-images/sprint_trello.png)
+
+Este Sprint permitió entregar la **Landing Page inicial de NeuroZen**, proporcionando a los visitantes un primer acercamiento a las **funcionalidades**, **beneficios**, **testimonios** y **información general** de la aplicación.
+
 ---
 
 ### 5.2.1.3. Sprint Backlog n.
