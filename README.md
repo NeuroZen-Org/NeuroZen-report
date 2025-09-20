@@ -866,7 +866,18 @@ Empathy Mapping y As-Is Scenario Mapping.
 | **Thinking** | Se pregunta si su fatiga es visible para su equipo.             | Considera cómo los cambios institucionales afectan su nivel de estrés.   | Reflexiona sobre la relación entre sus horas de trabajo y su bienestar. | Evalúa qué recomendaciones son viables con su apretada agenda.             | Analiza qué técnicas funcionan mejor durante temporadas de alta presión. |
 | **Feeling**  | Se siente frustrado al reconocer signos físicos de agotamiento. | Experimenta preocupación al constatar altos niveles de estrés sostenido. | Siente determinación al identificar patrones problemáticos.             | Muestra optimismo al encontrar soluciones adaptadas a su rol de liderazgo. | Siente satisfacción cuando logra incorporar nuevos hábitos a su rutina.  |
 
-## 2.4. Ubiquitous Language.
+## 2.4. Big Picture Event Storming.
+
+En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
+
+### Big Picture Event Storming - Mapa General
+![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
+
+### Big Picture Event Storming - Leyenda de Colores
+![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
+
+
+## 2.5. Ubiquitous Language.
 
 Este glosario define los términos clave que usamos en el proyecto para mantener un lenguaje común entre el equipo de desarrollo y los expertos en salud mental.
 
@@ -889,15 +900,7 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
 | **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
 
-## 2.4. Big Picture Event Storming.
 
-En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
-
-### Big Picture Event Storming - Mapa General
-![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
-
-### Big Picture Event Storming - Leyenda de Colores
-![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
 
 
 # Capítulo III: Requirements Specification
