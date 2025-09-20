@@ -31,6 +31,15 @@
 
 ---
 
+## Registro de Versiones del Informe
+
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto.  
+
+
+## Project Report Collaboration Insights  
+
+
+
 # Contenido
 
 1. **[Capítulo I: Introducción](#1-capítulo-i-introducción)**  
