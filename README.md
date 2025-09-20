@@ -1316,6 +1316,47 @@ Los wireframes representan la estructura básica de las pantallas clave de la ap
 
 ### 4.4.2. Web Applications Mock-ups.
 
+Los mock-ups muestran la versión visual detallada de las pantallas, aplicando la identidad visual de NeuroZen (colores, tipografías y estilos inclusivos). Aquí se evidencian las decisiones finales de diseño.
+
+* **Wireframe – Login**
+<p align="center"><img src="assets/md-images/ainiciar-cuenta.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Register**
+<p align="center"><img src="assets/md-images/acrear-cuenta.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Landing Page**
+<p align="center"><img src="assets/md-images/alanding-page1.png" alt="Stress test mockup" width="500px" /></p>
+
+<p align="center"><img src="assets/md-images/alanding-page2.png" alt="Stress test mockup" width="500px" /></p>
+
+* **Wireframe – Test**
+<p align="center"><img src="assets/md-images/atest-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Menú**
+<p align="center"><img src="assets/md-images/amenu-principal.png" alt="Stress test mockup" width="600px" /></p>
+<p align="center"><img src="assets/md-images/aamenu-principal.png" alt="Stress test mockup" width="600px" /></p>
+
+* **Wireframe – Recommended Activity**
+<p align="center"><img src="assets/md-images/aactividades-recomendadas.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Professional Contact**
+<p align="center"><img src="assets/md-images/acontacto-profesional.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Profile**
+<p align="center"><img src="assets/md-images/aperfil-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Zen IA**
+<p align="center"><img src="assets/md-images/azen-ia.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Selected Activity**
+<p align="center"><img src="assets/md-images/aactividad-seleccionada.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Favorites**
+<p align="center"><img src="assets/md-images/afavoritos-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Planes**
+<p align="center"><img src="assets/md-images/aplanes-figma.png" alt="Stress test mockup" width="700px" /></p>
+
 ---
 
 ### 4.4.3. Web Applications User Flow Diagrams.
