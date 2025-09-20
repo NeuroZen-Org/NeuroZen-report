@@ -1424,6 +1424,58 @@ A continuación, presentamos los principales **User Goals** identificados y sus 
 
 ## 4.5. Web Applications Prototyping.
 
+# Introducción
+
+En esta sección se presentan los prototipos interactivos de la aplicación **NeuroZen**, diseñados tanto para desktop como para mobile web browser.  
+Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los **User Flow Diagrams** previamente definidos.
+
+---
+
+## Criterios de Diseño
+
+Los criterios principales que guiaron las decisiones de interacción fueron:
+
+- **Consistencia con la arquitectura de información:** se respetan los sistemas de organización, etiquetado, búsqueda y navegación definidos en la sección 4.2.
+- **Usabilidad e inclusión:** se priorizó un diseño simple, accesible y claro, de manera que los usuarios puedan completar sus objetivos (registro, login, realización del test de estrés, contacto con psicólogos) sin fricciones.
+- **Coherencia visual:** los prototipos mantienen el sistema de diseño propuesto en los mock-ups, con tipografía, colores y componentes reutilizables para garantizar uniformidad.
+
+---
+
+## Prototipo Desktop
+
+Los prototipos de escritorio muestran los siguientes flujos clave:
+
+- Registro de usuario.  
+- Login de usuario.  
+- Acceso al landing page con los beneficios y secciones informativas.  
+- Exploración de secciones de ejercicios y psicólogos.  
+
+**Screenshot de ejemplo (Desktop):**
+
+---
+
+## Prototipo Mobile
+
+Los prototipos móviles priorizan la navegación simplificada en pantallas pequeñas, asegurando la accesibilidad de todas las funciones principales:
+
+- Registro e inicio de sesión adaptados a mobile.  
+- Visualización compacta de los beneficios y ejercicios contra el estrés.  
+- Sección de psicólogos optimizada en tarjetas verticales.  
+- Navegación a través del menú hamburguesa.  
+
+**Screenshot de ejemplo (Mobile):**
+
+---
+
+## Conexión con los User Flow Diagrams
+
+Los prototipos presentados corresponden directamente a los **User Flows** definidos en la sección 4.4:
+
+- Registro de usuario.  
+- Inicio de sesión.  
+- Acceso al landing page.  
+- Contacto con psicólogos.  
+
 ---
 
 ## 4.6. Domain-Driven Software Architecture.
