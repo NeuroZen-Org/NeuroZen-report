@@ -1488,7 +1488,7 @@ La arquitectura de software orientada al dominio es un enfoque de diseño que se
 
 ---
 
-### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Design-Level EventStorming.
 
 ### Objetivo de la Sesión
 
@@ -1562,7 +1562,7 @@ y los cruces entre contextos (**suscripciones, notificaciones**).
 
 ---
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Context Level Diagram.
 
 **Descripción:**  
 El sistema **NeuroZen** está al centro y muestra su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).
@@ -1593,7 +1593,7 @@ El sistema **NeuroZen** está al centro y muestra su relación con actores human
 
 ---
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Container Level Diagram.
 
 **Descripción:**  
 Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores de **NeuroZen**.
@@ -1621,6 +1621,63 @@ Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores d
 - **Frontend ↔ Backend:** comunicación vía REST.  
 - **Backend →** Auth / Notifications / DB / Redis.  
 - **Backend →** pasarela de pagos, API de ejercicios y SMTP vía adaptadores.  
+
+## 4.6.4. Software Architecture Component Level Diagrams
+
+### 4.6.4.1. Backend API.
+
+### Diagrama
+
+<p align="center"><img src="assets/md-images/2diagram.png" alt="Stress test mockup" width="700px" /></p>
+
+## Componentes y Responsabilidades
+
+- **API Gateway / Router:** roteo de endpoints, validación básica.  
+- **Users Module:** registro, login, refresh token, gestión de roles.  
+- **Profiles Module:** CRUD de perfil y preferencias.  
+- **Test & Assessment Module:** inicio/guardado de respuestas, cálculo de score.  
+- **Recommendations Module:** asignación/listado de actividades, progreso.  
+- **Professionals Module:** directorio/búsqueda de psicólogos, solicitud de contacto.  
+- **Subscriptions & Payments Module:** planes, checkout, webhooks de pago.  
+- **Notifications Module:** cola y envío de correos/push.  
+- **Analytics Module:** métricas, reporting.  
+
+---
+
+## Interacciones Internas Relevantes
+
+- **Test & Assessment → Recommendations:** asignación en base al score.  
+- **Subscriptions & Payments → Notifications:** confirmaciones/recordatorios.  
+- **Recommendations → Notifications:** envío de plan.  
+
+---
+
+### 4.6.4.1. Frontend Web.
+
+### Diagrama
+
+<p align="center"><img src="assets/md-images/3diagram.png" alt="Stress test mockup" width="700px" /></p>
+
+---
+
+### Vistas / Componentes
+
+- **Header & Navigation:** navegación global (desktop/mobile).  
+- **Landing/Home:** beneficios, ejercicios destacados, psicólogos.  
+- **Auth (Login/Registro):** formularios, validaciones, almacenamiento de token.  
+- **Stress Test UI:** formulario del test, feedback de score.  
+- **Activities & Exercises:** plan sugerido, tarjetas de ejercicios.  
+- **Psychologists Directory:** ficha/listado de profesionales.  
+- **User Profile:** datos y preferencias.  
+- **UI Kit / Shared Components:** botones, inputs, tarjetas, modales, toasts.  
+
+---
+
+### Notas de Implementación
+
+- **Accesibilidad:** labels, foco visible, contraste AA/AAA.  
+- **Estado y persistencia ligera:** almacenamiento en **Storage** para token.  
+- **Rutas:** `/`, `/login`, `/registro`, `/test`, `/actividades`, `/psicologos`, `/perfil`. 
 
 ---
 
