@@ -1343,6 +1343,75 @@ La arquitectura de software orientada al dominio es un enfoque de diseño que se
 
 ### 4.7.2. Class Dictionary.
 
+A continuación se describe cada clase y sus atributos:
+
+**Clase: User**
+Representa a los usuarios de la aplicación
+
+| Atributo | Tipo de dato | Descripción                     |
+| -------- | ------------ | ------------------------------- |
+| id       | int          | Identificador único del usuario |
+| name     | string       | Nombre del usuario              |
+| email    | string       | Correo electrónico registrado   |
+| password | string       | Contraseña de acceso            |
+| role     | string       | Rol del usuario (user, admin)   |
+
+**Clase: Psychologist**
+Especialista que puede agendar sesiones con usuarios.
+
+| Atributo  | Tipo de dato | Descripción                       |
+| --------- | ------------ | --------------------------------- |
+| id        | int          | Identificador único del psicólogo |
+| name      | string       | Nombre completo                   |
+| specialty | string       | Área de especialidad              |
+| email     | string       | Correo electrónico                |
+| phone     | string       | Número de contacto                |
+
+**Clase: CheckIn**
+Registro de los niveles de estrés de los usuarios
+
+| Atributo | Tipo de dato | Descripción                                      |
+| -------- | ------------ | ------------------------------------------------ |
+| id       | int          | Identificador único del check-in                 |
+| userId   | int          | Referencia al usuario                            |
+| date     | DateTime     | Fecha y hora del check-in                        |
+| mood     | string       | Estado del usuario (Calm, Stressed, Overwhelmed) |
+| notes    | string       | Observaciones adicionales                        |
+
+**Clase: Plan**
+Planes personalizados de bienestar asignados a los usuarios
+
+| Atributo    | Tipo de dato | Descripción                         |
+| ----------- | ------------ | ----------------------------------- |
+| id          | int          | Identificador del plan              |
+| userId      | int          | Referencia al usuario               |
+| title       | string       | Nombre del plan                     |
+| description | string       | Detalles del plan                   |
+| duration    | int          | Duración en días                    |
+| status      | string       | Estado del plan (Active, Completed) |
+
+**Clase: Notification**
+Notificaciones enviadas a los usuarios para recordatorios o alertas
+
+| Atributo | Tipo de dato | Descripción                            |
+| -------- | ------------ | -------------------------------------- |
+| id       | int          | Identificador único de la notificación |
+| userId   | int          | Referencia al usuario                  |
+| message  | string       | Contenido de la notificación           |
+| sentAt   | DateTime     | Fecha y hora de envío                  |
+| read     | boolean      | Indica si fue leída                    |
+
+**Clase: Session**
+Registra citas agendadas con psicólogos
+
+| Atributo       | Tipo de dato | Descripción                                           |
+| -------------- | ------------ | ----------------------------------------------------- |
+| id             | int          | Identificador único de la sesión                      |
+| userId         | int          | Referencia al usuario                                 |
+| psychologistId | int          | Referencia al psicólogo                               |
+| scheduledAt    | DateTime     | Fecha y hora programada                               |
+| status         | string       | Estado de la sesión (Scheduled, Completed, Cancelled) |
+
 ---
 
 ## 4.8. Database Design.
