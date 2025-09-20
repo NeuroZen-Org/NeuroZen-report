@@ -59,16 +59,17 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2. [User Task Matrix](#232-user-task-matrix)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3. [User Journey Mapping](#233-user-journey-mapping)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.4. [Empathy Mapping](#234-empathy-mapping)  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)  
-   &nbsp;&nbsp;&nbsp;&nbsp;2.4. [Ubiquitous Language](#24-ubiquitous-language)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)
+   &nbsp;&nbsp;&nbsp;&nbsp;2.4. [Big Picture EventStorming](#24-ubiquitous-language)  
+   &nbsp;&nbsp;&nbsp;&nbsp;2.5. [Ubiquitous Language](#25-ubiquitous-language)
 
-3. **[Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)**  
+4. **[Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)**  
    &nbsp;&nbsp;&nbsp;&nbsp;3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.2. [User Stories](#32-user-stories)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.3. [Impact Mapping](#33-impact-mapping)  
    &nbsp;&nbsp;&nbsp;&nbsp;3.4. [Product Backlog](#34-product-backlog)
 
-4. **[Capítulo IV: Product Design](#4-capítulo-iv-product-design)**  
+5. **[Capítulo IV: Product Design](#4-capítulo-iv-product-design)**  
    &nbsp;&nbsp;&nbsp;&nbsp;4.1. [Style Guidelines](#41-style-guidelines)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.1. [General Style Guidelines](#411-general-style-guidelines)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2. [Web Style Guidelines](#412-web-style-guidelines)  
@@ -97,7 +98,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;4.8. [Database Design](#48-database-design)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8.1. [Database Diagram](#481-database-diagram)
 
-5. **[Capítulo V: Product Implementation, Validation & Deployment](#5-capítulo-v-product-implementation-validation--deployment)**  
+6. **[Capítulo V: Product Implementation, Validation & Deployment](#5-capítulo-v-product-implementation-validation--deployment)**  
    &nbsp;&nbsp;&nbsp;&nbsp;5.1. [Software Configuration Management](#51-software-configuration-management)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1.2. [Source Code Management](#512-source-code-management)  
@@ -119,13 +120,32 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
    &nbsp;&nbsp;&nbsp;&nbsp;5.4. [Video About-the-Product](#54-video-about-the-product)
 
-6. **[Conclusiones](#6-conclusiones)**  
+7. **[Conclusiones](#6-conclusiones)**  
    &nbsp;&nbsp;&nbsp;&nbsp;6.1. [Conclusiones](#61-conclusiones)  
    &nbsp;&nbsp;&nbsp;&nbsp;6.2. [Recomendaciones](#62-recomendaciones)
 
-7. **[Bibliografía](#7-bibliografía)**
+8. **[Bibliografía](#7-bibliografía)**
 
-8. **[Anexos](#8-anexos)**
+9. **[Anexos](#8-anexos)**
+
+---
+# Student Outcome
+
+El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**  
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
+
+---
+
+## Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
+
+| **Criterio específico** | **Acciones realizadas (TB1)** | **Conclusiones (TB1)** |
+|-------------------------|-------------------------------|-------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- *Sebastián De Las Casa*: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- *Eduardo Chacaliaza*: Explicó el apartado de **Solution Profile** durante la exposición.<br>- *Fabricio Quispe*: Presentó la problemática y segmentos objetivos.<br>- *Juan Meza*: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redacción de la **carátula** y parte de la descripción del startup.<br>- *Sebastián De Las Casa*: Contribuyó en el **índice de contenidos** y organización del documento.<br>- *Eduardo Chacaliaza*: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- *Fabricio Quispe*: Redactó los apartados de antecedentes y problemática.<br>- *Juan Meza*: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
+
 
 ---
 
@@ -677,7 +697,7 @@ Detalles de la entrevista:
 
 ● Duración: 8 minutos con 39 segundos
 
-[● Link: https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing](https://drive.google.com/file/d/1UglVUZqgommlzxa7QGvVOpFjeJ5BP8ta/view?usp=sharing)
+[● Link: https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing](https://drive.google.com/file/d/1qmh7C8VD0SDWj4DvPe7hUj3HFCdga7o5/view?usp=sharing) 
 
 Resumen de los puntos clave en la entrevista:
 
@@ -868,6 +888,17 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | **Cita**                           | Agendamiento de una sesión con un especialista, virtual o presencial.                                                          |
 | **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
 | **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
+
+## 2.4. Big Picture Event Storming.
+
+En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
+
+### Big Picture Event Storming - Mapa General
+![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
+
+### Big Picture Event Storming - Leyenda de Colores
+![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
+
 
 # Capítulo III: Requirements Specification
 
