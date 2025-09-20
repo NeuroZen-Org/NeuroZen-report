@@ -1452,6 +1452,8 @@ Los prototipos de escritorio muestran los siguientes flujos clave:
 
 **Screenshot de ejemplo (Desktop):**
 
+<p align="center"><img src="assets/md-images/laptop-inicio.png" alt="Stress test mockup" width="700px" /></p>
+
 ---
 
 ## Prototipo Mobile
@@ -1464,6 +1466,8 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 - Navegación a través del menú hamburguesa.  
 
 **Screenshot de ejemplo (Mobile):**
+
+<p align="center"><img src="assets/md-images/mobile-landing.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
