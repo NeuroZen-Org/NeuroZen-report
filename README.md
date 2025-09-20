@@ -1467,7 +1467,7 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 
 **Screenshot de ejemplo (Mobile):**
 
-<p align="center"><img src="assets/md-images/mobile-landing.png" alt="Stress test mockup" width="700px" /></p>
+<p align="center"><img src="assets/md-images/mobile-landing.png" alt="Stress test mockup" width="500px" /></p>
 
 ---
 
@@ -1571,7 +1571,7 @@ El sistema **NeuroZen** está al centro y muestra su relación con actores human
 
 ### Diagrama
 
-<p align="center"><img src="assets/md-images/primer-diagrama.png" alt="Stress test mockup" width="1200px" /></p>
+<p align="center"><img src="assets/md-images/primer-diagrama.png" alt="Stress test mockup" width="700px" /></p>
 
 ---
 
@@ -1594,6 +1594,33 @@ El sistema **NeuroZen** está al centro y muestra su relación con actores human
 ---
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
+**Descripción:**  
+Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores de **NeuroZen**.
+
+**Diagrama**  
+
+<p align="center"><img src="assets/md-images/1diagram.png" alt="Stress test mockup" width="700px" /></p>
+
+---
+
+### Contenedores y Decisiones Tecnológicas
+
+- **Web Frontend (HTML/CSS/JS):** interfaz para landing, login/registro, test, actividades y directorio de psicólogos.  
+- **Backend API (Node.js/Express):** lógica de dominio; expone endpoints REST.  
+- **MongoDB:** persistencia (usuarios, sesiones de test, actividades, psicólogos, suscripciones).  
+- **Auth Service (JWT/OAuth2):** autenticación/autorización.  
+- **Notifications (Email/Push):** envíos transaccionales.  
+- **Redis (opcional):** cache para sesiones/resultados.  
+- **Integraciones:** pasarela de pagos, API de ejercicios, SMTP/Provider.  
+
+---
+
+### Comunicación
+
+- **Frontend ↔ Backend:** comunicación vía REST.  
+- **Backend →** Auth / Notifications / DB / Redis.  
+- **Backend →** pasarela de pagos, API de ejercicios y SMTP vía adaptadores.  
 
 ---
 
