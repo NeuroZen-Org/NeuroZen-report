@@ -1312,6 +1312,10 @@ Los wireframes representan la estructura básica de las pantallas clave de la ap
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+Los wireflows ilustran cómo se enlazan los wireframes a través de interacciones típicas de los usuarios (User Goals). En este caso, el flujo refleja el proceso de acceso al landing page → registro → inicio de sesión → acceso al menú → entrada a las funcionalidades de NeuroZen.
+
+<p align="center"><img src="assets/md-images/diagrama-figma.png" alt="Stress test mockup" width="700px" /></p>
+
 ---
 
 ### 4.4.2. Web Applications Mock-ups.
