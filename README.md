@@ -2102,3 +2102,45 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 ![team_collaboration_insights](assets/md-images/team_collaboration_insights_during_sprint.jpg)
 
 ---
+
+# 6. Conclusiones
+
+## 6.1. Conclusiones
+
+## 6.2. Recomendaciones
+
+
+# 7. Bibliografía
+
+### Referencias
+
+Brown, T. (2009). *Change by design: How design thinking creates new alternatives for business and society*. Harper Business. https://www.harpercollins.com/products/change-by-design-tim-brown
+
+Cockburn, A. (2001). *Writing effective use cases*. Addison-Wesley. https://www.informit.com/store/writing-effective-use-cases-9780201702255
+
+Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book246896
+
+Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley. https://www.informit.com/store/domain-driven-design-tackling-complexity-in-the-heart-9780321125217
+
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design patterns: Elements of reusable object-oriented software*. Addison-Wesley. https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610
+
+Goodman, E., Kuniavsky, M., & Moed, A. (2012). *Observing the user experience: A practitioner’s guide to user research* (2nd ed.). Morgan Kaufmann. https://www.elsevier.com/books/observing-the-user-experience/goodman/978-0-12-384869-7
+
+Krug, S. (2014). *Don’t make me think, revisited: A common sense approach to web usability* (3rd ed.). New Riders. https://www.peachpit.com/store/dont-make-me-think-revisited-a-common-sense-approach-9780321965516
+
+Larman, C. (2004). *Applying UML and patterns: An introduction to object-oriented analysis and design and iterative development* (3rd ed.). Prentice Hall. https://www.informit.com/store/applying-uml-and-patterns-an-introduction-to-object-9780131489066
+
+Newman, S. (2015). *Building microservices: Designing fine-grained systems*. O’Reilly Media. https://www.oreilly.com/library/view/building-microservices/9781491950340/
+
+Patton, M. Q. (2015). *Qualitative research & evaluation methods: Integrating theory and practice* (4th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/qualitative-research-evaluation-methods/book232962
+
+Preece, J., Rogers, Y., & Sharp, H. (2019). *Interaction design: Beyond human-computer interaction* (5th ed.). Wiley. https://www.wiley.com/en-us/Interaction+Design%3A+Beyond+Human+Computer+Interaction%2C+5th+Edition-p-9781119547259
+
+Richardson, C. (2018). *Microservices patterns: With examples in Java*. Manning. https://www.manning.com/books/microservices-patterns
+
+Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). *This is service design doing: Applying service design thinking in the real world*. O’Reilly Media. https://www.thisisservicedesigndoing.com/
+
+Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150
+
+
+# 8. Anexos
