@@ -35,6 +35,16 @@
 
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto.  
 
+| Versión | Fecha   | Autor                           | Descripción de modificación                                                                 |
+|-------------|-------------|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1.0         | 2025-09-10  | Manuel Castro                       | Creación inicial del documento: carátula, índice preliminar y Student Outcome (TB1).            |
+| 1.1         | 2025-09-12  | Diego Requena            | Se añadió Introducción: Startup Profile y Solution Profile (antecedentes, problemática, Lean UX).|
+| 1.2         | 2025-09-14  | Santiago Solis                  | Se incorporó Segmentos Objetivos y análisis competitivo de competidores (Calm, Wysa, Equoo).   |
+| 1.3         | 2025-09-16  | Miguel Vila                    | Se agregó diseño y registro de entrevistas (segmentos 1 y 2) con sus respectivos resúmenes.    |
+| 1.4         | 2025-09-17  | Manuel Castro                   | Inclusión de Needfinding: User Personas, Journey Mapping y Empathy Map.                        |
+| 1.5         | 2025-09-18  | Equipo completo                     | Desarrollo de User Stories con Epics, criterios de aceptación y armado del Product Backlog.    |
+| 1.6         | 2025-09-19  | Juan Angulo & Diego Requena  | Se documentó el Big Picture Event Storming con capturas y explicación del proceso.             |
+| 1.7         | 2025-09-20  | Miguel Vila & Santiago Solis | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.|
 
 ## Project Report Collaboration Insights  
 
