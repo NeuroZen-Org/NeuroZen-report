@@ -2286,7 +2286,48 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ## 6.1. Conclusiones
 
+1. **Relevancia social**  
+   NeuroZen responde a una necesidad real: el cuidado de la salud mental en entornos digitales, cada vez más demandado en la sociedad actual.  
+
+2. **Enfoque integral**  
+   Combina autoevaluación (tests) con acceso a especialistas, siendo más completo que soluciones que solo abordan una de estas partes.  
+
+3. **Seguridad y confianza**  
+   La inclusión de autenticación en dos pasos transmite seriedad y compromiso con la protección de los datos personales.  
+
+4. **Escalabilidad**  
+   El proyecto tiene el potencial de evolucionar hacia un ecosistema más robusto con nuevas funcionalidades, manteniendo su base sencilla en HTML y CSS.  
+
+5. **Potencial de impacto**  
+   NeuroZen puede crecer como una plataforma de apoyo integral, integrando tecnologías emergentes como inteligencia artificial, chatbots y seguimiento personalizado.  
+
+---
+
 ## 6.2. Recomendaciones
+
+1. **Mejora de la experiencia de usuario (UX/UI)**  
+   - Implementar un diseño minimalista y calmante (paleta de colores suaves, tipografía clara).  
+   - Incluir dashboards visuales para mostrar la evolución del usuario en sus niveles de estrés.  
+
+2. **Nuevas funcionalidades sugeridas**  
+   - Chatbot de acompañamiento con ejercicios de relajación y consejos inmediatos.  
+   - Gamificación: logros y recompensas por completar actividades de autocuidado.  
+   - Agenda virtual para agendar citas con psicólogos desde la plataforma.  
+
+3. **Escalabilidad técnica**  
+   - Evolucionar a frameworks como React, Vue o Angular para mayor dinamismo.  
+   - Incorporar bases de datos seguras (ej. MongoDB, PostgreSQL) para gestión de perfiles, tests y citas.  
+
+4. **Alianzas estratégicas**  
+   - Colaborar con psicólogos colegiados para dar mayor respaldo profesional.  
+   - Establecer convenios con universidades o centros de bienestar para ganar credibilidad.  
+
+5. **Sostenibilidad y monetización**  
+   - Ofrecer una versión gratuita con funciones básicas y una premium con servicios avanzados (consultas online, planes personalizados).  
+   - Incluir publicidad ética y no invasiva relacionada con bienestar.  
+
+---
+
 
 
 # 7. Bibliografía
@@ -2323,3 +2364,26 @@ Yin, R. K. (2018). *Case study research and applications: Design and methods* (6
 
 
 # 8. Anexos
+
+## Anexo A. Formato para Evaluación de User Experience según Heurísticas  
+
+Durante la validación del prototipo se aplicaron heurísticas de usabilidad, arquitectura de información y diseño inclusivo.  
+
+**Tareas evaluadas:**  
+1. Registro de un usuario nuevo.  
+2. Inicio de sesión y recuperación de contraseña.  
+3. Realización de test de estrés.  
+4. Visualización de psicólogos disponibles.  
+5. Acceso a recomendaciones y actividades de relajación.  
+6. Uso de agenda para contacto con psicólogos.  
+7. Realización de pagos de suscripción. 
+
+## Anexo B. Integrantes del Equipo 
+
+| Foto | Nombres y Apellidos | Carrera | Descripción |
+|------|---------------------|---------|-------------|
+| ![Joao](assets/md-images/members/joao-castro.jpeg) | Manuel Fernando Joao Castro Picón | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta entrenar calistenia, escuchar música y jugar fútbol. Me considero responsable, adaptable al trabajo en equipo y con metas claras para ser un gran profesional. |
+| ![Valentino](assets/md-images/members/trevor.jpeg) | Santiago Valentino Solis Chang | Ingeniería de Software | Tengo 20 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre disfruto jugar videojuegos, practicar tenis y aprender sobre programación web. Soy responsable, comprometido y capaz de trabajar en equipo. |
+| ![Miguel](assets/md-images/members/miguel-vila.jpeg) | Miguel Angel Vila Guillen | Ingeniería de Software | Tengo 19 años y estudio el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Me gusta jugar videojuegos, tocar la guitarra y el fútbol. Me considero capaz de trabajar en equipo y aspiro a ser un profesional competente. |
+| ![Diego](assets/md-images/members/diego-requena.jpeg) | Diego Gabriel Requena Gutiérrez | Ingeniería de Software | Tengo 19 años y curso el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida con mis objetivos, busco optimizar mi rendimiento y mantener un equilibrio entre la excelencia y una vida saludable. |
+| ![JuanCarlos](assets/md-images/members/juan-angulo.jpeg) | Juan Carlos Abud Angulo | Ingeniería de Software | Soy responsable y comprometido con lo que hago. Estudio Ingeniería de Software, una carrera que me apasiona porque me permite desarrollar soluciones tecnológicas y aprender constantemente. Me considero disciplinado, fresco y entusiasta. |
