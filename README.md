@@ -1702,7 +1702,7 @@ Además, se indican las **multiplicidades y asociaciones** entre clases, garanti
 
 ### 4.7.1. Class Diagrams.
 
-![class_diagram](assets/class_diagram_en.png)
+![class_diagram](assets/md-images/class_diagram_en.png)
 
 ---
 
@@ -1785,7 +1785,7 @@ Registra citas agendadas con psicólogos
 
 ### 4.8.1. Database Diagram.
 
-![database_diagram](assets/database_diagram_en.png)
+![database_diagram](assets/md-images/database_diagram_en.png)
 
 ---
 
