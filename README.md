@@ -1268,6 +1268,46 @@ El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) busca of
 
 ### 4.4.1. Web Applications Wireframes.
 
+Los wireframes representan la estructura básica de las pantallas clave de la aplicación web, evidenciando la aplicación de principios de simplicidad, consistencia visual y accesibilidad.
+
+* **Wireframe – Login**
+<p align="center"><img src="assets/md-images/iniciar-cuenta.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Register**
+<p align="center"><img src="assets/md-images/crear-cuenta.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Landing Page**
+<p align="center"><img src="assets/md-images/landing-page1.png" alt="Stress test mockup" width="500px" /></p>
+
+<p align="center"><img src="assets/md-images/landing-page2.png" alt="Stress test mockup" width="500px" /></p>
+
+* **Wireframe – Test**
+<p align="center"><img src="assets/md-images/test-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Menú**
+<p align="center"><img src="assets/md-images/menu-principal.png" alt="Stress test mockup" width="500px" /></p>
+
+* **Wireframe – Recommended Activity**
+<p align="center"><img src="assets/md-images/actividades-recomendadas.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Professional Contact**
+<p align="center"><img src="assets/md-images/contacto-profesional.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Profile**
+<p align="center"><img src="assets/md-images/perfil-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Zen IA**
+<p align="center"><img src="assets/md-images/zen-ia.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Selected Activity**
+<p align="center"><img src="assets/md-images/actividad-seleccionada.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Favorites**
+<p align="center"><img src="assets/md-images/favoritos-figma.png" alt="Stress test mockup" width="700px" /></p>
+
+* **Wireframe – Planes**
+<p align="center"><img src="assets/md-images/planes-figma.png" alt="Stress test mockup" width="700px" /></p>
+
 ---
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
