@@ -1339,6 +1339,8 @@ La arquitectura de software orientada al dominio es un enfoque de diseño que se
 
 ### 4.7.1. Class Diagrams.
 
+![class_diagram](assets/class_diagram_en.jpg)
+
 ---
 
 ### 4.7.2. Class Dictionary.
