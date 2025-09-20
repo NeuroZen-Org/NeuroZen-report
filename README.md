@@ -1789,6 +1789,10 @@ Registra citas agendadas con psicólogos
 
 ---
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+---
+
 ## 5.1. Software Configuration Management.
 
 ---
@@ -1834,6 +1838,24 @@ Registra citas agendadas con psicólogos
 ---
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup1.png" alt="Home page mockup" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup2.png" alt="Sign Up mockup" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup3.png" alt="Log In mockup" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/landing/mockup/mockup4.png" alt="Stress test mockup" width="700px" /></p>
+</div>
 
 ---
 
