@@ -1420,6 +1420,8 @@ Registra citas agendadas con psicólogos
 
 ### 4.8.1. Database Diagram.
 
+![database_diagram](assets/database_diagram_en.jpg)
+
 ---
 
 ## 5.1. Software Configuration Management.
