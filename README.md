@@ -1683,6 +1683,12 @@ Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores d
 
 ## 4.7. Software Object-Oriented Design.
 
+En esta sección se muestran y describen los **diagramas de clases** que detallan la implementación de los componentes en cada *bounded context*.  
+
+La propuesta incluye las **clases, interfaces y enumeraciones**, junto con sus relaciones.  
+Se representan los **atributos, métodos y niveles de visibilidad** (public, private, protected).  
+Además, se indican las **multiplicidades y asociaciones** entre clases, garantizando que estén alineadas con los *bounded contexts* definidos anteriormente.  
+
 ---
 
 ### 4.7.1. Class Diagrams.
