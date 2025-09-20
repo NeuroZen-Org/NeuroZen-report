@@ -1839,6 +1839,8 @@ Registra citas agendadas con psicólogos
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
 ---
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
