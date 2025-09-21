@@ -48,6 +48,36 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## Project Report Collaboration Insights
 
+El equipo ha trabajado de manera colaborativa en el repositorio de GitHub, registrando avances constantes en la construcción del informe.
+Repositorio del informe: [](https://github.com/NeuroZen-Org/NeuroZen-report)
+
+A continuación, se presentan las evidencias de participación y colaboración de los integrantes:
+
+- Cada integrante del grupo realizó commits, modificaciones y carga de archivos en distintas secciones del informe.
+- Se refleja la división de tareas entre redacción, correcciones de estilo, incorporación de imágenes y ajustes técnicos en Markdown.
+- Todos los miembros participaron en mayor o menor medida, garantizando que el documento evolucionara de forma colaborativa y transparente.
+- La evidencia gráfica incluye la vista de contribuciones, así como el historial de actividad donde se observa el detalle de commits y cambios en el repositorio.
+
+### Contribuciones por integrante
+
+<div>
+  <p align="center"><img src="assets/md-images/insights/commits-over-time.png" alt="Contributions per member" width="700px" /></p>
+</div>
+
+En esta vista se observa la cantidad de commits realizados, junto con el balance de líneas añadidas y eliminadas.
+
+### Historial de actividad del repositorio
+
+<div>
+  <p align="center"><img src="assets/md-images/insights/record-1.png" alt="Record N°1" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/insights/record-2.png" alt="Record N°2" width="700px" /></p>
+</div>
+
+En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaboración: participación activa de todos los integrantes, registro claro de los aportes, y una evolución continua y transparente del informe del proyecto.
+
 # Contenido
 
 1. **[Capítulo I: Introducción](#1-capítulo-i-introducción)**  
