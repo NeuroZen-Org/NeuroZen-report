@@ -49,7 +49,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ## Project Report Collaboration Insights
 
 El equipo ha trabajado de manera colaborativa en el repositorio de GitHub, registrando avances constantes en la construcción del informe.
-Repositorio del informe: [](https://github.com/NeuroZen-Org/NeuroZen-report)
+Repositorio del informe: [https://github.com/NeuroZen-Org/NeuroZen-report](https://github.com/NeuroZen-Org/NeuroZen-report)
 
 A continuación, se presentan las evidencias de participación y colaboración de los integrantes:
 
@@ -1280,6 +1280,7 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
   <p align="center"><img src="assets/md-images/landing/wireframe/wireframe4.png" alt="Stress test wireframe" width="700px" /></p>
 </div>
 
+
 ---
 
 ### 4.3.2. Landing Page Mock-up.
@@ -1301,6 +1302,10 @@ Un mockup es una representación visual de un producto que muestra cómo lucirá
 <div>
   <p align="center"><img src="assets/md-images/landing/mockup/mockup4.png" alt="Stress test mockup" width="700px" /></p>
 </div>
+
+Nuestro Landing Page:
+
+[● Link: https://neurozen-org.github.io/NeuroZen-landing](https://neurozen-org.github.io/NeuroZen-landing)
 
 ---
 
@@ -2056,7 +2061,7 @@ Son una convención para nombrar mensajes de commit en Git de forma estructurada
 
 Como se mencionó previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página.
 
-Para el desarrollo del Landing Page de Mindora se han usado las siguientes herramientas:
+Para el desarrollo del Landing Page de NeuroZen se han usado las siguientes herramientas:
 
 - HTML: lenguaje con el cual está estructurado nuestro landing page.
 
@@ -2281,7 +2286,7 @@ Primero, se mostrarán los commits más importantes para el Reporte, los cuales 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+En esta entrega, el equipo de desarrolladores de NeuroZen ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 <div>
   <p align="center"><img src="assets/md-images/landing/mockup/mockup1.png" alt="Home page mockup" width="700px" /></p>
@@ -2298,6 +2303,10 @@ En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxit
 <div>
   <p align="center"><img src="assets/md-images/landing/mockup/mockup4.png" alt="Stress test mockup" width="700px" /></p>
 </div>
+
+Nuestro Landing Page:
+
+[● Link: https://neurozen-org.github.io/NeuroZen-landing](https://neurozen-org.github.io/NeuroZen-landing)
 
 ---
 
