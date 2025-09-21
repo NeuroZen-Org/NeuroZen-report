@@ -1280,9 +1280,6 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
   <p align="center"><img src="assets/md-images/landing/wireframe/wireframe4.png" alt="Stress test wireframe" width="700px" /></p>
 </div>
 
-Nuestro Landing Page:
-
-[● Link: https://neurozen-org.github.io/NeuroZen-landing](https://neurozen-org.github.io/NeuroZen-landing)
 
 ---
 
@@ -1305,6 +1302,10 @@ Un mockup es una representación visual de un producto que muestra cómo lucirá
 <div>
   <p align="center"><img src="assets/md-images/landing/mockup/mockup4.png" alt="Stress test mockup" width="700px" /></p>
 </div>
+
+Nuestro Landing Page:
+
+[● Link: https://neurozen-org.github.io/NeuroZen-landing](https://neurozen-org.github.io/NeuroZen-landing)
 
 ---
 
