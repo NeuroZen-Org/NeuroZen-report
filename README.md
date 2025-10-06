@@ -1082,7 +1082,7 @@ Impact Mapping - Segmento 2
 | 2         | US02          | Configurar perfil biométrico               | 5            |
 | 3         | US03          | Completar cuestionario inicial de salud    | 3            |
 | 4         | US04          | Realizar test de autoevaluación de estrés  | 5            |
-| 5         | US05          | Análisis biométrico de señales de estrés   | 8            |
+| 5         | US05          | Análisis biométrico de señales de estrés   | 5            |
 | 6         | US06          | Registro de síntomas físicos               | 3            |
 | 7         | US07          | Recibir recomendaciones personalizadas     | 5            |
 | 8         | US08          | Realizar ejercicios de respiración guiados | 3            |
