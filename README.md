@@ -731,6 +731,28 @@ necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas r
 accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos
 efectivos para "apagar" su mente al finalizar la jornada.
 
+Entrevista N°5
+
+● Nombre: Jose Feliciano
+
+● Sexo: Hombre
+
+● Edad: 56 años
+
+● Estado Civil: Casado
+
+● Labor: Trabajador independiente en Software.
+
+Detalles de la entrevista:
+
+● Duración: 2 minutos con 50 segundos
+
+[● Link:https://drive.google.com/file/d/1x6wdR-u7jdTX1J-8nMbbKf8xzeWVYhVH/view](https://drive.google.com/file/d/1x6wdR-u7jdTX1J-8nMbbKf8xzeWVYhVH/view)
+
+Resumen de los puntos clave en la entrevista:
+
+La entrevista con José Feliciano, un trabajador independiente en software de 56 años, muestra las dificultades de mantener equilibrio entre la vida laboral y personal cuando se trabaja por cuenta propia. Su rutina varía constantemente, sin horarios fijos, lo que le genera complicaciones para desconectarse del trabajo. José comenta que su celular y laptop son herramientas esenciales pero también fuentes de distracción y presión constante. Entre los principales factores de estrés menciona los plazos ajustados, los cambios imprevistos y la falta de pausas reales durante el día. Describe su nivel de estrés como medio, con aumentos en épocas de alta carga laboral. Este estilo de trabajo flexible le otorga libertad, pero también incrementa su dificultad para descansar y cuidar su salud, notando síntomas como dolores de cabeza y cansancio. Para manejar el estrés recurre a caminatas, música y pausas cortas, además de apoyarse en herramientas digitales como Google Calendar y Notion. Considera que los mejores momentos para relajarse son las noches o las mañanas antes de empezar la jornada.
+
 ## 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
