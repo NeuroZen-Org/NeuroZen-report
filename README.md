@@ -2365,111 +2365,147 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ### 5.2.2.1. Sprint Planning 2
 
-El segundo sprint se enfocó en el desarrollo de nuevas funcionalidades interactivas del sistema **MinDora**, especialmente el **Dashboard de Estrés**, el **módulo de Recomendaciones y Gestión del Estrés**, y la **Conexión con Psicólogos**.  
-Durante esta iteración se integraron los resultados del test de estrés en un panel de seguimiento y se añadieron las funciones de búsqueda de psicólogos y programación de citas.
+A continuación, se presenta el Sprint Planning 2, en el que se documentan las evidencias de la planificación y la actualización de la Landing Page. Asimismo, se muestran los avances del proyecto y los aprendizajes obtenidos del trabajo colaborativo del equipo mediante GitHub.
 
-| **Sprint #** | **Sprint 2** |
-|---------------|--------------|
-| **Date** | 2025-10-08 |
-| **Time** | 8:00 PM |
-| **Location** | Microsoft Teams (Reunión virtual) |
-| **Prepared By** | Manuel Fernando Joao Castro Picón |
-| **Attendees (to planning meeting)** | Juan José Meza Huanacune / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón |
-| **Sprint 1 – Review Summary** | En el Sprint 1 se completó la Landing Page con los módulos de registro, ingreso, test de estrés y suscripción. Se logró un sitio totalmente funcional y desplegado en GitHub Pages. |
-| **Sprint 1 – Retrospective Summary** | El equipo concluyó que la comunicación fue eficiente, aunque se propuso mejorar la planificación de tareas y la revisión de commits. Se acordó implementar un control más estricto de Trello y reuniones de seguimiento semanales. |
-| **Sprint Goal & User Stories** |  |
-| **Sprint 2 Goal** | **Our focus is on** implementing the *Stress Dashboard* and the *Psychologist Connection Module*, providing users with personalized recommendations and tools to monitor their stress and connect with specialists.<br>**We believe it delivers** added value through emotional tracking, goal visualization, and professional support.<br>**This will be confirmed when** users can view their stress progress, receive recommendations, and request appointments through the module.<br><br>**Traducción:** Nuestro enfoque está en implementar el *Dashboard de Estrés* y el *Módulo de Conexión con Psicólogos*, ofreciendo a los usuarios recomendaciones personalizadas y herramientas para monitorear su estrés y conectarse con especialistas. Creemos que esto entrega un valor adicional al permitir el seguimiento emocional, la visualización de objetivos y el acceso a soporte profesional. Esto se confirmará cuando los usuarios puedan visualizar su progreso, recibir recomendaciones y solicitar citas correctamente desde la aplicación. |
-| **Sprint 2 Velocity** | Se trabajaron **7 historias de usuario**, con un total de **30 Story Points.** |
-| **Sum of Story Points** | 30 |
-
----
+| Campo                                  | Descripción                                                                                                                                                                                                                                                                          |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint #**                           | Sprint 2                                                                                                                                                                                                                                                                             |
+| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                      |
+| **Date**                               | 2025-09-29                                                                                                                                                                                                                                                                           |
+| **Time**                               | 03:00 PM (GMT -5)                                                                                                                                                                                                                                                                    |
+| **Location**                           | Modalidad remota por Discord                                                                                                                                                                                                                                                         |
+| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                                                                                                                      |
+| **Attendees (to planning meeting)**    | Solis Chang Santiago Valentino / Abud Angulo Juan Carlos / Manuel Fernando, Joao Castro Picón / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                                                                                                             |
+| **Sprint 1 – 2 Review Summary**        | En el primer sprint, solo mostramos la landing page y pocos apartados.                                                                                                                                                                                                                                           |
+| **Sprint 1 – 2 Retrospective Summary** | En esta segunda etapa del proyecto se identificó la necesidad de reforzar conocimientos técnicos. Además, se actualizó el diseño del Landing Page, se discutió el contenido textual a incluir en el frontend, se decidió internacionalizar el frontend y agregar contenido. |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                      |
+| **Sprint 2 Goal**                      | Actualizar el frontend del proyecto, internacionalizarlo y desarrollar las vistas de las secciones con las funciones que ofrece nuestro proyecto.                                                                                                                                                                          |
+| **Sprint 2 Velocity**                  | 6                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                                    |
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
-En este sprint se mantuvo la misma dinámica de liderazgo colaborativo, asignando responsabilidades específicas a cada integrante según los nuevos componentes técnicos desarrollados.
+En la segunda iteración (Sprint 2), el equipo se enfocó en la **Desarrollo del frontend con Vue**, relacionada con el Epic **EP01 – Registro y Gestión de Perfil de Usuario** y agregar los apartados de las funciones que ofrece la aplicación.
 
-| **Miembro del equipo** | **GitHub Username** | **Frontend (Dashboard UI)** | **Backend (Data Simulation)** | **UX/UI Validation** | **Integrations (Psychologists Module)** | **Testing & QA** |
-|--------------------------|---------------------|------------------------------|-------------------------------|----------------------|------------------------------------------|------------------|
-| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | – | C | C |
-| Sebastián De Las Casas Latour | @U202213553 | L | C | C | – | C |
-| Eduardo Fabián Chacaliaza Minaya | @dedumcz | L | – | C | C | C |
-| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | – | L | C | C |
-| Juan José Meza Huanacune | @JuanMH1250 | C | L | – | L | L |
+#### Historias de Usuario Abordadas de acuerdo a la EP01
 
----
+| ID   | Título                     | Descripción                                                                   | Estimación (Horas) | Asignado a | Estado |
+| ---- | -------------------------- | ----------------------------------------------------------------------------- | ------------------ | ---------- | ------ |
+| US01 | Registro de usuario        | Como usuario, quiero registrarme en la plataforma para crear mi cuenta.       | 6                  | Equipo     | Done   |
+| US02 | Inicio de sesión seguro    | Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.  | 7                  | Equipo     | Done   |
+| US03 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña para poder acceder si la olvido. | 5                  | Equipo     | Done   |
+
+![trello_2](imgs/trello_2.jpg)
 
 ### 5.2.2.3. Sprint Backlog 2 (Actualizado)
 
-El *Sprint Backlog 2* abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental.  
-Corresponde a las épicas **EP03 (Recomendaciones y Gestión del Estrés)**, **EP04 (Seguimiento y Análisis del Progreso)** y **EP05 (Conexión con Especialistas en Salud Mental)**.  
+| Autor                         | Fecha      | Commit Message                                                                                     | Commit ID |
+| :---------------------------- | :--------- | :------------------------------------------------------------------------------------------------- | :-------- |
+| Solis Chang Santiago Valentino | 03/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
+| Requena Gutiérrez Diego        | 02/10/2025 | feat: Add internationalization support for Breathing Session component                             | 760e3ec   |
+| Joao Castro Picón              | 03/10/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
+| Abud Angulo Juan Carlos        | 05/10/2025 | feat: add login and register                                                                       | b324762   |
+| Vila Guillen Miguel            | 06/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
+| Solis Chang Santiago Valentino | 05/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
+| Joao Castro Picón              | 01/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
+| Abud Angulo Juan Carlos        | 03/10/2025 | feat: Implement landing page layout with header and footer components                              | 224fbf0   |
+| Manuel Fernando                | 02/10/2025 | feat: Add internationalization support for resource library content                                | d98e0e8   |
+| Vila Guillen Miguel            | 02/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
+| Joao Castro Picón              | 02/10/2025 | feat: add fake api with db.json                                                                    | 760e3ec   |
+| Requena Gutiérrez Diego        | 29/09/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
+| Solis Chang Santiago Valentino | 04/10/2025 | feat: add login and register                                                                       | b324762   |
+| Manuel Fernando                | 29/09/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
+| Abud Angulo Juan Carlos        | 06/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
+| Vila Guillen Miguel            | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
+| Joao Castro Picón              | 03/10/2025 | feat: Implement landing page layout with header and footer components                              | 224fbf0   |
+| Requena Gutiérrez Diego        | 04/10/2025 | fix: implement internationalization for category selection and success/error messages in RegisterTriggerComponent | d98e0e8   |
+| Solis Chang Santiago Valentino | 01/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
+| Abud Angulo Juan Carlos        | 05/10/2025 | fix: correct formatting in resource library and add week labels in days                            | 760e3ec   |
+| Manuel Fernando                | 04/10/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
+| Vila Guillen Miguel            | 03/10/2025 | refactor: reorder imports in DashboardComponent.vue for clarity                                   | b324762   |
+| Joao Castro Picón              | 04/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
+| Requena Gutiérrez Diego        | 04/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
+| Manuel Fernando                | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
 
-Durante este sprint, se integraron las nuevas historias de usuario **US08 (Ejercicios guiados de respiración)**, **US13 (Búsqueda de psicólogos especializados)** y **US14 (Agendamiento de citas con psicólogos)**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
+**Evidencia de los commits del report**
 
-| **Sprint #** | **Sprint 2** |
-|---------------|--------------|
-| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US07** | Recibir recomendaciones personalizadas | Implementar lógica de recomendaciones dinámicas en el Dashboard según los resultados del test. | 5 | Sebastián / Eduardo | Done |
-| **US08** | Realizar ejercicios de respiración guiados | Desarrollar un modal con el ejercicio “Box Breathing 4-4-4-4”, incluyendo inicio, pausa, reinicio y persistencia local. | 4 | Manuel / Sebastián | Done |
-| **US09** | Programar pausas activas laborales | Agregar función de recordatorios de pausas dentro del Dashboard, con registro temporal en localStorage. | 3 | Fabricio / Juan | In-Process |
-| **US10** | Visualizar dashboard personal de estrés | Crear el Dashboard con métricas visuales y resumen del progreso emocional del usuario. | 6 | Sebastián / Eduardo | Done |
-| **US11** | Generar informes de progreso | Simular reportes de estrés y evolución en base a datos del test, con visualización en paneles. | 4 | Manuel / Eduardo | To-Review |
-| **US13** | Buscar psicólogos especializados | Implementar catálogo dinámico con tarjetas de especialistas, búsqueda por especialidad y filtros interactivos. | 4 | Manuel / Sebastián | Done |
-| **US14** | Agendar cita con psicólogo | Crear un modal de reserva con selección de fecha/hora, validación de conflictos y almacenamiento local. | 4 | Juan / Fabricio | In-Process |
-
----
+![commits3](imgs/commits_3.jpg)
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
-Durante este sprint, el equipo desarrolló los componentes de seguimiento y recomendación de estrés, además del módulo de conexión con especialistas.  
-Los siguientes commits reflejan los avances implementados en el repositorio principal.
+Las evidencias de desarrollo y pruebas incluyen:
 
-| **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
-|------------------|------------------|----------------|--------------------|--------------------------|----------------|
-| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): implemented stress dashboard with recommendations | Se desarrolló el Dashboard con gráficos interactivos y sección de recomendaciones personalizadas. | 2025-10-07 |
-| /mindora-frontend | feature/recommendations-module | 8d32c7b | feat(recommendations): added breathing and activity exercises | Se agregaron ejercicios de respiración guiada y pausas activas. | 2025-10-07 |
-| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): integrated psychologist search and booking | Se implementó el módulo de psicólogos con agendamiento simulado. | 2025-10-08 |
-| /mindora-frontend | feature/progress-report | 5b92a3f | feat(reports): simulated progress report generation | Se añadió simulación de reportes visuales de progreso en el Dashboard. | 2025-10-08 |
-| /mindora-frontend | fix/ui-optimization | 6d44a1e | fix(ui): improved layout and DOM rendering performance | Se mejoró la carga dinámica del DOM y la disposición visual en el Dashboard. | 2025-10-08 |
-| /mindora-frontend | feature/styling-update | 79b3da2 | feat(css): updated global styles and dashboard theme | Se actualizó la hoja de estilos para unificar colores, tipografía y diseño del Dashboard y módulo de psicólogos. | 2025-10-09 |
-| /mindora-frontend | feature/doc-update | 8f47b2c | docs(readme): documented Sprint 2 development evidence | Se agregó la documentación del Sprint 2 en el README, incluyendo commits y descripción técnica del progreso. | 2025-10-09 |
+- **Pruebas funcionales manuales**
 
----
+  - Validación del flujo completo de **registro, inicio de sesión y edición de perfil de usuario**.
+  - Verificación del **cambio dinámico de idioma (es/en)** mediante el sistema de internacionalización (**i18n**).
+  - Comprobación de la **navegación entre las secciones principales**, incluyendo _Landing Page_, _Login/Register_, _Perfil de Usuario_ y _Dashboard_.
+  - Validación del correcto funcionamiento de la **API de autenticación (`ApiAuthRepository.js`)**, garantizando la comunicación entre el frontend y el servicio de Firebase.
+  - Revisión del **almacenamiento y recuperación de datos de usuario** desde Firebase tras el inicio de sesión.
+
+- **Pruebas de despliegue y visualización en Firebase Hosting**
+
+  - Despliegue exitoso del proyecto en **Firebase Hosting**, asegurando la correcta carga de recursos estáticos y rutas dinámicas.
+  - Validación de la accesibilidad de la aplicación mediante la URL pública del proyecto.
+  - Verificación de que las actualizaciones en el repositorio se reflejan automáticamente en el entorno de producción tras cada _deploy_.
+
+- **Pruebas de integración en GitHub**
+
+  - Validación de los commits y ramas integradas mediante _merge requests_ en GitHub.
+  - Confirmación de la estabilidad del flujo colaborativo durante la implementación del frontend con Vue.
+  - Seguimiento del historial de versiones y control de cambios relacionados con los módulos de autenticación y perfil.
+
+- **Resultados:**
+  - Todas las pruebas ejecutadas durante este sprint fueron satisfactorias.
+  - Se logró una versión estable del frontend con internacionalización, autenticación funcional y despliegue exitoso en Firebase.
+  - No se reportaron errores críticos en la ejecución ni en la visualización del proyecto.
 
 ###  5.2.2.5. Execution Evidence for Sprint Review
 
-Se realizaron pruebas de ejecución del Dashboard y del módulo de psicólogos en el entorno de desarrollo y en la versión desplegada en GitHub Pages.  
-Las demostraciones mostraron la correcta visualización de métricas de estrés, así como la interacción completa con el flujo de búsqueda y solicitud de citas.  
-Los videos de demostración fueron subidos a **Microsoft Stream** como evidencia de funcionalidad.
+Después de finalizar el segundo sprint, hemos logrado agregar algunas secciones como el login, register, en segundo plano apartados de las secciones que ofrece nuestro frontend.
 
----
+![evidence_sprint_2](imgs/sprint_2_evidence.jpg)
+
+![evidence_sprint_3](imgs/sprint_2_evidence_2.jpg)
+
+![evidence_sprint_4](imgs/sprint_2_evidence_3.jpg)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Se documentaron los scripts clave utilizados durante el desarrollo del sprint:  
-- `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
-- `validacionesForm.js` — manejo de autenticación de usuarios.  
-- `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
-- `suscripcion.js` — lógica de modales reutilizada para agendar citas.  
+Durante este **Sprint 2**, la documentación de servicios se centró en **actualizar y consolidar los lineamientos técnicos y funcionales del frontend de NeuroZen**, desarrollado con **Vue** y desplegado mediante **Firebase Hosting**.  
+El enfoque principal estuvo en el desarrollo de los módulos de **perfil de usuario**, **inicio de sesión**, **registro**, y la estructuración inicial del **dashboard**, asegurando una integración coherente entre vistas, autenticación y navegación multilenguaje.  
+Se registraron los siguientes entregables:
 
-Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de datos, la documentación detalla las funciones y estructuras usadas para simular un entorno API.
+- **Actualización de la arquitectura de la aplicación:** descripción de los componentes y módulos implementados en Vue, con especial énfasis en la integración del flujo de autenticación mediante el archivo **`ApiAuthRepository.js`**.  
+- **Diagramas de diseño actualizados:** representación de la interacción entre los módulos principales (_login_, _register_, _profile_ y _dashboard_) y el flujo de datos gestionado por la API.  
+- **Historias de usuario completadas:** registro, inicio de sesión y gestión del perfil del usuario (Epic EP01 – Autenticación y Perfil).  
+- **Documentación técnica en GitHub:** commits, ramas y merges registrados en el repositorio, reflejando la colaboración continua y la evolución del código durante el sprint.  
+- **Internacionalización documentada:** mantenimiento e integración del sistema **i18n** para el soporte multilenguaje, incluyendo archivos de traducción y configuración de idioma predeterminado.  
 
----
+Esta documentación refuerza la **estructura técnica del frontend**, asegurando la escalabilidad del proyecto y la posibilidad de incorporar nuevas secciones con soporte multilenguaje y componentes reutilizables en futuros sprints.
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review
+### 5.2.2.7. Frontend Deployment Evidence for Sprint Review
 
-El despliegue del Sprint 2 se realizó actualizando la versión pública del sitio en **GitHub Pages**, incorporando el Dashboard y el módulo de psicólogos.  
-Se verificó la carga de todos los scripts, el correcto funcionamiento de las rutas y la integridad de los estilos CSS.  
-Además, se probaron las nuevas páginas en distintos dispositivos para garantizar la responsividad y accesibilidad.
+Para este **Sprint 2**, el despliegue del **frontend de NeuroZen** se llevó a cabo utilizando herramientas modernas de control de versiones, desarrollo colaborativo y hosting en la nube:  
 
----
+- **Git**: empleado para el control de versiones y la gestión ordenada de los cambios en el código fuente.  
+- **GitHub**: actuó como repositorio central, permitiendo la colaboración entre los integrantes mediante ramas, _pull requests_ y seguimiento de commits.  
+- **Vue CLI**: herramienta principal para la construcción, ejecución y mantenimiento del proyecto frontend, garantizando una estructura modular y eficiente.  
+- **Firebase Hosting**: utilizado para el despliegue del sitio en producción, permitiendo una entrega continua y acceso público estable del proyecto.  
+
+Gracias a esta configuración, el equipo logró mantener un flujo de trabajo coordinado y automatizado, integrando de forma exitosa las funcionalidades de **registro**, **inicio de sesión**, **perfil de usuario** y la **internacionalización (i18n)** del sitio web.
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
-El equipo mantuvo una comunicación constante a través de reuniones semanales y uso activo de **Trello** y **GitHub**.  
-Se evidenció un mejor control de versiones, revisión cruzada de código y división de tareas más equilibrada.  
-El trabajo colaborativo permitió que las integraciones se realizaran sin conflictos y que el despliegue se completara de manera ordenada y funcional.
+Durante el **Sprint 2**, la colaboración del equipo se enfocó en el **desarrollo del frontend de NeuroZen con Vue** y en la **coordinación del trabajo mediante GitHub**, garantizando un flujo de desarrollo eficiente y colaborativo:
 
----
+- Cada integrante trabajó en **ramas individuales** enfocadas en funcionalidades clave como **login**, **registro**, **perfil de usuario**, **dashboard** y **soporte multilenguaje (i18n)**.  
+- Se mantuvo un proceso activo de **pull requests** y **code reviews**, lo que permitió asegurar la calidad del código y la correcta integración de nuevas características.  
+- La **gestión de commits** documentó el progreso continuo del equipo, reflejando las actualizaciones en el frontend, el uso de la **API `ApiAuthRepository.js`**, y la estructuración de nuevas secciones del sitio.  
+- Las **reuniones virtuales** y la comunicación constante por **Discord** facilitaron la coordinación y resolución rápida de problemas técnicos.  
+- **GitHub** sirvió como el punto central del desarrollo, consolidando tanto el código como la documentación técnica y los registros de trabajo del equipo.  
+
+Gracias a esta dinámica colaborativa, el equipo logró consolidar una versión estable del frontend, con una estructura escalable y alineada a los objetivos del proyecto.
 
 # 6. Conclusiones
 
