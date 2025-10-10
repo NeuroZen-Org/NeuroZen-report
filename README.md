@@ -2395,7 +2395,7 @@ En la segunda iteración (Sprint 2), el equipo se enfocó en la **Desarrollo del
 | US02 | Inicio de sesión seguro    | Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.  | 7                  | Equipo     | Done   |
 | US03 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña para poder acceder si la olvido. | 5                  | Equipo     | Done   |
 
-![trello_2](imgs/trello_2.jpg)
+![trello_2](assets/md-images/trello_2.jpg)
 
 ### 5.2.2.3. Sprint Backlog 2 (Actualizado)
 
@@ -2429,7 +2429,7 @@ En la segunda iteración (Sprint 2), el equipo se enfocó en la **Desarrollo del
 
 **Evidencia de los commits del report**
 
-![commits3](imgs/commits_3.jpg)
+![commits3](assets/md-images/commits_3.jpg)
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2464,11 +2464,11 @@ Las evidencias de desarrollo y pruebas incluyen:
 
 Después de finalizar el segundo sprint, hemos logrado agregar algunas secciones como el login, register, en segundo plano apartados de las secciones que ofrece nuestro frontend.
 
-![evidence_sprint_2](imgs/sprint_2_evidence.jpg)
+![evidence_sprint_2](assets/md-images/sprint_2_evidence.jpg)
 
-![evidence_sprint_3](imgs/sprint_2_evidence_2.jpg)
+![evidence_sprint_3](assets/md-images/sprint_2_evidence_2.jpg)
 
-![evidence_sprint_4](imgs/sprint_2_evidence_3.jpg)
+![evidence_sprint_4](assets/md-images/sprint_2_evidence_3.jpg)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
