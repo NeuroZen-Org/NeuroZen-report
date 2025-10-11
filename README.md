@@ -1335,6 +1335,7 @@ Un mockup es una representación visual de un producto que muestra cómo lucirá
 </div>
 
 Nuestro Landing Page:
+
 [● Link: [https://neurozen-home.netlify.app](https://neurozen-home.netlify.app)]
 ---
 
