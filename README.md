@@ -176,13 +176,13 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
    &nbsp;&nbsp;&nbsp;&nbsp;5.4. [Video About-the-Product](#54-video-about-the-product)
 
-7. **[Conclusiones](#6-conclusiones)**  
+6. **[Conclusiones](#6-conclusiones)**  
    &nbsp;&nbsp;&nbsp;&nbsp;6.1. [Conclusiones](#61-conclusiones)  
    &nbsp;&nbsp;&nbsp;&nbsp;6.2. [Recomendaciones](#62-recomendaciones)
 
-8. **[Bibliografía](#7-bibliografía)**
+7. **[Bibliografía](#7-bibliografía)**
 
-9. **[Anexos](#8-anexos)**
+8. **[Anexos](#8-anexos)**
 
 ---
 
@@ -198,10 +198,10 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ## Cuadro de Student Outcome 5 – Trabajo en equipo y comunicación efectiva (TB2)
 
-| **Criterio específico** | **Acciones realizadas (TB2)** | **Conclusiones (TB2)** |
-| ------------------------ | ----------------------------- | ----------------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | - _Valentino Solis_: Coordinó la planificación del **Sprint 2** y supervisó el desarrollo del módulo de **autenticación** (login y registro) en Vue.<br>- _Juan Angulo_: Lideró la integración del repositorio de servicios **ApiAuthRepository.js**, asegurando la conexión del frontend con la API simulada.<br>- _Manuel Castro_: Dirigió las **pruebas funcionales** del sistema y verificó la correcta visualización del sitio tras el despliegue en Firebase.<br>- _Joao Castro_: Apoyó en la configuración del **hosting en Firebase** y la resolución de errores durante el deploy.<br>- _Diego Requena_: Gestionó los **commits**, merges y documentación técnica en GitHub para garantizar la trazabilidad del trabajo colaborativo.<br>- _Miguel Vila_: Lideró el diseño estructural del **frontend**, incluyendo el **perfil del usuario**, el módulo de **coaching** y la **internacionalización (i18n)**. | El equipo logró una comunicación efectiva y liderazgo compartido durante el desarrollo del frontend, cumpliendo los objetivos del sprint mediante la distribución equitativa de tareas y coordinación en tiempo real por Discord y GitHub. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Planificación conjunta del **Sprint 2** mediante reuniones en Discord y definición de metas semanales.<br>- Uso de **ramas individuales** en GitHub para cada funcionalidad, promoviendo la revisión entre pares y evitando conflictos de integración.<br>- Documentación continua de avances mediante **commits**, **pull requests** y actualización del repositorio.<br>- Despliegue final en **Firebase** tras validaciones locales exitosas.<br>- Implementación estandarizada del código (estructura modular, internacionalización y componentes reutilizables). | A través del trabajo colaborativo, la planificación organizada y la comunicación constante, el equipo alcanzó los objetivos del Sprint 2, demostrando capacidad para coordinar esfuerzos técnicos y cumplir las metas establecidas. |
+| **Criterio específico**                                                                            | **Acciones realizadas (TB2)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Conclusiones (TB2)**                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | - _Valentino Solis_: Coordinó la planificación del **Sprint 2** y supervisó el desarrollo del módulo de **autenticación** (login y registro) en Vue.<br>- _Juan Angulo_: Lideró la integración del repositorio de servicios **ApiAuthRepository.js**, asegurando la conexión del frontend con la API simulada.<br>- _Manuel Castro_: Dirigió las **pruebas funcionales** del sistema y verificó la correcta visualización del sitio tras el despliegue en Firebase.<br>- _Joao Castro_: Apoyó en la configuración del **hosting en Firebase** y la resolución de errores durante el deploy.<br>- _Diego Requena_: Gestionó los **commits**, merges y documentación técnica en GitHub para garantizar la trazabilidad del trabajo colaborativo.<br>- _Miguel Vila_: Lideró el diseño estructural del **frontend**, incluyendo el **perfil del usuario**, el módulo de **coaching** y la **internacionalización (i18n)**. | El equipo logró una comunicación efectiva y liderazgo compartido durante el desarrollo del frontend, cumpliendo los objetivos del sprint mediante la distribución equitativa de tareas y coordinación en tiempo real por Discord y GitHub. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Planificación conjunta del **Sprint 2** mediante reuniones en Discord y definición de metas semanales.<br>- Uso de **ramas individuales** en GitHub para cada funcionalidad, promoviendo la revisión entre pares y evitando conflictos de integración.<br>- Documentación continua de avances mediante **commits**, **pull requests** y actualización del repositorio.<br>- Despliegue final en **Firebase** tras validaciones locales exitosas.<br>- Implementación estandarizada del código (estructura modular, internacionalización y componentes reutilizables).                                                                                                                                                                                                                                                                                                                                                 | A través del trabajo colaborativo, la planificación organizada y la comunicación constante, el equipo alcanzó los objetivos del Sprint 2, demostrando capacidad para coordinar esfuerzos técnicos y cumplir las metas establecidas.        |
 
 ---
 
@@ -1311,7 +1311,6 @@ Los Wireframes de la página son una versión simplificada de la manera en la qu
   <p align="center"><img src="assets/md-images/landing/wireframe/wireframe4.png" alt="Stress test wireframe" width="700px" /></p>
 </div>
 
-
 ---
 
 ### 4.3.2. Landing Page Mock-up.
@@ -1335,8 +1334,8 @@ Un mockup es una representación visual de un producto que muestra cómo lucirá
 </div>
 
 Nuestro Landing Page:
-[● Link: [https://neurozen-home.netlify.app](https://neurozen-home.netlify.app)]
----
+
+[● Link: https://neurozen-home.netlify.app](https://neurozen-home.netlify.app)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -2365,21 +2364,21 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 A continuación, se presenta el Sprint Planning 2, en el que se documentan las evidencias de la planificación y la actualización de la Landing Page. Asimismo, se muestran los avances del proyecto y los aprendizajes obtenidos del trabajo colaborativo del equipo mediante GitHub.
 
-| Campo                                  | Descripción                                                                                                                                                                                                                                                                          |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint #**                           | Sprint 2                                                                                                                                                                                                                                                                             |
-| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                      |
-| **Date**                               | 2025-09-29                                                                                                                                                                                                                                                                           |
-| **Time**                               | 03:00 PM (GMT -5)                                                                                                                                                                                                                                                                    |
-| **Location**                           | Modalidad remota por Discord                                                                                                                                                                                                                                                         |
-| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                                                                                                                      |
-| **Attendees (to planning meeting)**    | Solis Chang Santiago Valentino / Abud Angulo Juan Carlos / Manuel Fernando, Joao Castro Picón / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                                                                                                             |
-| **Sprint 1 – 2 Review Summary**        | En el primer sprint, solo mostramos la landing page y pocos apartados.                                                                                                                                                                                                                                           |
+| Campo                                  | Descripción                                                                                                                                                                                                                                                                 |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                           | Sprint 2                                                                                                                                                                                                                                                                    |
+| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                             |
+| **Date**                               | 2025-09-29                                                                                                                                                                                                                                                                  |
+| **Time**                               | 03:00 PM (GMT -5)                                                                                                                                                                                                                                                           |
+| **Location**                           | Modalidad remota por Discord                                                                                                                                                                                                                                                |
+| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                                                                                                             |
+| **Attendees (to planning meeting)**    | Solis Chang Santiago Valentino / Abud Angulo Juan Carlos / Manuel Fernando, Joao Castro Picón / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                                                                               |
+| **Sprint 1 – 2 Review Summary**        | En el primer sprint, solo mostramos la landing page y pocos apartados.                                                                                                                                                                                                      |
 | **Sprint 1 – 2 Retrospective Summary** | En esta segunda etapa del proyecto se identificó la necesidad de reforzar conocimientos técnicos. Además, se actualizó el diseño del Landing Page, se discutió el contenido textual a incluir en el frontend, se decidió internacionalizar el frontend y agregar contenido. |
-| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                      |
-| **Sprint 2 Goal**                      | Actualizar el frontend del proyecto, internacionalizarlo y desarrollar las vistas de las secciones con las funciones que ofrece nuestro proyecto.                                                                                                                                                                          |
-| **Sprint 2 Velocity**                  | 6                                                                                                                                                                                                                                                                                    |
-| **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                                    |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                             |
+| **Sprint 2 Goal**                      | Actualizar el frontend del proyecto, internacionalizarlo y desarrollar las vistas de las secciones con las funciones que ofrece nuestro proyecto.                                                                                                                           |
+| **Sprint 2 Velocity**                  | 6                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                           |
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -2397,33 +2396,33 @@ En la segunda iteración (Sprint 2), el equipo se enfocó en la **Desarrollo del
 
 ### 5.2.2.3. Sprint Backlog 2 (Actualizado)
 
-| Autor                         | Fecha      | Commit Message                                                                                     | Commit ID |
-| :---------------------------- | :--------- | :------------------------------------------------------------------------------------------------- | :-------- |
-| Solis Chang Santiago Valentino | 03/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
-| Requena Gutiérrez Diego        | 02/10/2025 | feat: Add internationalization support for Breathing Session component                             | 760e3ec   |
-| Joao Castro Picón              | 03/10/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
-| Abud Angulo Juan Carlos        | 05/10/2025 | feat: add login and register                                                                       | b324762   |
-| Vila Guillen Miguel            | 06/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
-| Solis Chang Santiago Valentino | 05/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
-| Joao Castro Picón              | 01/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
-| Abud Angulo Juan Carlos        | 03/10/2025 | feat: Implement landing page layout with header and footer components                              | 224fbf0   |
-| Manuel Fernando                | 02/10/2025 | feat: Add internationalization support for resource library content                                | d98e0e8   |
-| Vila Guillen Miguel            | 02/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
-| Joao Castro Picón              | 02/10/2025 | feat: add fake api with db.json                                                                    | 760e3ec   |
-| Requena Gutiérrez Diego        | 29/09/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
-| Solis Chang Santiago Valentino | 04/10/2025 | feat: add login and register                                                                       | b324762   |
-| Manuel Fernando                | 29/09/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
-| Abud Angulo Juan Carlos        | 06/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
-| Vila Guillen Miguel            | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
-| Joao Castro Picón              | 03/10/2025 | feat: Implement landing page layout with header and footer components                              | 224fbf0   |
+| Autor                          | Fecha      | Commit Message                                                                                                    | Commit ID |
+| :----------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------- | :-------- |
+| Solis Chang Santiago Valentino | 03/10/2025 | fix: resolve i18n issues in navbar                                                                                | d74ceb6   |
+| Requena Gutiérrez Diego        | 02/10/2025 | feat: Add internationalization support for Breathing Session component                                            | 760e3ec   |
+| Joao Castro Picón              | 03/10/2025 | fix: remove translation pipes for login and register                                                              | bea20ca   |
+| Abud Angulo Juan Carlos        | 05/10/2025 | feat: add login and register                                                                                      | b324762   |
+| Vila Guillen Miguel            | 06/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management                | 75d2010   |
+| Solis Chang Santiago Valentino | 05/10/2025 | feat: Implement multilingual support for landing page with translation integration                                | f2c508f   |
+| Joao Castro Picón              | 01/10/2025 | feat: Add multilingual support with translation loader and language switcher                                      | b032395   |
+| Abud Angulo Juan Carlos        | 03/10/2025 | feat: Implement landing page layout with header and footer components                                             | 224fbf0   |
+| Manuel Fernando                | 02/10/2025 | feat: Add internationalization support for resource library content                                               | d98e0e8   |
+| Vila Guillen Miguel            | 02/10/2025 | fix: resolve i18n issues in navbar                                                                                | d74ceb6   |
+| Joao Castro Picón              | 02/10/2025 | feat: add fake api with db.json                                                                                   | 760e3ec   |
+| Requena Gutiérrez Diego        | 29/09/2025 | fix: remove translation pipes for login and register                                                              | bea20ca   |
+| Solis Chang Santiago Valentino | 04/10/2025 | feat: add login and register                                                                                      | b324762   |
+| Manuel Fernando                | 29/09/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management                | 75d2010   |
+| Abud Angulo Juan Carlos        | 06/10/2025 | feat: Implement multilingual support for landing page with translation integration                                | f2c508f   |
+| Vila Guillen Miguel            | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                                      | b032395   |
+| Joao Castro Picón              | 03/10/2025 | feat: Implement landing page layout with header and footer components                                             | 224fbf0   |
 | Requena Gutiérrez Diego        | 04/10/2025 | fix: implement internationalization for category selection and success/error messages in RegisterTriggerComponent | d98e0e8   |
-| Solis Chang Santiago Valentino | 01/10/2025 | fix: resolve i18n issues in navbar                                                                 | d74ceb6   |
-| Abud Angulo Juan Carlos        | 05/10/2025 | fix: correct formatting in resource library and add week labels in days                            | 760e3ec   |
-| Manuel Fernando                | 04/10/2025 | fix: remove translation pipes for login and register                                               | bea20ca   |
-| Vila Guillen Miguel            | 03/10/2025 | refactor: reorder imports in DashboardComponent.vue for clarity                                   | b324762   |
-| Joao Castro Picón              | 04/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management | 75d2010   |
-| Requena Gutiérrez Diego        | 04/10/2025 | feat: Implement multilingual support for landing page with translation integration                 | f2c508f   |
-| Manuel Fernando                | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                       | b032395   |
+| Solis Chang Santiago Valentino | 01/10/2025 | fix: resolve i18n issues in navbar                                                                                | d74ceb6   |
+| Abud Angulo Juan Carlos        | 05/10/2025 | fix: correct formatting in resource library and add week labels in days                                           | 760e3ec   |
+| Manuel Fernando                | 04/10/2025 | fix: remove translation pipes for login and register                                                              | bea20ca   |
+| Vila Guillen Miguel            | 03/10/2025 | refactor: reorder imports in DashboardComponent.vue for clarity                                                   | b324762   |
+| Joao Castro Picón              | 04/10/2025 | feat: Add coaching feature with psychologist listings, community forum, and appointment management                | 75d2010   |
+| Requena Gutiérrez Diego        | 04/10/2025 | feat: Implement multilingual support for landing page with translation integration                                | f2c508f   |
+| Manuel Fernando                | 03/10/2025 | feat: Add multilingual support with translation loader and language switcher                                      | b032395   |
 
 **Evidencia de los commits del report**
 
@@ -2458,7 +2457,7 @@ Las evidencias de desarrollo y pruebas incluyen:
   - Se logró una versión estable del frontend con internacionalización, autenticación funcional y despliegue exitoso en Firebase.
   - No se reportaron errores críticos en la ejecución ni en la visualización del proyecto.
 
-###  5.2.2.5. Execution Evidence for Sprint Review
+### 5.2.2.5. Execution Evidence for Sprint Review
 
 Después de finalizar el segundo sprint, hemos logrado agregar algunas secciones como el login, register, en segundo plano apartados de las secciones que ofrece nuestro frontend.
 
@@ -2474,22 +2473,22 @@ Durante este **Sprint 2**, la documentación de servicios se centró en **actual
 El enfoque principal estuvo en el desarrollo de los módulos de **perfil de usuario**, **inicio de sesión**, **registro**, y la estructuración inicial del **dashboard**, asegurando una integración coherente entre vistas, autenticación y navegación multilenguaje.  
 Se registraron los siguientes entregables:
 
-- **Actualización de la arquitectura de la aplicación:** descripción de los componentes y módulos implementados en Vue, con especial énfasis en la integración del flujo de autenticación mediante el archivo **`ApiAuthRepository.js`**.  
-- **Diagramas de diseño actualizados:** representación de la interacción entre los módulos principales (_login_, _register_, _profile_ y _dashboard_) y el flujo de datos gestionado por la API.  
-- **Historias de usuario completadas:** registro, inicio de sesión y gestión del perfil del usuario (Epic EP01 – Autenticación y Perfil).  
-- **Documentación técnica en GitHub:** commits, ramas y merges registrados en el repositorio, reflejando la colaboración continua y la evolución del código durante el sprint.  
-- **Internacionalización documentada:** mantenimiento e integración del sistema **i18n** para el soporte multilenguaje, incluyendo archivos de traducción y configuración de idioma predeterminado.  
+- **Actualización de la arquitectura de la aplicación:** descripción de los componentes y módulos implementados en Vue, con especial énfasis en la integración del flujo de autenticación mediante el archivo **`ApiAuthRepository.js`**.
+- **Diagramas de diseño actualizados:** representación de la interacción entre los módulos principales (_login_, _register_, _profile_ y _dashboard_) y el flujo de datos gestionado por la API.
+- **Historias de usuario completadas:** registro, inicio de sesión y gestión del perfil del usuario (Epic EP01 – Autenticación y Perfil).
+- **Documentación técnica en GitHub:** commits, ramas y merges registrados en el repositorio, reflejando la colaboración continua y la evolución del código durante el sprint.
+- **Internacionalización documentada:** mantenimiento e integración del sistema **i18n** para el soporte multilenguaje, incluyendo archivos de traducción y configuración de idioma predeterminado.
 
 Esta documentación refuerza la **estructura técnica del frontend**, asegurando la escalabilidad del proyecto y la posibilidad de incorporar nuevas secciones con soporte multilenguaje y componentes reutilizables en futuros sprints.
 
 ### 5.2.2.7. Frontend Deployment Evidence for Sprint Review
 
-Para este **Sprint 2**, el despliegue del **frontend de NeuroZen** se llevó a cabo utilizando herramientas modernas de control de versiones, desarrollo colaborativo y hosting en la nube:  
+Para este **Sprint 2**, el despliegue del **frontend de NeuroZen** se llevó a cabo utilizando herramientas modernas de control de versiones, desarrollo colaborativo y hosting en la nube:
 
-- **Git**: empleado para el control de versiones y la gestión ordenada de los cambios en el código fuente.  
-- **GitHub**: actuó como repositorio central, permitiendo la colaboración entre los integrantes mediante ramas, _pull requests_ y seguimiento de commits.  
-- **Vue CLI**: herramienta principal para la construcción, ejecución y mantenimiento del proyecto frontend, garantizando una estructura modular y eficiente.  
-- **Firebase Hosting**: utilizado para el despliegue del sitio en producción, permitiendo una entrega continua y acceso público estable del proyecto.  
+- **Git**: empleado para el control de versiones y la gestión ordenada de los cambios en el código fuente.
+- **GitHub**: actuó como repositorio central, permitiendo la colaboración entre los integrantes mediante ramas, _pull requests_ y seguimiento de commits.
+- **Vue CLI**: herramienta principal para la construcción, ejecución y mantenimiento del proyecto frontend, garantizando una estructura modular y eficiente.
+- **Firebase Hosting**: utilizado para el despliegue del sitio en producción, permitiendo una entrega continua y acceso público estable del proyecto.
 
 Gracias a esta configuración, el equipo logró mantener un flujo de trabajo coordinado y automatizado, integrando de forma exitosa las funcionalidades de **registro**, **inicio de sesión**, **perfil de usuario** y la **internacionalización (i18n)** del sitio web.
 
@@ -2497,11 +2496,11 @@ Gracias a esta configuración, el equipo logró mantener un flujo de trabajo coo
 
 Durante el **Sprint 2**, la colaboración del equipo se enfocó en el **desarrollo del frontend de NeuroZen con Vue** y en la **coordinación del trabajo mediante GitHub**, garantizando un flujo de desarrollo eficiente y colaborativo:
 
-- Cada integrante trabajó en **ramas individuales** enfocadas en funcionalidades clave como **login**, **registro**, **perfil de usuario**, **dashboard** y **soporte multilenguaje (i18n)**.  
-- Se mantuvo un proceso activo de **pull requests** y **code reviews**, lo que permitió asegurar la calidad del código y la correcta integración de nuevas características.  
-- La **gestión de commits** documentó el progreso continuo del equipo, reflejando las actualizaciones en el frontend, el uso de la **API `ApiAuthRepository.js`**, y la estructuración de nuevas secciones del sitio.  
-- Las **reuniones virtuales** y la comunicación constante por **Discord** facilitaron la coordinación y resolución rápida de problemas técnicos.  
-- **GitHub** sirvió como el punto central del desarrollo, consolidando tanto el código como la documentación técnica y los registros de trabajo del equipo.  
+- Cada integrante trabajó en **ramas individuales** enfocadas en funcionalidades clave como **login**, **registro**, **perfil de usuario**, **dashboard** y **soporte multilenguaje (i18n)**.
+- Se mantuvo un proceso activo de **pull requests** y **code reviews**, lo que permitió asegurar la calidad del código y la correcta integración de nuevas características.
+- La **gestión de commits** documentó el progreso continuo del equipo, reflejando las actualizaciones en el frontend, el uso de la **API `ApiAuthRepository.js`**, y la estructuración de nuevas secciones del sitio.
+- Las **reuniones virtuales** y la comunicación constante por **Discord** facilitaron la coordinación y resolución rápida de problemas técnicos.
+- **GitHub** sirvió como el punto central del desarrollo, consolidando tanto el código como la documentación técnica y los registros de trabajo del equipo.
 
 Gracias a esta dinámica colaborativa, el equipo logró consolidar una versión estable del frontend, con una estructura escalable y alineada a los objetivos del proyecto.
 
