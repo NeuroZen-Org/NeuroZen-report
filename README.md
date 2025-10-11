@@ -666,9 +666,36 @@ Resumen de los puntos clave en la entrevista:
 - Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una
   comunidad de apoyo.
 
+Entrevista N°3
+
+● Nombre: Valentina Flores.
+
+● Sexo: Femenino.
+
+● Edad: 24 años.
+
+● Estado Civil: Soltera.
+
+● Labor: Analista de Recursos Humanos.
+
+Detalles de la entrevista:
+
+● Duración: 02:25
+
+[● Link: https://drive.google.com/file/d/10gpZrHKXRZATb-VCJ6RAm-Zu81CONRbT/view?usp=sharing](https://drive.google.com/file/d/10gpZrHKXRZATb-VCJ6RAm-Zu81CONRbT/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+La entrevista con Valentina Flores (24 años), analista de Recursos Humanos, evidencia cómo las 
+jornadas extensas y la alta carga laboral generan estrés, insomnio y agotamiento emocional. 
+El estrés afecta su concentración, estado de ánimo y vida personal. Aunque intenta aliviarlo con 
+pausas o caminatas, la falta de tiempo y apoyo institucional limita sus esfuerzos. Valentina 
+considera útil una app con ejercicios guiados, recordatorios y seguimiento emocional, que le 
+ayude a equilibrar su bienestar en el entorno laboral.
+
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-Entrevista N°3
+Entrevista N°4
 
 ● Nombre: Cristofer Pablo Paucar
 
@@ -707,7 +734,7 @@ no emplea herramientas específicas para el manejo del estrés, pero le gustarí
 alguna. Identifica la mañana y la noche como los momentos más adecuados para realizar
 actividades relajantes, aunque muchas veces depende del flujo de trabajo diario.
 
-Entrevista N°4
+Entrevista N°5
 
 ● Nombre: Laura Méndez
 
@@ -740,7 +767,7 @@ necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas r
 accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos
 efectivos para "apagar" su mente al finalizar la jornada.
 
-Entrevista N°5
+Entrevista N°6
 
 ● Nombre: Jose Feliciano
 
