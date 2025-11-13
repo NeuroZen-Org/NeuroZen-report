@@ -2552,6 +2552,94 @@ Gracias a esta dinámica colaborativa, el equipo logró consolidar una versión 
 | **Sprint 3 Goal**                      | Desarrollar el backend del proyecto NeuroZen utilizando Spring Boot, implementando los tres bounded contexts principales y aplicando principios de Domain-Driven Design (DDD) para garantizar un diseño modular, escalable y alineado a la arquitectura del dominio.                                                                        |
 | **Sprint 3 Velocity**                  | 6                                                                                                                                                                                                                                                                                                                                           |
 | **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                                                                                           |
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En la tercera iteración (Sprint 3), el equipo se enfocó en el desarrollo del backend de NeuroZen, construido con Spring Boot y diseñado completamente bajo Domain-Driven Design (DDD). Este sprint estuvo asociado a dos epics principales:
+
+**EP02 – Gestión del Test, Recomendaciones y Reportes**
+
+**EP03 – Gestión de Citas y Conexión con Profesionales**
+
+Durante este sprint se desarrollaron los primeros módulos funcionales del backend correspondientes a los bounded contexts definidos: Stress Test & Reports, Appointments & Professional Support, e Identity & Access.
+
+El desarrollo incluyó la creación de los controladores, servicios de dominio, repositorios y la definición de entidades agregadas, siguiendo principios de diseño modular y separación estricta de capas.
+
+#### Historias de Usuario Abordadas
+
+| ID   | Título                            | Descripción                                                                                                           | Estimación (Horas) | Asignado a | Estado |
+| ---- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ------ |
+| US04 | Generación de reportes            | Como empleado/psicólogo, quiero generar nuevos reportes para analizar el progreso y estado emocional de los usuarios. | 6                  | Equipo     | Done   |
+| US05 | Consulta de reportes generales    | Como empleado autorizado, quiero ver todos los reportes disponibles para supervisar la información registrada.        | 4                  | Equipo     | Done   |
+| US06 | Consulta de reporte por ID        | Como empleado, quiero visualizar un reporte específico para revisar información detallada sobre un caso.              | 3                  | Equipo     | Done   |
+| US07 | Consulta de reportes por empleado | Como administrador, quiero obtener todos los reportes generados por un empleado para evaluar su desempeño.            | 4                  | Equipo     | Done   |
+| US08 | Crear una cita con un profesional | Como usuario, quiero agendar una cita con un psicólogo para recibir apoyo profesional.                                | 7                  | Equipo     | Done   |
+| US09 | Reprogramar una cita              | Como usuario, quiero reprogramar la fecha de una cita ya agendada para ajustarla a mi disponibilidad.                 | 5                  | Equipo     | Done   |
+| US10 | Iniciar una cita                  | Como psicólogo, quiero marcar una cita como iniciada para gestionar el tiempo y registro correcto del proceso.        | 4                  | Equipo     | Done   |
+| US11 | Confirmar una cita                | Como usuario, quiero confirmar una cita para validar mi asistencia y el tiempo del psicólogo.                         | 4                  | Equipo     | Done   |
+| US12 | Completar una cita                | Como psicólogo, quiero marcar una cita como completada para cerrar formalmente la sesión.                             | 4                  | Equipo     | Done   |
+| US13 | Cancelar una cita                 | Como usuario o psicólogo, quiero cancelar una cita para liberar el horario y evitar confusiones.                      | 3                  | Equipo     | Done   |
+| US14 | Consultar citas por ID            | Como usuario o psicólogo, quiero ver la información completa de una cita específica.                                  | 3                  | Equipo     | Done   |
+| US15 | Ver todas las citas               | Como psicólogo, quiero consultar todas las citas disponibles para visualizar mi planificación del día.                | 4                  | Equipo     | Done   |
+| US16 | Ver citas por psicólogo           | Como psicólogo, quiero consultar todas mis citas agendadas para administrar mi agenda.                                | 4                  | Equipo     | Done   |
+| US17 | Ver citas por empleado            | Como administrador, quiero consultar las citas asociadas a un empleado para control y auditoría.                      | 4                  | Equipo     | Done   |
+
+## PONER IMAGEN TRELLO
+
+### 5.2.3.3.Sprint Backlog 3.
+
+A continuación, se listan los commits que evidencian el desarrollo del **Backend de NeuroZen** en este tercer sprint.
+
+#### Commits de Documentación y Diseño
+
+| Autor                     | Fecha      | Commit Message                                                                                                            | Commit ID |
+| :------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ | :-------- |
+| Vila Guillen Miguel   | 07/11/2025 | feat: add GetAllAppointmentsQueryByPatientId record for querying appointments                                             | 33627c0   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: update IEntityWithCreatedUpdatedDated to use DateTimeOffset and add Swashbuckle Annotations support                 | cb341b7   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: rename AppointmentDate to AppointmentDateTime for clarity                                                           | 1c2af24   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: enhance AppointmentResource with properties and add assembler method for entity conversion                           | e133657   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: implement appointment retrieval by patient ID in query and repository services                                      | caecaf9   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: update AppointmentAudit model with new properties and data types                                                    | 6e05d35   |
+| Vila Guillen Miguel   | 07/11/2025 | feat: add appointment domain models and services                                                                          | 2c4d874   |
+| Abud Angulo Juan Carlos  | 05/11/2025 | chore: commit remaining files                                                                                             | 5c4365f   |
+| Abud Angulo Juan Carlos  | 05/11/2025 | chore: push DDD and models                                                                                                | 9d9446a   |
+| Abud Angulo Juan Carlos  | 02/11/2025 | feat: created models based on front end                                                                                   | 2c0e6e4   |
+| Abud Angulo Juan Carlos  | 02/11/2025 | chore: initial project setup: swagger + mysql                                                                             | e697b9f   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibraryCommandService for handling resource library creation                                      | b8c828e   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryConfiguration for EF Core entity configuration                                                   | bcee8e4   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryResourceFromEntityAssembler for transforming ResourceLibrary entities                            | dfba058   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryRepository for managing resource libraries                                                       | a657584   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibrary management with command service, repository, and configuration                            | d283d58   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibrariesController for managing resource libraries                                                     | 085e80b   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement TriggerRepository for managing Trigger entities                                                           | 031b7d    |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add TriggerConfiguration for Entity Framework Core mapping                                                          | 979c878   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalCommandFromResourceAssembler for command transformation                                       | 9ed0e4c   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalResource record for professional creation                                                     | 2b9b59d   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement CreateProfessional and GetProfessionalById methods in ProfessionalsController                             | 588e6e5   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add nullable return type for Handle method in IProfessionalQueryService                                             | 6052db6   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: create IProfessionalCommandService interface for handling professional creation commands                            | 00ec21d   |
+
+**Evidencia de los commits del backend**
+
+IMAGEN 1
+
+IMAGEN 2
+
+### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
+
+Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **Spring Boot**, siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios **bounded contexts clave**:
+
+- **Profiles Context**
+- **Appointments & Scheduling Context**
+- **Patients & Professionals Context**
+- **Reports & Monitoring Context**
+
+El objetivo principal fue establecer la arquitectura sólida del backend, exponer los **endpoints REST** necesarios y garantizar que los flujos principales del sistema funcionaran correctamente.
+
+---
+
+## **Evidencias de desarrollo y pruebas**
+
+
 # 6. Conclusiones
 
 ## 6.1. Conclusiones
