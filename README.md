@@ -2620,9 +2620,9 @@ A continuación, se listan los commits que evidencian el desarrollo del **Backen
 
 **Evidencia de los commits del backend**
 
-IMAGEN 1
+![commit 1](assets/md-images/commits_backend_1.jpg)
 
-IMAGEN 2
+![commit 2](assets/md-images/commits_backend_2.jpg)
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
