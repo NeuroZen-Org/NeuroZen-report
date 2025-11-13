@@ -2583,7 +2583,7 @@ El desarrollo incluyó la creación de los controladores, servicios de dominio, 
 | US16 | Ver citas por psicólogo           | Como psicólogo, quiero consultar todas mis citas agendadas para administrar mi agenda.                                | 4                  | Equipo     | Done   |
 | US17 | Ver citas por empleado            | Como administrador, quiero consultar las citas asociadas a un empleado para control y auditoría.                      | 4                  | Equipo     | Done   |
 
-## PONER IMAGEN TRELLO
+![trello 3](assets/md-images/trello3.jpg)
 
 ### 5.2.3.3.Sprint Backlog 3.
 
