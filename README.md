@@ -2624,6 +2624,8 @@ A continuación, se listan los commits que evidencian el desarrollo del **Backen
 
 ![commit 2](assets/md-images/commits_backend_2.jpg)
 
+![commit 3](assets/md-images/commits_backend_3.png)
+
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
 Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **ASP.NET Core** siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios *bounded contexts* clave:
