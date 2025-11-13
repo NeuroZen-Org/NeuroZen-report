@@ -2695,6 +2695,132 @@ Se realizaron validaciones manuales para confirmar el correcto funcionamiento de
   - Ensambladores desde recursos a comandos.  
   - Implementación de interfaces para `command-service` y `query-service`.
 
+ ### **Pruebas de despliegue y ejecución local**
+ 
+- Ejecución del backend en entorno local mediante:
+	- `dotnet run`
+    - Ejecución mediante contenedor Docker (cuando aplicó)   
+- Revisión completa del **Swagger UI** hospedado en:
+   `http://localhost:5059/swagger/index.html`
+- Validación visual de todos los endpoints de los bounded contexts:
+  - `/api/v1/appointments`
+  - `/api/v1/professionals`
+  - `/api/v1/resource-libraries`
+  - `/api/v1/subscriptions`
+  - `/api/v1/triggers`
+    
+Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de rutas REST.
+
+---
+
+### **Pruebas de integración en GitHub**
+
+- Pruebas de integración en GitHub:
+  - Validación de integraciones mediante:
+    - Pull Requests, incluyendo merges en la rama development.
+    - Confirmación del merge principal:
+    - “Merge remote-tracking branch 'origin/development' into development”
+    - Revisión de commits relacionados con:
+      - `ResourceLibrary` (command, repository, configuration, controller)
+      - `Subscriptions` (command, query, repository, endpoints)
+      - `Triggers` (repository, configuration, controller)
+      - `Professionals` (domain, command/query services, assemblers)
+      - `Appointments` (commands, resources, query services)
+        
+  - Comprobación de aportes equitativos de todos los miembros en módulos clave:
+  - ResourceLibrary
+  - Subscriptions
+  - Triggers
+  - Appointments
+  - Professionals
+
+- Confirmación de que el flujo de trabajo colaborativo mediante GitHub se mantuvo estable durante todo el sprint.
+
+---
+
+## **Resultados**
+
+- Todos los endpoints desarrollados funcionaron correctamente.
+- Se estableció una versión funcional, modular y documentada del backend.
+- Los bounded contexts quedaron completamente integrados.
+- Swagger se actualizó con todos los recursos y operaciones implementadas.
+- No se reportaron errores críticos en la lógica del dominio ni en la ejecución de los servicios.
+- Se dejó una arquitectura sólida y escalable para el Sprint 4.
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Después de finalizar el tercer sprint, hemos logrado agregar los endpoints antes mencionados, estos se pueden evidenciar mediante la página en swagger.
+
+![evidence_sprint_3](imgs/sprint_3_evidence.jpg)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante este **Sprint 3**, la documentación de servicios se centró en la **definición, estandarización y ampliación de los servicios del backend de NeuroZen**, desarrollados bajo **Spring Boot** y aplicando principios de **Domain-Driven Design (DDD)** dentro de los bounded contexts implementados.  
+Se registraron los siguientes entregables técnicos:
+
+- **Documentación formal de la arquitectura del backend**: descripción de la estructura hexagonal, capas del dominio, aplicación e infraestructura, incluyendo los bounded contexts de *ResourceLibrary*, *Appointments*, *Subscriptions*, *Professionals*, y *Triggers*.
+
+- **Documentación generada automáticamente en Swagger**:  
+  Todos los endpoints REST desarrollados fueron expuestos y documentados mediante Swagger UI, permitiendo visualizar:
+  - Rutas disponibles
+  - Métodos HTTP
+  - Parámetros
+  - Códigos de respuesta
+  - Modelos utilizados en los requests y responses
+
+- **Documentación técnica en GitHub**:  
+  Se registraron commits que evidencian:
+  - Creación de interfaces de servicios
+  - Implementación de context-facades
+  - Implementación de repositorios
+  - Definición del `AppointmentStatus` enum
+  - Ensamblaje y validación de recursos mediante records
+  - Incorporación de reglas de negocio para entidades del dominio
+
+  Todo este trabajo se llevó a cabo mediante ramas, PRs y merges que reflejan el flujo de trabajo colaborativo del equipo.
+
+- **Modelos y Value Objects documentados**:  
+  Se dejaron especificaciones técnicas para agregados clave como *ResourceLibrary*, *Subscriptions*, *Professional*, *Triggers*  y *Appointment*, junto con sus valores inmutables y reglas de negocio respecto a su ciclo de vida.
+
+Esta documentación garantiza la **escalabilidad del backend**, y establece una base sólida para la incorporación de nuevos servicios, integraciones externas y ampliación de los bounded contexts en próximos sprints.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para este **Sprint 3**, el despliegue y ejecución del **backend de NeuroZen** se realizó utilizando herramientas de control de versiones, entornos de desarrollo colaborativo y utilidades propias del ecosistema de **Spring Boot**:
+
+- **Git**: utilizado para el control de versiones, permitiendo registrar la evolución del backend, manejar los cambios de código entre módulos y mantener un historial claro de commits.
+
+- **GitHub**: empleado como repositorio central para almacenar el código del backend, gestionar ramas de desarrollo, crear _pull requests_ y revisar integraciones entre los diferentes bounded contexts como *Profiles*, *Appointments*, *Patients*, *Professionals* y *Reports*.
+
+- **Spring Boot & Maven**: herramientas principales para la construcción, empaquetado y despliegue del backend.  
+  Se emplearon comandos como `mvn spring-boot:run` y `mvn clean install` para validar el correcto funcionamiento del proyecto.
+
+- **Swagger UI**: utilizado para desplegar y documentar automáticamente los servicios desarrollados. Permitió verificar los endpoints REST expuestos y probar interacciones del backend desde la ruta:  
+  `http://localhost:8081/swagger-ui/index.html`
+
+Estas herramientas y procesos permitieron mantener un flujo de trabajo coordinado durante el desarrollo del backend, facilitando la integración de nuevos servicios, la validación de reglas de dominio y la consolidación de la arquitectura basada en DDD.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el **Sprint 3**, la colaboración del equipo se centró en el **desarrollo del backend de NeuroZen** y en la coordinación continua mediante **GitHub**, asegurando un flujo de trabajo estructurado y alineado con los principios de *Domain-Driven Design (DDD)*:
+
+- Cada integrante trabajó en **ramas individuales** asociadas a los bounded contexts del backend, incluyendo *Subscriptions*, *Triggers*, *ResourceLibrary*, *Professionals*, *Appointments* y *Reports*.
+
+- Se mantuvo un flujo constante de **pull requests, revisiones y merges**, garantizando la calidad del código y la correcta integración de los servicios de dominio, repositorios, agregados y controladores REST.
+
+- La gestión de commits permitió documentar de manera clara el avance colectivo del equipo, evidenciando la creación de interfaces de comando y consulta, assemblers, repositorios, validaciones, enums y controladores.
+
+- Las reuniones virtuales breves (stand-ups) y la comunicación continua mediante Discord facilitaron la resolución inmediata de dudas técnicas, sincronización entre miembros y reparto efectivo de responsabilidades.
+
+- El repositorio de GitHub operó como la **fuente única de verdad del backend**, centralizando:
+  - Código fuente actualizado
+  - Documentación técnica de los servicios
+  - Estructura de la arquitectura del dominio
+  - Historial de PRs, problemas detectados y decisiones de diseño
+
+Esta metodología colaborativa permitió integrar de manera exitosa los servicios principales del backend y consolidar la arquitectura fundamental del sistema, estableciendo una base sólida para los próximos sprints.
+
+
  
 
 
