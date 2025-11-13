@@ -2751,7 +2751,9 @@ Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de r
 
 Después de finalizar el tercer sprint, hemos logrado agregar los endpoints antes mencionados, estos se pueden evidenciar mediante la página en swagger.
 
-![evidence_sprint_3](imgs/sprint_3_evidence.jpg)
+![swagger 1](assets/md-images/swagger1.png)
+
+![swagger 2](assets/md-images/swagger2.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
