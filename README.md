@@ -2827,7 +2827,99 @@ Esta metodología colaborativa permitió integrar de manera exitosa los servicio
 ## 5.3. Validation Interviews.
 
 ## 5.3.1. Diseño de Entrevistas.
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**  
+
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas para 
+comprender cómo los residentes perciben la aplicación y si sienten que el diseño y contenido 
+de la página reflejan adecuadamente su objetivo que es apaciguar el estrés de las personas. 
+Además queremos saber si la página motiva a los usuarios a registrarse y a confiar en 
+Neurozen como una ayuda a su estrés.  
+
+Introducción:  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
+y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+
+Preguntas:  
+- ¿Qué te hizo sentir o pensar la página cuando la viste por primera vez?  
+- ¿Entendiste fácilmente para qué sirve la aplicación? ¿Qué crees que hace?  
+- ¿Qué te parece la parte donde puedes registrarte o iniciar sesión? ¿Te queda claro cómo hacerlo?  
+- ¿La página te da confianza sobre la seguridad de tus datos o privacidad? ¿Por qué?  
+- ¿Te parece que el diseño (colores, botones, distribución) es fácil de usar y moverse?  
+- ¿Qué cambiarías o mejorarías en esta página?  
+- ¿Qué opinas de las nuevas funciones de la aplicación como ver perfil, herramientas contra el estrés y suscripciones?  
+
+---
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas 
+dirigidas a usuarios pertenecientes al segmento objetivo: adultos entre 20 y 50 años con 
+trabajo informal o sin horarios definidos. A continuación, presentamos una entrevista 
+realizada a Cristofer, uno de nuestros usuarios de prueba.  
+
+Introducción:  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
+y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+
+Preguntas:  
+- ¿La estética de la página (colores, imágenes, diseño) te resulta atractiva o te causa alguna impresión en particular?  
+- ¿Te resultó fácil navegar por el menú y encontrar las secciones como “Beneficios” o “Ejercicios”?  
+- ¿Sentiste que el contenido se adapta a alguien como tú, con horarios poco estructurados o sin un trabajo fijo?  
+- ¿Qué opinas de la sección de “Ejercicios contra el estrés”? ¿Te llama la atención probarlos?  
+- ¿Te quedó claro que la plataforma también ofrece contacto con profesionales? ¿Te parecería útil esa opción?  
+- ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?  
+- ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?  
+
 ## 5.3.2. Registro de Entrevistas.
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
+● Nombre:
+
+● Sexo: 
+
+● Edad: 
+
+● Estado Civil: 
+
+● Labor: 
+
+Detalles de la entrevista:
+
+● Duración: 
+
+[● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+● Nombre:
+
+● Sexo: 
+
+● Edad: 
+
+● Estado Civil: 
+
+● Labor: 
+
+Detalles de la entrevista:
+
+● Duración: 
+
+[● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+
+
 ## 5.3.3. Evaluaciones según heurísticas.
 
 ---
