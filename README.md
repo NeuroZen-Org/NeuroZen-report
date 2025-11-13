@@ -2626,18 +2626,65 @@ A continuación, se listan los commits que evidencian el desarrollo del **Backen
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
-Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **Spring Boot**, siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios **bounded contexts clave**:
+Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **ASP.NET Core** siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios *bounded contexts* clave:
 
-- **Profiles Context**
-- **Appointments & Scheduling Context**
-- **Patients & Professionals Context**
-- **Reports & Monitoring Context**
+- **Profiles Context**  
+- **Appointments & Scheduling Context**  
+- **Patients & Professionals Context**  
+- **Reports & Monitoring Context**  
+- **Resource Library Context**  
+- **Subscriptions Context**  
+- **Triggers Context**
 
-El objetivo principal fue establecer la arquitectura sólida del backend, exponer los **endpoints REST** necesarios y garantizar que los flujos principales del sistema funcionaran correctamente.
+El objetivo principal fue establecer una **arquitectura sólida del backend**, exponer los **endpoints REST necesarios** y garantizar el correcto funcionamiento de los flujos principales del sistema.
 
 ---
 
 ## **Evidencias de desarrollo y pruebas**
+
+### **Pruebas funcionales manuales**
+
+Se realizaron validaciones manuales para confirmar el correcto funcionamiento de los módulos desarrollados:
+
+- **Profiles**
+  - Verificación de endpoints.
+  - Creación y obtención de perfiles mediante servicios de comando y consulta.
+
+- **Appointments**
+  - Creación de citas.  
+  - Reprogramación.  
+  - Inicio, confirmación, cancelación y finalización de citas.  
+  - Consulta de citas por ID, paciente o profesional.  
+  - Inclusión del tipo de cita (*AppointmentType*) y notas adicionales.
+
+- **Patients y Professionals**
+  - Creación de recursos.  
+  - Ensamblaje correcto desde `EntityAssembler`.  
+  - Validación de campos obligatorios.
+
+- **Reports**
+  - Generación de reportes.  
+  - Recuperación por ID.  
+  - Filtrado por empleado.
+
+- **Resource Library**
+  - Creación y persistencia de bibliotecas de recursos.  
+  - Ensamblaje correcto de comandos y recursos.
+
+- **Subscriptions**
+  - Creación, consulta, actualización y eliminación de suscripciones.  
+  - Correcta conexión con `AppDbContext` y repositorios.
+
+- **Triggers**
+  - Creación y auditoría de *triggers*.  
+  - Correcto registro en base de datos.
+
+- **Lógica del dominio**
+  - Validación de estados del `AppointmentStatus`.  
+  - Ensambladores desde recursos a comandos.  
+  - Implementación de interfaces para `command-service` y `query-service`.
+
+ 
 
 
 # 6. Conclusiones
