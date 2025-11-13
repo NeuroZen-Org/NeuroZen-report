@@ -2822,9 +2822,20 @@ Durante el **Sprint 3**, la colaboración del equipo se centró en el **desarrol
 
 Esta metodología colaborativa permitió integrar de manera exitosa los servicios principales del backend y consolidar la arquitectura fundamental del sistema, estableciendo una base sólida para los próximos sprints.
 
+---
 
+## 5.3. Validation Interviews.
+
+## 5.3.1. Diseño de Entrevistas.
+## 5.3.2. Registro de Entrevistas.
+## 5.3.3. Evaluaciones según heurísticas.
+
+---
+
+## 5.4. Video About-the-Product.
  
-
+---
+ 
 
 # 6. Conclusiones
 
@@ -2875,16 +2886,6 @@ Esta metodología colaborativa permitió integrar de manera exitosa los servicio
    - Incluir publicidad ética y no invasiva relacionada con bienestar.
 
 ---
-
-## 5.3. Validation Interviews.
-
-## 5.3.1. Diseño de Entrevistas.
-## 5.3.2. Registro de Entrevistas.
-## 5.3.3. Evaluaciones según heurísticas.
-
----
-
-## 5.4. Video About-the-Product.
 
 # 7. Bibliografía
 
