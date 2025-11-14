@@ -195,34 +195,21 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
 
 ---
 
-# Student Outcome
-
-El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**
-
-**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
-
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
-
-Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
-Criterio específico	Acciones realizadas (TB1)	Conclusiones (TB1)
-Comunica oralmente con efectividad a diferentes rangos de audiencia	- Manuel Castro: Participó en la presentación oral del Startup Profile en la exposición grabada de TB1.
-- Diego Requena: Expuso la introducción y objetivos del proyecto en la presentación grupal.
-- Miguel Vila: Explicó el apartado de Solution Profile durante la exposición.
-- Valentino Solis: Presentó la problemática y segmentos objetivos.
-- Juan Angulo: Colaboró en la sustentación de la parte metodológica.	Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia.
-Comunica por escrito con efectividad a diferentes rangos de audiencia	- Manuel Castro: Redacción de la carátula y parte de la descripción del startup.
-- Diego Requena: Contribuyó en el índice de contenidos y organización del documento.
-- Miguel Vila: Coordinó la escritura en Markdown y la conversión a PDF.
-- Valentino Solis: Redactó los apartados de antecedentes y problemática.
-- Juan Angulo: Revisó ortografía y estilo en el Student Outcome.	A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica.
-
-**Student Outcome ABET – EAC – Outcome 5**
+# Student Outcome ABET – EAC – Outcome 5
 
 **Criterio:** Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del **ABET – EAC – Student Outcome 5**.
-
 ---
+
+## Cuadro de Student Outcome 5 – Trabajo en equipo (TB1)
+
+| **Criterio específico**                                                                            | **Acciones realizadas (TB1)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Conclusiones (TB1)**                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | - Manuel Castro: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- Diego Requena: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- Miguel Vila: Explicó el apartado de **Solution Profile** durante la exposición.<br>- Valentino Solis: Presentó la problemática y segmentos objetivos.<br>- Juan Angulo: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Manuel Castro: Redacción de la carátula y parte de la descripción del startup.<br>- Diego Requena: Contribuyó en el índice de contenidos y organización del documento.<br>- Miguel Vila: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- Valentino Solis: Redactó los apartados de antecedentes y problemática.<br>- Juan Angulo: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
+
+
+
 
 ## Cuadro de Student Outcome 5 – Trabajo en equipo y comunicación efectiva (TP)
 
@@ -230,6 +217,20 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | - _Valentino Solis_: Coordinó la planificación del **Sprint 2** y supervisó el desarrollo del módulo de **autenticación** (login y registro) en Vue.<br>- _Juan Angulo_: Lideró la integración del repositorio de servicios **ApiAuthRepository.js**, asegurando la conexión del frontend con la API simulada.<br>- _Manuel Castro_: Dirigió las **pruebas funcionales** del sistema y verificó la correcta visualización del sitio tras el despliegue en Firebase.<br>- _Joao Castro_: Apoyó en la configuración del **hosting en Firebase** y la resolución de errores durante el deploy.<br>- _Diego Requena_: Gestionó los **commits**, merges y documentación técnica en GitHub para garantizar la trazabilidad del trabajo colaborativo.<br>- _Miguel Vila_: Lideró el diseño estructural del **frontend**, incluyendo el **perfil del usuario**, el módulo de **coaching** y la **internacionalización (i18n)**. | El equipo logró una comunicación efectiva y liderazgo compartido durante el desarrollo del frontend, cumpliendo los objetivos del sprint mediante la distribución equitativa de tareas y coordinación en tiempo real por Discord y GitHub. |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Planificación conjunta del **Sprint 2** mediante reuniones en Discord y definición de metas semanales.<br>- Uso de **ramas individuales** en GitHub para cada funcionalidad, promoviendo la revisión entre pares y evitando conflictos de integración.<br>- Documentación continua de avances mediante **commits**, **pull requests** y actualización del repositorio.<br>- Despliegue final en **Firebase** tras validaciones locales exitosas.<br>- Implementación estandarizada del código (estructura modular, internacionalización y componentes reutilizables).                                                                                                                                                                                                                                                                                                                                                 | A través del trabajo colaborativo, la planificación organizada y la comunicación constante, el equipo alcanzó los objetivos del Sprint 2, demostrando capacidad para coordinar esfuerzos técnicos y cumplir las metas establecidas.        |
+
+# 📊 Student Outcome ABET – EAC – Outcome 5
+
+**Criterio:** Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
+
+---
+
+## Cuadro de Student Outcome 5 – Trabajo en equipo (TB2)
+
+| **Criterio específico**                                                                            | **Acciones realizadas (TB2)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Conclusiones (TB2)**                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | - _Valentino Solis_: Coordinó la planificación del **Sprint 3** y supervisó el desarrollo del módulo de **suscripciones**.<br>- _Juan Angulo_: Lideró la integración del repositorio de servicios **ApiSubscriptionRepository.js**, conectando el frontend con la API.<br>- _Manuel Castro_: Dirigió las **pruebas funcionales** de login, perfil y suscripciones.<br>- _Joao Castro_: Apoyó en la configuración del **hosting en Firebase** y resolución de errores.<br>- _Diego Requena_: Gestionó los **commits**, merges y documentación técnica en GitHub.<br>- _Miguel Vila_: Lideró el diseño estructural del **frontend**, incluyendo mejoras en el perfil del usuario y herramientas contra el estrés. | El equipo logró liderazgo compartido y comunicación efectiva durante el desarrollo del Sprint 3, cumpliendo los objetivos del frontend mediante la distribución equitativa de tareas y coordinación en tiempo real por Discord y GitHub. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Planificación conjunta del **Sprint 3** mediante reuniones en Discord.<br>- Uso de **ramas individuales** en GitHub para cada funcionalidad (login, perfil, suscripciones, herramientas contra el estrés).<br>- Documentación continua de avances mediante **commits**, **pull requests** y actualización del repositorio.<br>- Despliegue final en **Firebase** tras validaciones locales exitosas.<br>- Implementación estandarizada del código (estructura modular, internacionalización y componentes reutilizables). | A través del trabajo colaborativo, la planificación organizada y la comunicación constante, el equipo alcanzó los objetivos del Sprint 3, demostrando capacidad para coordinar esfuerzos técnicos y cumplir las metas establecidas.        |
+
 
 ---
 
