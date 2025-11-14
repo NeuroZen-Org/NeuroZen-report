@@ -2879,42 +2879,43 @@ Preguntas:
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
-● Nombre:
+- Nombre: Milenio Bonifacio Vila Lujan.
 
-● Sexo: 
+- Sexo: Masculino.
 
-● Edad: 
+- Edad: 27 años.
 
-● Estado Civil: 
+- Estado Civil: Viudo.
 
-● Labor: 
+- Labor: Vendedor de helados.
 
 Detalles de la entrevista:
 
-● Duración: 
+- Duración: 5:41 minutos.
 
-[● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+Link : https://drive.google.com/file/d/18UtH0VYeeHezwYrqdNocy89Uj14yxmNK/view?usp=sharing
 
 Resumen de los puntos clave en la entrevista:
 
+Milenio Bonifacio, un vendedor de helados de 27 años, comentó durante la entrevista que la landing page de NeuroZen le generó una impresión tranquila y clara, entendiendo rápidamente que la aplicación está orientada a reducir el estrés. Consideró intuitiva la sección de registro y percibió confianza en el diseño, aunque sugirió incluir más información sobre privacidad. Señaló que la distribución y los colores facilitan la navegación, y recomendó añadir ejemplos visuales del funcionamiento. Sobre las nuevas funciones, opinó que son útiles y coherentes con el propósito de la app.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-● Nombre:
+- Nombre:
 
-● Sexo: 
+- Sexo: 
 
-● Edad: 
+- Edad: 
 
-● Estado Civil: 
+- Estado Civil: 
 
-● Labor: 
+- Labor: 
 
 Detalles de la entrevista:
 
-● Duración: 
+- Duración: 
 
-[● Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing)
+- Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing
 
 Resumen de los puntos clave en la entrevista:
 
