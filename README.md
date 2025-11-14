@@ -2893,7 +2893,7 @@ Detalles de la entrevista:
 
 - Duración: 5:41 minutos.
 
-Link : https://drive.google.com/file/d/18UtH0VYeeHezwYrqdNocy89Uj14yxmNK/view?usp=sharing
+Link : [https://drive.google.com/file/d/18UtH0VYeeHezwYrqdNocy89Uj14yxmNK/view?usp=sharing](https://drive.google.com/file/d/18UtH0VYeeHezwYrqdNocy89Uj14yxmNK/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
 
@@ -2901,23 +2901,31 @@ Milenio Bonifacio, un vendedor de helados de 27 años, comentó durante la entre
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-- Nombre:
+- Nombre: Valeria
 
-- Sexo: 
+- Sexo: Femenino
 
-- Edad: 
+- Edad: 21años
 
-- Estado Civil: 
+- Estado Civil: Soltera
 
-- Labor: 
+- Labor: Trabaja como diseñadora freelance, con horarios flexibles y proyectos por encargo
 
 Detalles de la entrevista:
 
-- Duración: 
+- Duración: 11:25
 
-- Link: https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing](https://drive.google.com/file/d/1SRe3Ilrde37SMS8YGALvpk9OqU4jpwh0/view?usp=sharing
+- Link: [https://drive.google.com/file/d/1-Puz7VD-DfS2ttLd_Ns95JO7wk_mcqA8/view?usp=sharing](https://drive.google.com/file/d/1-Puz7VD-DfS2ttLd_Ns95JO7wk_mcqA8/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
+
+- Valeria considera que el diseño es visualmente atractivo y transmite calma, lo cual está alineado con el propósito de la app.  
+- Navegar por el menú fue sencillo, aunque sugiere que los íconos podrían tener etiquetas más claras.  
+- El contenido le pareció adecuado para personas con rutinas variables como ella.  
+- La sección de ejercicios le pareció interesante y estaría dispuesta a probarlos.  
+- Le gustó que se ofrezca contacto con profesionales, aunque recomienda que se explique mejor cómo funciona esa opción.  
+- Sugiere incluir una guía rápida para nuevos usuarios en la landing page.  
+- Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
 
 ---
 
