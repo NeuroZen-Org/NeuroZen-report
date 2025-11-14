@@ -197,7 +197,26 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
 
 # Student Outcome
 
-El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 5**
+El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
+
+Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
+Criterio específico	Acciones realizadas (TB1)	Conclusiones (TB1)
+Comunica oralmente con efectividad a diferentes rangos de audiencia	- Manuel Castro: Participó en la presentación oral del Startup Profile en la exposición grabada de TB1.
+- Diego Requena: Expuso la introducción y objetivos del proyecto en la presentación grupal.
+- Miguel Vila: Explicó el apartado de Solution Profile durante la exposición.
+- Valentino Solis: Presentó la problemática y segmentos objetivos.
+- Juan Angulo: Colaboró en la sustentación de la parte metodológica.	Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia.
+Comunica por escrito con efectividad a diferentes rangos de audiencia	- Manuel Castro: Redacción de la carátula y parte de la descripción del startup.
+- Diego Requena: Contribuyó en el índice de contenidos y organización del documento.
+- Miguel Vila: Coordinó la escritura en Markdown y la conversión a PDF.
+- Valentino Solis: Redactó los apartados de antecedentes y problemática.
+- Juan Angulo: Revisó ortografía y estilo en el Student Outcome.	A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica.
+
+**Student Outcome ABET – EAC – Outcome 5**
 
 **Criterio:** Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
