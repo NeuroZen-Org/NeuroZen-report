@@ -2,31 +2,60 @@
 
 <div>
   <p align="center"><img src="assets/md-images/upc-logo.png" alt="Logo UPC" width="150px" /></p>
-  <p align="center"><b>Informe de Trabajo Final</b></p>
-  <p align="center">Facultad de Ingeniería</p>
   <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
-  <p align="center">Ingeniería de Software</p>
-  <p align="center">Aplicaciones Web - 1ASI0730</p>
+  <p align="center">Facultad de Ingeniería</p>
+  <p align="center">Carrera: Ingeniería de Software</p>
+  <p align="center"><b>Perido 202520 </b></p>
+  <p align="center">1ASI0730 - Aplicaciones Web</p>
   <p align="center">NRC: 7414</p>
-  <p align="center">Alex Humberto Sánchez Ponce</p>
+  <p align="center">Profesor: Alex Humberto Sánchez Ponce</p>
+  <p align="center"><b>Informe de Trabajo Final</b></p>
   <p align="center">Startup: NeuroDraw</p>
   <p align="center">Producto: NeuroZen</p>
 </div>
 
 ---
 
-## Team members:
+<h3 align="center">Relación de integrantes</h3>
 
-| **Nombre**                         | **Código** |
-| ---------------------------------- | ---------- |
-| Manuel Fernando, Joao Castro Picón | U20231G159 |
-| Solis Chang, Santiago Valentino    | U20231B475 |
-| Vila Guillen, Miguel Angel         | U20231G054 |
-| Requena Gutiérrez, Diego Gabriel   | U202321774 |
-| Abud Angulo, Juan Carlos           | U202317692 |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>Apellidos y Nombres</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>U20231G159</td>
+      <td>Castro Picón, Manuel Fernando Joao</td>
+    </tr>
+    <tr>
+      <td>U20231B475</td>
+      <td>Solis Chang, Santiago Valentino</td>
+    </tr>
+    <tr>
+      <td>U20231G054</td>
+      <td>Vila Guillen, Miguel Angel</td>
+    </tr>
+    <tr>
+      <td>U202321774</td>
+      <td>Requena Gutiérrez, Diego Gabriel</td>
+    </tr>
+    <tr>
+      <td>U202317692</td>
+      <td>Abud Angulo, Juan Carlos</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <div>
-  <p align="center"><b>Ciclo 2025 - 20</b></p>
+  
+  <p align="center"><b>Septiembre 2025</b></p>
 </div>
 
 ---
