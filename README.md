@@ -246,89 +246,69 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
       <td>
         <strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong>
       </td>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
       <td>
         <strong>Castro Picón, Manuel Fernando Joao</strong><br>
         <em>TB1:</em> Coordinó tareas, organizó reuniones y brindó apoyo técnico.<br>
         <em>TB2:</em> Promovió participación y colaboración constante.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Solis Chang, Santiago Valentino</strong><br>
         <em>TB1:</em> Supervisó el avance y gestionó la comunicación interna.<br>
         <em>TB2:</em> Facilitó dinámicas para aprovechar fortalezas del equipo.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Vila Guillen, Miguel Ángel</strong><br>
         <em>TB1:</em> Monitoreó tareas técnicas y apoyó en resolución de problemas.<br>
         <em>TB2:</em> Brindó soporte técnico continuo.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Requena Gutiérrez, Diego Gabriel</strong><br>
         <em>TB1:</em> Ordenó documentación y organizó reuniones de revisión.<br>
         <em>TB2:</em> Impulsó participación equitativa y metas comunes.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Abud Angulo, Juan Carlos</strong><br>
         <em>TB1:</em> Coordinó entregables y verificó formatos.<br>
         <em>TB2:</em> Aseguró información clara para el avance grupal.
       </td>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
       <td>
-        <strong>Castro Picón, Manuel Fernando Joao</strong><br>
-        Demostró liderazgo colaborativo y mantuvo el ritmo del equipo.<br><br>
-<!-- FILA 1 -->
-        <strong>Solis Chang, Santiago Valentino</strong><br>
-        Aportó al orden y organización general del grupo.<br><br>
-<!-- FILA 1 -->
-        <strong>Vila Guillen, Miguel Ángel</strong><br>
-        Su iniciativa sostuvo el avance técnico del equipo.<br><br>
-<!-- FILA 1 -->
-        <strong>Requena Gutiérrez, Diego Gabriel</strong><br>
-        Mejoró cohesión y claridad en la comunicación.<br><br>
-<!-- FILA 1 -->
-        <strong>Abud Angulo, Juan Carlos</strong><br>
-        Aseguró consistencia y calidad en los entregables.
+        El equipo demostró liderazgo compartido, comunicación efectiva y buena coordinación.
+        Se distribuyeron tareas equitativamente y se mantuvo un ambiente colaborativo que permitió
+        lograr los objetivos establecidos dentro del tiempo previsto.
       </td>
     </tr>
-<!-- FILA 1 -->
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
+    <!-- FILA 2 -->
     <tr>
       <td>
         <strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong>
       </td>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
       <td>
         <strong>Castro Picón, Manuel Fernando Joao</strong><br>
         <em>TP1/TF1:</em> Cumplió tareas individuales con responsabilidad y aportó valor técnico al producto final.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Solis Chang, Santiago Valentino</strong><br>
         <em>TP1/TF1:</em> Entregó trabajo de calidad e integró correctamente los componentes del proyecto.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Vila Guillen, Miguel Ángel</strong><br>
         <em>TP1/TF1:</em> Aportó elementos técnicos claves con precisión.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Requena Gutiérrez, Diego Gabriel</strong><br>
         <em>TP1/TF1:</em> Desarrolló documentación clara y contribuyó al resultado final.<br><br>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
         <strong>Abud Angulo, Juan Carlos</strong><br>
-        <em>TP1/TF1:</em> Verificó estructura, forma y coherencia del trabajo final.
+        <em>TP1/TF1:</em> Verificó la estructura, forma y coherencia del trabajo final.
       </td>
-<!-- FILA 1 -->
+    <!-- FILA 1 -->
       <td>
-        <strong>Castro Picón, Manuel Fernando Joao</strong><br>
-        Su desempeño ayudó a cumplir los objetivos del proyecto final.<br><br>
-<!-- FILA 1 -->
-        <strong>Solis Chang, Santiago Valentino</strong><br>
-        Garantizó cohesión y funcionalidad en el resultado final.<br><br>
-<!-- FILA 1 -->
-        <strong>Vila Guillen, Miguel Ángel</strong><br>
-        Sus aportes técnicos fueron determinantes para la calidad del proyecto.<br><br>
-<!-- FILA 1 -->
-        <strong>Requena Gutiérrez, Diego Gabriel</strong><br>
-        Aportó claridad y organización documental.<br><br>
-<!-- FILA 1 -->
-        <strong>Abud Angulo, Juan Carlos</strong><br>
-        Aseguró una presentación profesional y ordenada.
+        El grupo trabajó en un entorno colaborativo donde todos participaron activamente,
+        estableciendo metas claras y cumpliendo los plazos. Se desarrolló un ambiente inclusivo
+        que permitió que cada integrante aporte desde sus habilidades, logrando un producto final
+        cohesionado y bien estructurado.
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
