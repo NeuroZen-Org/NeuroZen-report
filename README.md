@@ -209,6 +209,15 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4. [Sprint 4](#524-sprint-4)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.1. [Sprint Planning 4](#5241-sprint-planning-4)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.2. [Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.3. [Sprint Backlog 4](#5243-sprint-backlog-3)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.4. [Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
    &nbsp;&nbsp;&nbsp;&nbsp;5.3. [Validation Interviews](#53-validation-interviews)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)  
@@ -2923,6 +2932,59 @@ Durante el **Sprint 3**, la colaboración del equipo se centró en el **desarrol
   - Historial de PRs, problemas detectados y decisiones de diseño
 
 Esta metodología colaborativa permitió integrar de manera exitosa los servicios principales del backend y consolidar la arquitectura fundamental del sistema, estableciendo una base sólida para los próximos sprints.
+
+---
+
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+
+
+---
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+
+---
+
+## 5.2.4.3. Sprint Backlog 4
+
+
+
+### **Sprint Backlog 4 – Tareas Técnicas**
+
+
+
+---
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+
+
+---
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+---
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+---
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 
 ---
 
