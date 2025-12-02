@@ -3104,7 +3104,7 @@ Esta documentación garantiza el fin del desarrollo del backend.
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Durante el **Sprint 4** logramos desplegar el [backend de NeuroZen](url).
+Durante el **Sprint 4** logramos desplegar el backend de NeuroZen exitosamente y conectarlo con el frontend.
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
