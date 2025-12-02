@@ -2648,7 +2648,7 @@ Durante el **Sprint 2**, la colaboración del equipo se enfocó en el **desarrol
 
 Gracias a esta dinámica colaborativa, el equipo logró consolidar una versión estable del frontend, con una estructura escalable y alineada a los objetivos del proyecto.
 
-### 5.2.3. Sprint 3.
+## 5.2.3. Sprint 3.
 
 ### 5.2.3.1.Sprint Planning 3.
 
@@ -2701,7 +2701,7 @@ El desarrollo incluyó la creación de los controladores, servicios de dominio, 
 
 ![trello 3](assets/md-images/trello3.jpg)
 
-### 5.2.3.3.Sprint Backlog 3.
+### 5.2.3.3. Sprint Backlog 3.
 
 A continuación, se listan los commits que evidencian el desarrollo del **Backend de NeuroZen** en este tercer sprint.
 
@@ -2760,7 +2760,7 @@ El objetivo principal fue establecer una **arquitectura sólida del backend**, e
 
 #### **Evidencias de desarrollo y pruebas**
 
-#### **Pruebas funcionales manuales**
+##### **Pruebas funcionales manuales**
 
 Se realizaron validaciones manuales para confirmar el correcto funcionamiento de los módulos desarrollados:
 
@@ -2809,7 +2809,7 @@ Se realizaron validaciones manuales para confirmar el correcto funcionamiento de
   - Ensambladores desde recursos a comandos.
   - Implementación de interfaces para `command-service` y `query-service`.
 
-#### **Pruebas de despliegue y ejecución local**
+##### **Pruebas de despliegue y ejecución local**
 
 - Ejecución del backend en entorno local mediante:
   - `dotnet run`
@@ -2836,17 +2836,10 @@ Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de r
   - Confirmación del merge principal:
   - “Merge remote-tracking branch 'origin/development' into development”
   - Revisión de commits relacionados con:
-    - `ResourceLibrary` (command, repository, configuration, controller)
-    - `Subscriptions` (command, query, repository, endpoints)
-    - `Triggers` (repository, configuration, controller)
-    - `Professionals` (domain, command/query services, assemblers)
-    - `Appointments` (commands, resources, query services)
+    - `Users` (command, query, repository, configuration, controller)
+    - `Authentication` (command, query, repository, endpoints)
 - Comprobación de aportes equitativos de todos los miembros en módulos clave:
-- ResourceLibrary
-- Subscriptions
-- Triggers
 - Appointments
-- Professionals
 
 - Confirmación de que el flujo de trabajo colaborativo mediante GitHub se mantuvo estable durante todo el sprint.
 
@@ -2861,7 +2854,7 @@ Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de r
 - No se reportaron errores críticos en la lógica del dominio ni en la ejecución de los servicios.
 - Se dejó una arquitectura sólida y escalable para el Sprint 4.
 
-### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Después de finalizar el tercer sprint, hemos logrado agregar los endpoints antes mencionados, estos se pueden evidenciar mediante la página en swagger.
 
@@ -2996,31 +2989,148 @@ Este Sprint permitió **consolidar la integración entre backend y frontend**, a
 
 ### 5.2.4.3. Sprint Backlog 4
 
-#### **Sprint Backlog 4 – Tareas Técnicas**
+A continuación, se listan los commits que evidencian el desarrollo del **Backend de NeuroZen** en este tercer sprint.
+
+#### Commits de Documentación y Diseño
+
+#### Commits de Documentación y Diseño
+
+| Autor                             | Fecha      | Commit Message                                                                                 | Commit ID |
+| :-------------------------------- | :--------- | :--------------------------------------------------------------------------------------------- | :-------- |
+| Vila Guillen Miguel               | 07/11/2025 | feat: add localization support for error messages in ResourcesLibraryController                | 709f004   |
+| Vila Guillen Miguel               | 07/11/2025 | feat: add localization support for error messages in SubscriptionsController                   | 2d3a4d3   |
+| Vila Guillen Miguel               | 07/11/2025 | feat: add localization support for error messages in TriggersController                        | f3e8c45   |
+| Vila Guillen Miguel               | 07/11/2025 | feat: register Professionals and ResourcesLibrary services in Program.cs                       | 93d4316   |
+| Abud Angulo Juan Carlos           | 05/11/2025 | Merge remote-tracking branch 'origin/development' into development                             | 8167dec   |
+| Abud Angulo Juan Carlos           | 05/11/2025 | feat: fixed auth and login                                                                     | 440abbc   |
+| Requena Gutiérrez Diego Gabriel   | 12/11/2025 | feat: implement ResourceLibraryCommandService for handling resource library creation           | b8c828e   |
+| Requena Gutiérrez Diego Gabriel   | 12/11/2025 | feat: add ResourceLibraryConfiguration for EF Core entity configuration                        | bcee8e4   |
+| Requena Gutiérrez Diego Gabriel   | 12/11/2025 | feat: add ResourceLibraryResourceFromEntityAssembler for transforming ResourceLibrary entities | dfba058   |
+| Solis Chang Santiago Valentino    | 13/11/2025 | feat: implement TriggerRepository for managing Trigger entities                                | 031b7d    |
+| Solis Chang Santiago Valentino    | 13/11/2025 | feat: add TriggerConfiguration for Entity Framework Core mapping                               | 979c878   |
+| Solis Chang Santiago Valentino    | 13/11/2025 | feat: add CreateProfessionalCommandFromResourceAssembler for command transformation            | 9ed0e4c   |
+| Solis Chang Santiago Valentino    | 13/11/2025 | feat: add CreateProfessionalResource record for professional creation                          | 2b9b59d   |
+| Picón Castro Joao Fernando Manuel | 13/11/2025 | feat: add subscriptionsQUERY feature with CRUD endpoints                                       | 8bf78e5   |
+| Picón Castro Joao Fernando Manuel | 13/11/2025 | feat: add AppDbContext.cs feature with CRUD endpoints                                          | f420d02   |
+| Picón Castro Joao Fernando Manuel | 13/11/2025 | feat: add subscriptionsCommand feature with CRUD endpoints                                     | 30aac44   |
+| Picón Castro Joao Fernando Manuel | 13/11/2025 | feat: add program.cs feature with CRUD endpoints                                               | fc0f072   |
+
+**Evidencia de los commits del backend**
+
+![commit 1](assets/md-images/commits_backend_4.png)
+
+![commit 2](assets/md-images/commits_backend_5.png)
+
+![commit 3](assets/md-images/commits_backend_6.png)
 
 ---
 
-### 5.2.4.4. Development Evidence for Sprint Review
+### 5.2.4.4. Development Evidence for Sprint Review (Sprint 4)
+
+Durante este cuarto sprint, el desarrollo se centró en **agregarle los detalles finales al backend de NeuroZen** y **conectarlo con el frontend**:
+
+#### **Evidencias de desarrollo y pruebas**
+
+##### **Pruebas funcionales manuales**
+
+Se realizaron validaciones manuales para confirmar el correcto funcionamiento de los módulos desarrollados:
+
+- **Users**
+
+  - Verificación de endpoints.
+  - Actualización y obtención de usuarios.
+
+- **Authentication**
+
+  - Logeo de usuarios
+  - Registro de usuarios
+
+##### **Pruebas de despliegue y ejecución local**
+
+- Ejecución del backend en entorno local mediante:
+  - `dotnet run`
+    - Ejecución mediante contenedor Docker (cuando aplicó)
+- Revisión completa del **Swagger UI** hospedado en:
+  `http://localhost:5059/swagger/index.html`
+- Validación visual de todos los endpoints de los bounded contexts:
+  - `/api/v1/authentication`
+  - `/api/v1/users`
+
+Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de rutas REST.
 
 ---
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
+Después de finalizar el cuarto sprint, hemos logrado agregar los endpoints faltantes, estos se pueden evidenciar mediante la página en swagger.
+
+![swagger 3](assets/md-images/swagger3.png)
+
 ---
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este **Sprint 4**, la documentación de servicios se centró en la **definición, estandarización y ampliación de los servicios del backend de NeuroZen**, desarrollados bajo **.NET Core** y aplicando principios de **Domain-Driven Design (DDD)** dentro de los bounded contexts implementados.  
+Se registraron los siguientes entregables técnicos:
+
+- **Documentación formal de la arquitectura del backend**: descripción de la estructura hexagonal, capas del dominio, aplicación e infraestructura, incluyendo los bounded contexts de _Users_ y _Authentication (IAM)_.
+
+- **Documentación generada automáticamente en Swagger**:  
+  Todos los endpoints REST desarrollados fueron expuestos y documentados mediante Swagger UI, permitiendo visualizar:
+
+  - Rutas disponibles
+  - Métodos HTTP
+  - Parámetros
+  - Códigos de respuesta
+  - Modelos utilizados en los requests y responses
+
+- **Documentación técnica en GitHub**:  
+  Se registraron commits que evidencian:
+
+  - Creación de interfaces de servicios
+  - Implementación de context-facades
+  - Implementación de repositorios
+  - Ensamblaje y validación de recursos mediante records
+  - Incorporación de reglas de negocio para entidades del dominio
+
+  Todo este trabajo se llevó a cabo mediante ramas, PRs y merges que reflejan el flujo de trabajo colaborativo del equipo.
+
+- **Modelos y Value Objects documentados**:  
+  Se dejaron especificaciones técnicas para agregados clave como _Users_ y _Authentication_, junto con sus valores inmutables y reglas de negocio respecto a su ciclo de vida.
+
+Esta documentación garantiza el fin del desarrollo del backend.
 
 ---
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Durante el **Sprint 4** logramos desplegar el [backend de NeuroZen](url).
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el **Sprint 4**, la colaboración del equipo se centró en **pulir el backend de NeuroZen y conectarlo con el frontend**, y en la coordinación continua mediante **GitHub**, asegurando un flujo de trabajo estructurado y alineado con los principios de _Domain-Driven Design (DDD)_:
+
+- Cada integrante trabajó en **ramas individuales** asociadas a los bounded contexts del backend, incluyendo _Users_, **Authentication** y **Appointments**.
+
+- Se mantuvo un flujo constante de **pull requests, revisiones y merges**, garantizando la calidad del código y la correcta integración de los servicios de dominio, repositorios, agregados y controladores REST.
+
+- La gestión de commits permitió documentar de manera clara el avance colectivo del equipo, evidenciando la creación de interfaces de comando y consulta, assemblers, repositorios, validaciones, enums y controladores.
+
+- Las reuniones virtuales breves (stand-ups) y la comunicación continua mediante Discord facilitaron la resolución inmediata de dudas técnicas, sincronización entre miembros y reparto efectivo de responsabilidades.
+
+- El repositorio de GitHub operó como la **fuente única de verdad del backend**, centralizando:
+  - Código fuente actualizado
+  - Documentación técnica de los servicios
+  - Estructura de la arquitectura del dominio
+  - Historial de PRs, problemas detectados y decisiones de diseño
+
+Esta metodología colaborativa permitió finalizar exitosamente el backend y conectarlo al frotend.
 
 ---
 
 ## 5.3. Validation Interviews.
 
-## 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas.
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
@@ -3071,7 +3181,7 @@ Preguntas:
 - ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?
 - ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?
 
-## 5.3.2. Registro de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
@@ -3125,7 +3235,7 @@ Resumen de los puntos clave en la entrevista:
 
 ---
 
-## 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas.
 
 **Evaluación heurística de la aplicación NeuroZen**
 
@@ -3142,8 +3252,8 @@ Este análisis se basa en principios de usabilidad para evaluar la experiencia d
 
 ## 5.4. Video About-the-Product.
 
- Link : [https://drive.google.com/file/d/1pLUl1vKjnhJDfUYzBy34ADnl1eSLYGPn/view?usp=sharing](https://drive.google.com/file/d/1AsHxJ_o9XktLwfX1jvPffU_DcaPWIKiE/view?usp=sharing)
- 
+Link : [https://drive.google.com/file/d/1pLUl1vKjnhJDfUYzBy34ADnl1eSLYGPn/view?usp=sharing](https://drive.google.com/file/d/1AsHxJ_o9XktLwfX1jvPffU_DcaPWIKiE/view?usp=sharing)
+
 ---
 
 # 6. Conclusiones
@@ -3198,7 +3308,7 @@ Este análisis se basa en principios de usabilidad para evaluar la experiencia d
 
 # 7. Bibliografía
 
-### Referencias
+## Referencias
 
 Brown, T. (2009). _Change by design: How design thinking creates new alternatives for business and society_. Harper Business. https://www.harpercollins.com/products/change-by-design-tim-brown
 
