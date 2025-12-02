@@ -224,13 +224,13 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
    &nbsp;&nbsp;&nbsp;&nbsp;5.4. [Video About-the-Product](#54-video-about-the-product)
 
-7. **[Conclusiones](#6-conclusiones)**  
+6. **[Conclusiones](#6-conclusiones)**  
    &nbsp;&nbsp;&nbsp;&nbsp;6.1. [Conclusiones](#61-conclusiones)  
    &nbsp;&nbsp;&nbsp;&nbsp;6.2. [Recomendaciones](#62-recomendaciones)
 
-8. **[Bibliografía](#7-bibliografía)**
+7. **[Bibliografía](#7-bibliografía)**
 
-9. **[Anexos](#8-anexos)**
+8. **[Anexos](#8-anexos)**
 
 ---
 
@@ -317,9 +317,6 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
     </tr>
   </tbody>
 </table>
-
-
-
 
 ---
 
@@ -804,11 +801,11 @@ Detalles de la entrevista:
 
 Resumen de los puntos clave en la entrevista:
 
-La entrevista con Valentina Flores (24 años), analista de Recursos Humanos, evidencia cómo las 
-jornadas extensas y la alta carga laboral generan estrés, insomnio y agotamiento emocional. 
-El estrés afecta su concentración, estado de ánimo y vida personal. Aunque intenta aliviarlo con 
-pausas o caminatas, la falta de tiempo y apoyo institucional limita sus esfuerzos. Valentina 
-considera útil una app con ejercicios guiados, recordatorios y seguimiento emocional, que le 
+La entrevista con Valentina Flores (24 años), analista de Recursos Humanos, evidencia cómo las
+jornadas extensas y la alta carga laboral generan estrés, insomnio y agotamiento emocional.
+El estrés afecta su concentración, estado de ánimo y vida personal. Aunque intenta aliviarlo con
+pausas o caminatas, la falta de tiempo y apoyo institucional limita sus esfuerzos. Valentina
+considera útil una app con ejercicios guiados, recordatorios y seguimiento emocional, que le
 ayude a equilibrar su bienestar en el entorno laboral.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
@@ -1252,30 +1249,30 @@ Impact Mapping - Segmento 2
 
 ## 3.4. Product Backlog
 
-*Orden de User Stories y Technical Stories*
+_Orden de User Stories y Technical Stories_
 
-| Orden | ID   | User Story / Technical Story                     | Story Points | Bounded Context |
-|-------|------|--------------------------------------------------|--------------|-----------------|
-| 01    | US01 | Registrar cuenta de usuario                      | 3            | IAM             |
-| 02    | US02 | Configurar perfil biométrico                     | 5            | Biometrics      |
-| 03    | US03 | Completar cuestionario inicial de salud          | 3            | Assessments     |
-| 04    | US04 | Realizar test de autoevaluación de estrés        | 5            | Assessments     |
-| 05    | US05 | Análisis biométrico de señales de estrés         | 5            | Biometrics      |
-| 06    | US06 | Registrar síntomas físicos                       | 3            | Health Tracking |
-| 07    | US07 | Recibir recomendaciones personalizadas           | 5            | Recommendations |
-| 08    | US08 | Realizar ejercicios de respiración guiados       | 3            | Activities      |
-| 09    | US09 | Programar pausas activas laborales               | 3            | Activities      |
-| 10    | US10 | Visualizar dashboard personal de estrés          | 5            | Dashboard       |
-| 11    | US11 | Generar informes de progreso                     | 5            | Reports         |
-| 12    | US12 | Registrar desencadenantes de estrés              | 3            | Health Tracking |
-| 13    | US13 | Buscar psicólogos especializados                 | 3            | Professionals   |
-| 14    | US14 | Agendar cita con psicólogo                       | 5            | Appointments    |
-| 15    | US15 | Compartir informes con especialistas             | 3            | Reports         |
-| 16    | US16 | Participar en grupos de apoyo                    | 3            | Community       |
-| 17    | US17 | Acceder a biblioteca de recursos                 | 2            | Resources       |
-| 18    | US18 | Participar en desafíos antiestrés                | 3            | Community       |
-| 19    | US19 | Analizar carga laboral                           | 5            | Analytics       |
-| 20    | US20 | Recibir recordatorios de ergonomía               | 2            | Notifications   |
+| Orden | ID   | User Story / Technical Story               | Story Points | Bounded Context |
+| ----- | ---- | ------------------------------------------ | ------------ | --------------- |
+| 01    | US01 | Registrar cuenta de usuario                | 3            | IAM             |
+| 02    | US02 | Configurar perfil biométrico               | 5            | Biometrics      |
+| 03    | US03 | Completar cuestionario inicial de salud    | 3            | Assessments     |
+| 04    | US04 | Realizar test de autoevaluación de estrés  | 5            | Assessments     |
+| 05    | US05 | Análisis biométrico de señales de estrés   | 5            | Biometrics      |
+| 06    | US06 | Registrar síntomas físicos                 | 3            | Health Tracking |
+| 07    | US07 | Recibir recomendaciones personalizadas     | 5            | Recommendations |
+| 08    | US08 | Realizar ejercicios de respiración guiados | 3            | Activities      |
+| 09    | US09 | Programar pausas activas laborales         | 3            | Activities      |
+| 10    | US10 | Visualizar dashboard personal de estrés    | 5            | Dashboard       |
+| 11    | US11 | Generar informes de progreso               | 5            | Reports         |
+| 12    | US12 | Registrar desencadenantes de estrés        | 3            | Health Tracking |
+| 13    | US13 | Buscar psicólogos especializados           | 3            | Professionals   |
+| 14    | US14 | Agendar cita con psicólogo                 | 5            | Appointments    |
+| 15    | US15 | Compartir informes con especialistas       | 3            | Reports         |
+| 16    | US16 | Participar en grupos de apoyo              | 3            | Community       |
+| 17    | US17 | Acceder a biblioteca de recursos           | 2            | Resources       |
+| 18    | US18 | Participar en desafíos antiestrés          | 3            | Community       |
+| 19    | US19 | Analizar carga laboral                     | 5            | Analytics       |
+| 20    | US20 | Recibir recordatorios de ergonomía         | 2            | Notifications   |
 
 ---
 
@@ -1482,8 +1479,7 @@ Un mockup es una representación visual de un producto que muestra cómo lucirá
 
 Nuestro Landing Page:
 
-[● Link: [https://neurozen-home.netlify.app](https://neurozen-home.netlify.app)]
----
+## [● Link: [https://neurozen-home.netlify.app](https://neurozen-home.netlify.app)]
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -2656,22 +2652,22 @@ Gracias a esta dinámica colaborativa, el equipo logró consolidar una versión 
 
 ### 5.2.3.1.Sprint Planning 3.
 
-
-| Campo                                  | Descripción                                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint #**                           | Sprint 3                                                                                                                                                                                                                                                                                                                                    |
-| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                                                                             |
-| **Date**                               | 2025-11-13                                                                                                                                                                                                                                                                                                                                  |
-| **Time**                               | 02:08 PM (GMT -5)                                                                                                                                                                                                                                                                                                                           |
-| **Location**                           | Modalidad remota por Discord                                                                                                                                                                                                                                                                                                                |
-| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                                                                                                                                                                             |
-| **Attendees (to planning meeting)**    | Castro Picon Joao / Solis Chang Santiago / Angulo Abud Juan / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                                                                                                                                                                    |
-| **Sprint 2 – 3 Review Summary**        | Durante el Sprint 2 se completó la actualización del Landing Page, se internacionalizó el frontend y se fortaleció el diseño visual del proyecto. Los objetivos planteados se cumplieron de acuerdo con los tiempos estimados.                                                                                                              |
+| Campo                                  | Descripción                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                           | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Date**                               | 2025-11-13                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Time**                               | 02:08 PM (GMT -5)                                                                                                                                                                                                                                                                                                                                                                           |
+| **Location**                           | Modalidad remota por Discord                                                                                                                                                                                                                                                                                                                                                                |
+| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                                                                                                                                                                                                                             |
+| **Attendees (to planning meeting)**    | Castro Picon Joao / Solis Chang Santiago / Angulo Abud Juan / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                                                                                                                                                                                                                                 |
+| **Sprint 2 – 3 Review Summary**        | Durante el Sprint 2 se completó la actualización del Landing Page, se internacionalizó el frontend y se fortaleció el diseño visual del proyecto. Los objetivos planteados se cumplieron de acuerdo con los tiempos estimados.                                                                                                                                                              |
 | **Sprint 2 – 3 Retrospective Summary** | El equipo identificó la necesidad de estandarizar flujos y modelos para alinear el backend con los requerimientos funcionales del producto. Como mejora clave, se acordó que el backend debía ser construido bajo Domain-Driven Design para mantener coherencia modular con los bounded contexts definidos en la arquitectura del proyecto. Además, completamos el desarrollo del frontend. |
-| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                                                                             |
-| **Sprint 3 Goal**                      | Desarrollar el backend del proyecto NeuroZen utilizando Spring Boot, implementando los tres bounded contexts principales y aplicando principios de Domain-Driven Design (DDD) para garantizar un diseño modular, escalable y alineado a la arquitectura del dominio.                                                                        |
-| **Sprint 3 Velocity**                  | 6                                                                                                                                                                                                                                                                                                                                           |
-| **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                                                                                           |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint 3 Goal**                      | Desarrollar el backend del proyecto NeuroZen utilizando .NET Core, implementando los tres bounded contexts principales y aplicando principios de Domain-Driven Design (DDD) para garantizar un diseño modular, escalable y alineado a la arquitectura del dominio.                                                                                                                          |
+| **Sprint 3 Velocity**                  | 6                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**                | 6                                                                                                                                                                                                                                                                                                                                                                                           |
+
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 
 En la tercera iteración (Sprint 3), el equipo se enfocó en el desarrollo del backend de NeuroZen, construido con Spring Boot y diseñado completamente bajo Domain-Driven Design (DDD). Este sprint estuvo asociado a dos epics principales:
@@ -2711,32 +2707,32 @@ A continuación, se listan los commits que evidencian el desarrollo del **Backen
 
 #### Commits de Documentación y Diseño
 
-| Autor                     | Fecha      | Commit Message                                                                                                            | Commit ID |
-| :------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ | :-------- |
-| Vila Guillen Miguel   | 07/11/2025 | feat: add GetAllAppointmentsQueryByPatientId record for querying appointments                                             | 33627c0   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: update IEntityWithCreatedUpdatedDated to use DateTimeOffset and add Swashbuckle Annotations support                 | cb341b7   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: rename AppointmentDate to AppointmentDateTime for clarity                                                           | 1c2af24   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: enhance AppointmentResource with properties and add assembler method for entity conversion                           | e133657   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: implement appointment retrieval by patient ID in query and repository services                                      | caecaf9   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: update AppointmentAudit model with new properties and data types                                                    | 6e05d35   |
-| Vila Guillen Miguel   | 07/11/2025 | feat: add appointment domain models and services                                                                          | 2c4d874   |
-| Abud Angulo Juan Carlos  | 05/11/2025 | chore: commit remaining files                                                                                             | 5c4365f   |
-| Abud Angulo Juan Carlos  | 05/11/2025 | chore: push DDD and models                                                                                                | 9d9446a   |
-| Abud Angulo Juan Carlos  | 02/11/2025 | feat: created models based on front end                                                                                   | 2c0e6e4   |
-| Abud Angulo Juan Carlos  | 02/11/2025 | chore: initial project setup: swagger + mysql                                                                             | e697b9f   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibraryCommandService for handling resource library creation                                      | b8c828e   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryConfiguration for EF Core entity configuration                                                   | bcee8e4   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryResourceFromEntityAssembler for transforming ResourceLibrary entities                            | dfba058   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryRepository for managing resource libraries                                                       | a657584   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibrary management with command service, repository, and configuration                            | d283d58   |
-| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibrariesController for managing resource libraries                                                     | 085e80b   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement TriggerRepository for managing Trigger entities                                                           | 031b7d    |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add TriggerConfiguration for Entity Framework Core mapping                                                          | 979c878   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalCommandFromResourceAssembler for command transformation                                       | 9ed0e4c   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalResource record for professional creation                                                     | 2b9b59d   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement CreateProfessional and GetProfessionalById methods in ProfessionalsController                             | 588e6e5   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add nullable return type for Handle method in IProfessionalQueryService                                             | 6052db6   |
-| Solis Chang Santiago Valentino  | 13/11/2025 | feat: create IProfessionalCommandService interface for handling professional creation commands                            | 00ec21d   |
+| Autor                           | Fecha      | Commit Message                                                                                            | Commit ID |
+| :------------------------------ | :--------- | :-------------------------------------------------------------------------------------------------------- | :-------- |
+| Vila Guillen Miguel             | 07/11/2025 | feat: add GetAllAppointmentsQueryByPatientId record for querying appointments                             | 33627c0   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: update IEntityWithCreatedUpdatedDated to use DateTimeOffset and add Swashbuckle Annotations support | cb341b7   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: rename AppointmentDate to AppointmentDateTime for clarity                                           | 1c2af24   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: enhance AppointmentResource with properties and add assembler method for entity conversion          | e133657   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: implement appointment retrieval by patient ID in query and repository services                      | caecaf9   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: update AppointmentAudit model with new properties and data types                                    | 6e05d35   |
+| Vila Guillen Miguel             | 07/11/2025 | feat: add appointment domain models and services                                                          | 2c4d874   |
+| Abud Angulo Juan Carlos         | 05/11/2025 | chore: commit remaining files                                                                             | 5c4365f   |
+| Abud Angulo Juan Carlos         | 05/11/2025 | chore: push DDD and models                                                                                | 9d9446a   |
+| Abud Angulo Juan Carlos         | 02/11/2025 | feat: created models based on front end                                                                   | 2c0e6e4   |
+| Abud Angulo Juan Carlos         | 02/11/2025 | chore: initial project setup: swagger + mysql                                                             | e697b9f   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibraryCommandService for handling resource library creation                      | b8c828e   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryConfiguration for EF Core entity configuration                                   | bcee8e4   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryResourceFromEntityAssembler for transforming ResourceLibrary entities            | dfba058   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibraryRepository for managing resource libraries                                       | a657584   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: implement ResourceLibrary management with command service, repository, and configuration            | d283d58   |
+| Requena Gutiérrez Diego Gabriel | 12/11/2025 | feat: add ResourceLibrariesController for managing resource libraries                                     | 085e80b   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement TriggerRepository for managing Trigger entities                                           | 031b7d    |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add TriggerConfiguration for Entity Framework Core mapping                                          | 979c878   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalCommandFromResourceAssembler for command transformation                       | 9ed0e4c   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add CreateProfessionalResource record for professional creation                                     | 2b9b59d   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: implement CreateProfessional and GetProfessionalById methods in ProfessionalsController             | 588e6e5   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: add nullable return type for Handle method in IProfessionalQueryService                             | 6052db6   |
+| Solis Chang Santiago Valentino  | 13/11/2025 | feat: create IProfessionalCommandService interface for handling professional creation commands            | 00ec21d   |
 
 **Evidencia de los commits del backend**
 
@@ -2748,108 +2744,115 @@ A continuación, se listan los commits que evidencian el desarrollo del **Backen
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
-Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **ASP.NET Core** siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios *bounded contexts* clave:
+Durante este tercer sprint, el desarrollo se centró en la **implementación del backend de NeuroZen**, construido con **ASP.NET Core** siguiendo principios de **Domain-Driven Design (DDD)** y con la creación de varios _bounded contexts_ clave:
 
-- **Profiles Context**  
-- **Appointments & Scheduling Context**  
-- **Patients & Professionals Context**  
-- **Reports & Monitoring Context**  
-- **Resource Library Context**  
-- **Subscriptions Context**  
+- **Profiles Context**
+- **Appointments & Scheduling Context**
+- **Patients & Professionals Context**
+- **Reports & Monitoring Context**
+- **Resource Library Context**
+- **Subscriptions Context**
 - **Triggers Context**
 
 El objetivo principal fue establecer una **arquitectura sólida del backend**, exponer los **endpoints REST necesarios** y garantizar el correcto funcionamiento de los flujos principales del sistema.
 
 ---
 
-## **Evidencias de desarrollo y pruebas**
+#### **Evidencias de desarrollo y pruebas**
 
-### **Pruebas funcionales manuales**
+#### **Pruebas funcionales manuales**
 
 Se realizaron validaciones manuales para confirmar el correcto funcionamiento de los módulos desarrollados:
 
 - **Profiles**
+
   - Verificación de endpoints.
   - Creación y obtención de perfiles mediante servicios de comando y consulta.
 
 - **Appointments**
-  - Creación de citas.  
-  - Reprogramación.  
-  - Inicio, confirmación, cancelación y finalización de citas.  
-  - Consulta de citas por ID, paciente o profesional.  
-  - Inclusión del tipo de cita (*AppointmentType*) y notas adicionales.
+
+  - Creación de citas.
+  - Reprogramación.
+  - Inicio, confirmación, cancelación y finalización de citas.
+  - Consulta de citas por ID, paciente o profesional.
+  - Inclusión del tipo de cita (_AppointmentType_) y notas adicionales.
 
 - **Patients y Professionals**
-  - Creación de recursos.  
-  - Ensamblaje correcto desde `EntityAssembler`.  
+
+  - Creación de recursos.
+  - Ensamblaje correcto desde `EntityAssembler`.
   - Validación de campos obligatorios.
 
 - **Reports**
-  - Generación de reportes.  
-  - Recuperación por ID.  
+
+  - Generación de reportes.
+  - Recuperación por ID.
   - Filtrado por empleado.
 
 - **Resource Library**
-  - Creación y persistencia de bibliotecas de recursos.  
+
+  - Creación y persistencia de bibliotecas de recursos.
   - Ensamblaje correcto de comandos y recursos.
 
 - **Subscriptions**
-  - Creación, consulta, actualización y eliminación de suscripciones.  
+
+  - Creación, consulta, actualización y eliminación de suscripciones.
   - Correcta conexión con `AppDbContext` y repositorios.
 
 - **Triggers**
-  - Creación y auditoría de *triggers*.  
+
+  - Creación y auditoría de _triggers_.
   - Correcto registro en base de datos.
 
 - **Lógica del dominio**
-  - Validación de estados del `AppointmentStatus`.  
-  - Ensambladores desde recursos a comandos.  
+  - Validación de estados del `AppointmentStatus`.
+  - Ensambladores desde recursos a comandos.
   - Implementación de interfaces para `command-service` y `query-service`.
 
- ### **Pruebas de despliegue y ejecución local**
- 
+#### **Pruebas de despliegue y ejecución local**
+
 - Ejecución del backend en entorno local mediante:
-	- `dotnet run`
-    - Ejecución mediante contenedor Docker (cuando aplicó)   
+  - `dotnet run`
+    - Ejecución mediante contenedor Docker (cuando aplicó)
 - Revisión completa del **Swagger UI** hospedado en:
-   `http://localhost:5059/swagger/index.html`
+  `http://localhost:5059/swagger/index.html`
 - Validación visual de todos los endpoints de los bounded contexts:
   - `/api/v1/appointments`
   - `/api/v1/professionals`
   - `/api/v1/resource-libraries`
   - `/api/v1/subscriptions`
   - `/api/v1/triggers`
-    
+
 Estas pruebas confirmaron la disponibilidad del backend y el correcto mapeo de rutas REST.
 
 ---
 
-### **Pruebas de integración en GitHub**
+#### **Pruebas de integración en GitHub**
 
-- Pruebas de integración en GitHub:
-  - Validación de integraciones mediante:
-    - Pull Requests, incluyendo merges en la rama development.
-    - Confirmación del merge principal:
-    - “Merge remote-tracking branch 'origin/development' into development”
-    - Revisión de commits relacionados con:
-      - `ResourceLibrary` (command, repository, configuration, controller)
-      - `Subscriptions` (command, query, repository, endpoints)
-      - `Triggers` (repository, configuration, controller)
-      - `Professionals` (domain, command/query services, assemblers)
-      - `Appointments` (commands, resources, query services)
-        
-  - Comprobación de aportes equitativos de todos los miembros en módulos clave:
-  - ResourceLibrary
-  - Subscriptions
-  - Triggers
-  - Appointments
-  - Professionals
+#### Pruebas de integración en GitHub:
+
+- Validación de integraciones mediante:
+  - Pull Requests, incluyendo merges en la rama development.
+  - Confirmación del merge principal:
+  - “Merge remote-tracking branch 'origin/development' into development”
+  - Revisión de commits relacionados con:
+    - `ResourceLibrary` (command, repository, configuration, controller)
+    - `Subscriptions` (command, query, repository, endpoints)
+    - `Triggers` (repository, configuration, controller)
+    - `Professionals` (domain, command/query services, assemblers)
+    - `Appointments` (commands, resources, query services)
+- Comprobación de aportes equitativos de todos los miembros en módulos clave:
+- ResourceLibrary
+- Subscriptions
+- Triggers
+- Appointments
+- Professionals
 
 - Confirmación de que el flujo de trabajo colaborativo mediante GitHub se mantuvo estable durante todo el sprint.
 
 ---
 
-## **Resultados**
+#### **Resultados**
 
 - Todos los endpoints desarrollados funcionaron correctamente.
 - Se estableció una versión funcional, modular y documentada del backend.
@@ -2871,10 +2874,11 @@ Después de finalizar el tercer sprint, hemos logrado agregar los endpoints ante
 Durante este **Sprint 3**, la documentación de servicios se centró en la **definición, estandarización y ampliación de los servicios del backend de NeuroZen**, desarrollados bajo **Spring Boot** y aplicando principios de **Domain-Driven Design (DDD)** dentro de los bounded contexts implementados.  
 Se registraron los siguientes entregables técnicos:
 
-- **Documentación formal de la arquitectura del backend**: descripción de la estructura hexagonal, capas del dominio, aplicación e infraestructura, incluyendo los bounded contexts de *ResourceLibrary*, *Appointments*, *Subscriptions*, *Professionals*, y *Triggers*.
+- **Documentación formal de la arquitectura del backend**: descripción de la estructura hexagonal, capas del dominio, aplicación e infraestructura, incluyendo los bounded contexts de _ResourceLibrary_, _Appointments_, _Subscriptions_, _Professionals_, y _Triggers_.
 
 - **Documentación generada automáticamente en Swagger**:  
   Todos los endpoints REST desarrollados fueron expuestos y documentados mediante Swagger UI, permitiendo visualizar:
+
   - Rutas disponibles
   - Métodos HTTP
   - Parámetros
@@ -2883,6 +2887,7 @@ Se registraron los siguientes entregables técnicos:
 
 - **Documentación técnica en GitHub**:  
   Se registraron commits que evidencian:
+
   - Creación de interfaces de servicios
   - Implementación de context-facades
   - Implementación de repositorios
@@ -2893,7 +2898,7 @@ Se registraron los siguientes entregables técnicos:
   Todo este trabajo se llevó a cabo mediante ramas, PRs y merges que reflejan el flujo de trabajo colaborativo del equipo.
 
 - **Modelos y Value Objects documentados**:  
-  Se dejaron especificaciones técnicas para agregados clave como *ResourceLibrary*, *Subscriptions*, *Professional*, *Triggers*  y *Appointment*, junto con sus valores inmutables y reglas de negocio respecto a su ciclo de vida.
+  Se dejaron especificaciones técnicas para agregados clave como _ResourceLibrary_, _Subscriptions_, _Professional_, _Triggers_ y _Appointment_, junto con sus valores inmutables y reglas de negocio respecto a su ciclo de vida.
 
 Esta documentación garantiza la **escalabilidad del backend**, y establece una base sólida para la incorporación de nuevos servicios, integraciones externas y ampliación de los bounded contexts en próximos sprints.
 
@@ -2903,7 +2908,7 @@ Para este **Sprint 3**, el despliegue y ejecución del **backend de NeuroZen** s
 
 - **Git**: utilizado para el control de versiones, permitiendo registrar la evolución del backend, manejar los cambios de código entre módulos y mantener un historial claro de commits.
 
-- **GitHub**: empleado como repositorio central para almacenar el código del backend, gestionar ramas de desarrollo, crear _pull requests_ y revisar integraciones entre los diferentes bounded contexts como *Profiles*, *Appointments*, *Patients*, *Professionals* y *Reports*.
+- **GitHub**: empleado como repositorio central para almacenar el código del backend, gestionar ramas de desarrollo, crear _pull requests_ y revisar integraciones entre los diferentes bounded contexts como _Profiles_, _Appointments_, _Patients_, _Professionals_ y _Reports_.
 
 - **Spring Boot & Maven**: herramientas principales para la construcción, empaquetado y despliegue del backend.  
   Se emplearon comandos como `mvn spring-boot:run` y `mvn clean install` para validar el correcto funcionamiento del proyecto.
@@ -2915,9 +2920,9 @@ Estas herramientas y procesos permitieron mantener un flujo de trabajo coordinad
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-Durante el **Sprint 3**, la colaboración del equipo se centró en el **desarrollo del backend de NeuroZen** y en la coordinación continua mediante **GitHub**, asegurando un flujo de trabajo estructurado y alineado con los principios de *Domain-Driven Design (DDD)*:
+Durante el **Sprint 3**, la colaboración del equipo se centró en el **desarrollo del backend de NeuroZen** y en la coordinación continua mediante **GitHub**, asegurando un flujo de trabajo estructurado y alineado con los principios de _Domain-Driven Design (DDD)_:
 
-- Cada integrante trabajó en **ramas individuales** asociadas a los bounded contexts del backend, incluyendo *Subscriptions*, *Triggers*, *ResourceLibrary*, *Professionals*, *Appointments* y *Reports*.
+- Cada integrante trabajó en **ramas individuales** asociadas a los bounded contexts del backend, incluyendo _Subscriptions_, _Triggers_, _ResourceLibrary_, _Professionals_, _Appointments_ y _Reports_.
 
 - Se mantuvo un flujo constante de **pull requests, revisiones y merges**, garantizando la calidad del código y la correcta integración de los servicios de dominio, repositorios, agregados y controladores REST.
 
@@ -2935,56 +2940,81 @@ Esta metodología colaborativa permitió integrar de manera exitosa los servicio
 
 ---
 
-
 ## 5.2.4. Sprint 4
 
 ### 5.2.4.1. Sprint Planning 4
 
-
+| Campo                                  | Descripción                                                                                                                                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                           | Sprint 4                                                                                                                                                                            |
+| **Sprint Planning Background**         |                                                                                                                                                                                     |
+| **Date**                               | 2025-12-02                                                                                                                                                                          |
+| **Time**                               | 02:08 PM (GMT -5)                                                                                                                                                                   |
+| **Location**                           | Modalidad remota por Discord                                                                                                                                                        |
+| **Prepared By**                        | Equipo NeuroZen                                                                                                                                                                     |
+| **Attendees (to planning meeting)**    | Castro Picon Joao / Solis Chang Santiago / Angulo Abud Juan / Vila Guillen Miguel / Requena Gutiérrez Diego                                                                         |
+| **Sprint 3 – 4 Review Summary**        | Durante el Sprint 3 se completó el backend de la aplicación y se conectó exitosamente con el frontend. Los objetivos planteados se cumplieron de acuerdo con los tiempos estimados. |
+| **Sprint 3 – 4 Retrospective Summary** | El equipo identificó la necesidad de estandarizar flujos y modelos para alinear el backend con los requerimientos funcionales del producto.                                         |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                     |
+| **Sprint 4 Goal**                      | Pulir el Back-End de la aplicación web NeuroZen y conectarlo con el Front-End.                                                                                                      |
+| **Sprint 4 Velocity**                  | 6                                                                                                                                                                                   |
+| **Sum of Story Points**                | 6                                                                                                                                                                                   |
 
 ---
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
 
+En la cuarta iteración (Sprint 4), el equipo se enfocó en el **refinamiento del backend de NeuroZen**, la **integración completa con el frontend** y la **optimización de los servicios REST**, construido con **.NET Core** y diseñado completamente bajo **Domain-Driven Design (DDD)**. Este sprint estuvo asociado a dos epics principales:
 
+**EP02 – Gestión del Test, Recomendaciones y Reportes**
+
+**EP03 – Gestión de Citas y Conexión con Profesionales**
+
+Durante este sprint se refinaron y expandieron los módulos funcionales del backend correspondientes a los bounded contexts definidos: **Stress Test & Reports**, **Appointments & Professional Support**, e **Identity & Access**.
+
+El desarrollo incluyó la optimización de controladores, servicios de dominio, repositorios y la definición de entidades agregadas, siguiendo principios de diseño modular y separación estricta de capas. Además, se implementó la **conexión completa entre backend y frontend** mediante llamadas API REST.
+
+#### Historias de Usuario Abordadas
+
+| ID   | Título                                      | Descripción                                                                                                            | Estimación (Horas) | Asignado a | Estado |
+| ---- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ------ |
+| US18 | Integración de autenticación con el backend | Como usuario, quiero que mi inicio de sesión se valide en el backend para acceder de forma segura a mi perfil.         | 6                  | Equipo     | Done   |
+| US19 | Sincronización de reportes con el frontend  | Como empleado, quiero que los reportes generados se visualicen en tiempo real en el frontend.                          | 7                  | Equipo     | Done   |
+| US20 | Actualización de estado de citas            | Como psicólogo, quiero actualizar el estado de una cita desde el frontend para reflejar cambios en tiempo real.        | 5                  | Equipo     | Done   |
+| US21 | Visualización de profesionales disponibles  | Como usuario, quiero ver la lista de psicólogos disponibles en el frontend para elegir uno y agendar una cita.         | 6                  | Equipo     | Done   |
+| US22 | Optimización de consultas al backend        | Como desarrollador, quiero optimizar las consultas al backend para mejorar el rendimiento de la aplicación.            | 8                  | Equipo     | Done   |
+| US23 | Validación de datos en formularios          | Como usuario, quiero que los datos ingresados en los formularios sean validados antes de enviarse al backend.          | 4                  | Equipo     | Done   |
+| US24 | Gestión de errores en API REST              | Como desarrollador, quiero implementar manejo de errores en las respuestas del backend para mejorar la experiencia UX. | 5                  | Equipo     | Done   |
+
+**Evidencia del avance en Trello**
+
+![trello 4](assets/md-images/trello4.jpg)
+
+Este Sprint permitió **consolidar la integración entre backend y frontend**, asegurando que todas las funcionalidades principales de NeuroZen estén completamente operativas, optimizadas y listas para el uso en producción.
 
 ---
 
-## 5.2.4.3. Sprint Backlog 4
+### 5.2.4.3. Sprint Backlog 4
 
-
-
-### **Sprint Backlog 4 – Tareas Técnicas**
-
-
+#### **Sprint Backlog 4 – Tareas Técnicas**
 
 ---
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
-
-
 ---
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
-
-
 
 ---
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-
-
 ---
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-
-
 ### 5.2.4.8. Team Collaboration Insights during Sprint
-
-
 
 ---
 
@@ -2992,52 +3022,54 @@ Esta metodología colaborativa permitió integrar de manera exitosa los servicio
 
 ## 5.3.1. Diseño de Entrevistas.
 
-**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**  
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
-Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas para 
-comprender cómo los residentes perciben la aplicación y si sienten que el diseño y contenido 
-de la página reflejan adecuadamente su objetivo que es apaciguar el estrés de las personas. 
-Además queremos saber si la página motiva a los usuarios a registrarse y a confiar en 
-Neurozen como una ayuda a su estrés.  
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas para
+comprender cómo los residentes perciben la aplicación y si sienten que el diseño y contenido
+de la página reflejan adecuadamente su objetivo que es apaciguar el estrés de las personas.
+Además queremos saber si la página motiva a los usuarios a registrarse y a confiar en
+Neurozen como una ayuda a su estrés.
 
 Introducción:  
-Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
-desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
-Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
-y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés.
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto,
+y le agradecemos su tiempo para ayudarnos con esta entrevista.
 
-Preguntas:  
-- ¿Qué te hizo sentir o pensar la página cuando la viste por primera vez?  
-- ¿Entendiste fácilmente para qué sirve la aplicación? ¿Qué crees que hace?  
-- ¿Qué te parece la parte donde puedes registrarte o iniciar sesión? ¿Te queda claro cómo hacerlo?  
-- ¿La página te da confianza sobre la seguridad de tus datos o privacidad? ¿Por qué?  
-- ¿Te parece que el diseño (colores, botones, distribución) es fácil de usar y moverse?  
-- ¿Qué cambiarías o mejorarías en esta página?  
-- ¿Qué opinas de las nuevas funciones de la aplicación como ver perfil, herramientas contra el estrés y suscripciones?  
+Preguntas:
+
+- ¿Qué te hizo sentir o pensar la página cuando la viste por primera vez?
+- ¿Entendiste fácilmente para qué sirve la aplicación? ¿Qué crees que hace?
+- ¿Qué te parece la parte donde puedes registrarte o iniciar sesión? ¿Te queda claro cómo hacerlo?
+- ¿La página te da confianza sobre la seguridad de tus datos o privacidad? ¿Por qué?
+- ¿Te parece que el diseño (colores, botones, distribución) es fácil de usar y moverse?
+- ¿Qué cambiarías o mejorarías en esta página?
+- ¿Qué opinas de las nuevas funciones de la aplicación como ver perfil, herramientas contra el estrés y suscripciones?
 
 ---
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
-Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas 
-dirigidas a usuarios pertenecientes al segmento objetivo: adultos entre 20 y 50 años con 
-trabajo informal o sin horarios definidos. A continuación, presentamos una entrevista 
-realizada a Cristofer, uno de nuestros usuarios de prueba.  
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas
+dirigidas a usuarios pertenecientes al segmento objetivo: adultos entre 20 y 50 años con
+trabajo informal o sin horarios definidos. A continuación, presentamos una entrevista
+realizada a Cristofer, uno de nuestros usuarios de prueba.
 
 Introducción:  
-Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
-desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
-Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
-y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés.
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto,
+y le agradecemos su tiempo para ayudarnos con esta entrevista.
 
-Preguntas:  
-- ¿La estética de la página (colores, imágenes, diseño) te resulta atractiva o te causa alguna impresión en particular?  
-- ¿Te resultó fácil navegar por el menú y encontrar las secciones como “Beneficios” o “Ejercicios”?  
-- ¿Sentiste que el contenido se adapta a alguien como tú, con horarios poco estructurados o sin un trabajo fijo?  
-- ¿Qué opinas de la sección de “Ejercicios contra el estrés”? ¿Te llama la atención probarlos?  
-- ¿Te quedó claro que la plataforma también ofrece contacto con profesionales? ¿Te parecería útil esa opción?  
-- ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?  
-- ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?  
+Preguntas:
+
+- ¿La estética de la página (colores, imágenes, diseño) te resulta atractiva o te causa alguna impresión en particular?
+- ¿Te resultó fácil navegar por el menú y encontrar las secciones como “Beneficios” o “Ejercicios”?
+- ¿Sentiste que el contenido se adapta a alguien como tú, con horarios poco estructurados o sin un trabajo fijo?
+- ¿Qué opinas de la sección de “Ejercicios contra el estrés”? ¿Te llama la atención probarlos?
+- ¿Te quedó claro que la plataforma también ofrece contacto con profesionales? ¿Te parecería útil esa opción?
+- ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?
+- ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?
 
 ## 5.3.2. Registro de Entrevistas.
 
@@ -3083,12 +3115,12 @@ Detalles de la entrevista:
 
 Resumen de los puntos clave en la entrevista:
 
-- Valeria considera que el diseño es visualmente atractivo y transmite calma, lo cual está alineado con el propósito de la app.  
-- Navegar por el menú fue sencillo, aunque sugiere que los íconos podrían tener etiquetas más claras.  
-- El contenido le pareció adecuado para personas con rutinas variables como ella.  
-- La sección de ejercicios le pareció interesante y estaría dispuesta a probarlos.  
-- Le gustó que se ofrezca contacto con profesionales, aunque recomienda que se explique mejor cómo funciona esa opción.  
-- Sugiere incluir una guía rápida para nuevos usuarios en la landing page.  
+- Valeria considera que el diseño es visualmente atractivo y transmite calma, lo cual está alineado con el propósito de la app.
+- Navegar por el menú fue sencillo, aunque sugiere que los íconos podrían tener etiquetas más claras.
+- El contenido le pareció adecuado para personas con rutinas variables como ella.
+- La sección de ejercicios le pareció interesante y estaría dispuesta a probarlos.
+- Le gustó que se ofrezca contacto con profesionales, aunque recomienda que se explique mejor cómo funciona esa opción.
+- Sugiere incluir una guía rápida para nuevos usuarios en la landing page.
 - Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
 
 ---
@@ -3099,22 +3131,20 @@ Resumen de los puntos clave en la entrevista:
 
 Este análisis se basa en principios de usabilidad para evaluar la experiencia del usuario en la aplicación NeuroZen. Se identifican fortalezas, debilidades y recomendaciones de mejora.
 
-| **Heurística**                         | **Severidad** | **Descripción**                                                                                                                                     | **Recomendación**                                                                                                   |
-|---------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Visibilidad del estado del sistema    | 2             | La aplicación cuenta con una sección de “Tests” donde el usuario puede realizar un test dentro de la misma página web para ver su nivel de estrés. | La sección de test debe mejorar un poco el diseño en mostrar las preguntas más interactivas para el usuario.        |
-| Control y libertad del usuario        | 1             | El usuario puede eliminar, cancelar o rehacer cualquier actividad que esté haciendo en la aplicación, porque siempre tiene una opción para cancelar.| En esta sección no hay mejoras, ya que siempre se encuentra esta heurística.                                        |
-| Diseño estético y minimalista         | 1             | El diseño es limpio y tranquilo, lo cual va en línea con el objetivo del proyecto. No hay sobrecarga de información.                               | Mantener el estilo actual. Podría beneficiarse de sutiles animaciones o íconos explicativos para aumentar el atractivo. |
-| Reconocimiento en lugar de recuerdo   | 3             | La aplicación aún presenta algunos fallos en cuanto a guardar información cotidiana de la actividad del usuario.                                   | Se debe mejorar el análisis de la información que el usuario mantiene cotidianamente para disminuir la carga de memoria. |
-
+| **Heurística**                      | **Severidad** | **Descripción**                                                                                                                                      | **Recomendación**                                                                                                        |
+| ----------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Visibilidad del estado del sistema  | 2             | La aplicación cuenta con una sección de “Tests” donde el usuario puede realizar un test dentro de la misma página web para ver su nivel de estrés.   | La sección de test debe mejorar un poco el diseño en mostrar las preguntas más interactivas para el usuario.             |
+| Control y libertad del usuario      | 1             | El usuario puede eliminar, cancelar o rehacer cualquier actividad que esté haciendo en la aplicación, porque siempre tiene una opción para cancelar. | En esta sección no hay mejoras, ya que siempre se encuentra esta heurística.                                             |
+| Diseño estético y minimalista       | 1             | El diseño es limpio y tranquilo, lo cual va en línea con el objetivo del proyecto. No hay sobrecarga de información.                                 | Mantener el estilo actual. Podría beneficiarse de sutiles animaciones o íconos explicativos para aumentar el atractivo.  |
+| Reconocimiento en lugar de recuerdo | 3             | La aplicación aún presenta algunos fallos en cuanto a guardar información cotidiana de la actividad del usuario.                                     | Se debe mejorar el análisis de la información que el usuario mantiene cotidianamente para disminuir la carga de memoria. |
 
 ---
 
 ## 5.4. Video About-the-Product.
 
- Link : https://drive.google.com/file/d/1pLUl1vKjnhJDfUYzBy34ADnl1eSLYGPn/view?usp=sharing
- 
+Link : https://drive.google.com/file/d/1pLUl1vKjnhJDfUYzBy34ADnl1eSLYGPn/view?usp=sharing
+
 ---
- 
 
 # 6. Conclusiones
 
