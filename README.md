@@ -3181,9 +3181,13 @@ Preguntas:
 - ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?
 - ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?
 
+---
+
 ### 5.3.2. Registro de Entrevistas.
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
+**Entrevista 1 – Segmento 1**
 
 - Nombre: Milenio Bonifacio Vila Lujan.
 
@@ -3205,7 +3209,63 @@ Resumen de los puntos clave en la entrevista:
 
 Milenio Bonifacio, un vendedor de helados de 27 años, comentó durante la entrevista que la landing page de NeuroZen le generó una impresión tranquila y clara, entendiendo rápidamente que la aplicación está orientada a reducir el estrés. Consideró intuitiva la sección de registro y percibió confianza en el diseño, aunque sugirió incluir más información sobre privacidad. Señaló que la distribución y los colores facilitan la navegación, y recomendó añadir ejemplos visuales del funcionamiento. Sobre las nuevas funciones, opinó que son útiles y coherentes con el propósito de la app.
 
+**Entrevista 2 – Segmento 1**
+
+- Nombre: Alejandro Cárdenas López
+
+- Sexo: Masculino.
+
+- Edad: 24 años.
+
+- Estado Civil: Soltero.
+
+- Labor: Operador de almacén con turnos extendidos
+
+Detalles de la entrevista:
+
+- Duración: Mas o menos 10 minutos aproximadamente.
+
+Link : [https://drive.google.com/drive/folders/1TXbnV7_IFn77mdGEWyPfuNRUqZb9FTb0?usp=sharing](https://drive.google.com/drive/folders/1TXbnV7_IFn77mdGEWyPfuNRUqZb9FTb0?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+Alejandro comentó que la landing page de NeuroZen le transmitió una sensación profesional y tranquila gracias a los colores y la distribución equilibrada. Entendió inmediatamente que la app se enfocaba en la reducción del estrés.
+Dijo que la sección de registro le pareció clara, aunque sugirió incluir un pequeño texto explicando qué beneficios gana el usuario al registrarse.
+Notó que el diseño era moderno y sencillo de navegar, aunque para personas con poco tiempo sería útil incluir botones más visibles.
+Sugirió agregar una sección con testimonios o casos reales para aumentar la confianza.
+En cuanto a las nuevas funciones, opinó que las herramientas contra el estrés serían ideales para personas con jornadas extendidas y que la opción de perfil y suscripciones podría ser útil si ofrece recomendaciones personalizadas.
+
+**Entrevista 3 – Segmento 1**
+
+- Nombre: Cristian Rivera Mendoza
+
+- Sexo: Masculino.
+
+- Edad: 26 años.
+
+- Estado Civil: Soltero.
+
+- Labor: Técnico de mantenimiento con jornadas largas
+
+Detalles de la entrevista:
+
+- Duración: Mas o menos 10 minutos aproximadamente.
+
+Link : [https://drive.google.com/drive/folders/1cDqIQDhljWPuGd-m5QhuJUAyu_L4FfaG?usp=sharing](https://drive.google.com/drive/folders/1cDqIQDhljWPuGd-m5QhuJUAyu_L4FfaG?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+Cristian dijo que al ingresar a la landing page sintió que la aplicación era seria y confiable. La información le pareció clara y entendió desde el inicio el propósito de combatir el estrés.
+Consideró muy intuitiva la sección de registro, aunque recomendó añadir una breve guía visual para usuarios nuevos.
+El diseño le pareció limpio y fácil de navegar. Sin embargo, sugirió hacer que los títulos sean un poco más grandes para facilitar la lectura.
+Respecto a privacidad, le transmitió confianza, aunque le gustaría ver un apartado que explique qué datos se almacenan.
+Comentó que las nuevas funciones como herramientas de estrés, perfil y suscripciones le parecen coherentes con el propósito de la aplicación y que serían útiles en momentos de mucha carga laboral.
+
+---
+
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+**Entrevista 4 – Segmento 2**
 
 - Nombre: Valeria
 
@@ -3232,6 +3292,62 @@ Resumen de los puntos clave en la entrevista:
 - Le gustó que se ofrezca contacto con profesionales, aunque recomienda que se explique mejor cómo funciona esa opción.
 - Sugiere incluir una guía rápida para nuevos usuarios en la landing page.
 - Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
+
+**Entrevista 5 – Segmento 2**
+
+- Nombre: Joaquín Herrera Tamayo
+
+- Sexo: Masculino
+
+- Edad: 23 años
+
+- Estado Civil: Soltero
+
+- Labor: Repartidor independiente con horarios variables
+
+Detalles de la entrevista:
+
+- Duración: Mas o menos 10 minutos aproximadamente.
+
+- Link: [https://drive.google.com/drive/folders/1cw2cbsHjGYblujk0frozfOtwaCB3JUPY?usp=sharing](https://drive.google.com/drive/folders/1cw2cbsHjGYblujk0frozfOtwaCB3JUPY?usp=sharing)
+
+Resumen de los puntos clave en la entrevista:
+
+Joaquín mencionó que la estética de la página le pareció relajante y adecuada para alguien que trabaja en la calle y necesita momentos de descanso.
+Comentó que navegar por el menú fue sencillo, pero sugirió que algunos íconos incluyan texto porque no todos son intuitivos.
+Sintió que el contenido se adapta bien a personas con horarios irregulares.
+Sobre la sección de ejercicios contra el estrés, dijo que le llamó bastante la atención porque suele tener días muy cargados.
+La idea de contactar profesionales le pareció útil, pero recomendó que se explique mejor si es por chat, videollamada o mensajes.
+Sugirió añadir un pequeño tutorial para nuevos usuarios.
+Sobre las funciones de login, perfil y suscripciones, opinó que serían útiles si incluyen beneficios como recordatorios o rutinas rápidas.
+
+**Entrevista 6 – Segmento 2**
+
+- Nombre: Mateo Alarcón Palacios
+
+- Sexo: Masculino
+
+- Edad: 25 años
+
+- Estado Civil: Soltero
+
+- Labor: Freelancer de edición de video con horarios flexibles
+
+Detalles de la entrevista:
+
+- Duración: Mas o menos 10 minutos aproximadamente.
+
+- Link: [https://drive.google.com/drive/folders/1Agr3NAavTSWaCIPs1MlKkhshXdCUGAB7?usp=drive_link](https://drive.google.com/drive/folders/1Agr3NAavTSWaCIPs1MlKkhshXdCUGAB7?usp=drive_link)
+
+Resumen de los puntos clave en la entrevista:
+
+Mateo comentó que el diseño de la landing page le pareció atractivo, especialmente por los colores suaves que transmiten serenidad.
+Navegar por la página le fue fácil, aunque sugirió añadir una vista previa de los ejercicios para que los usuarios sepan qué esperar.
+Indicó que el contenido se adapta bien a personas que no siguen un horario fijo.
+La sección de ejercicios contra el estrés le pareció muy interesante y dijo que sí los probaría.
+Sobre el contacto con profesionales, le gustó la idea, pero sugirió aclarar si se trata de psicólogos, coaches o especialistas en bienestar.
+Propuso incluir una sección de “primeros pasos” al ingresar.
+Vio útiles las funciones de login, perfil y suscripciones, sobre todo si pueden personalizarse según la rutina del usuario.
 
 ---
 
