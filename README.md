@@ -6,12 +6,13 @@
   <p align="center">Facultad de Ingeniería</p>
   <p align="center">Carrera: Ingeniería de Software</p>
   <p align="center"><b>Perido 202520 </b></p>
-  <p align="center">1ASI0730 - Aplicaciones Web</p>
+  <p align="center">Codigo del curso: 1ASI0730 </p>
+  <p align="center">Nombre del curso: Aplicaciones Web</p>
   <p align="center">NRC: 7414</p>
-  <p align="center">Profesor: Alex Humberto Sánchez Ponce</p>
+  <p align="center">Nombre del profesor: Alex Humberto Sánchez Ponce</p>
   <p align="center"><b>Informe de Trabajo Final</b></p>
-  <p align="center">Startup: NeuroDraw</p>
-  <p align="center">Producto: NeuroZen</p>
+  <p align="center">Nombre del startup: NeuroDraw</p>
+  <p align="center">Nombre del producto: NeuroZen</p>
 </div>
 
 ---
@@ -55,7 +56,7 @@
 
 <div>
   
-  <p align="center"><b>Septiembre 2025</b></p>
+  <p align="center"><b>Diciembre, 2025</b></p>
 </div>
 
 ---
