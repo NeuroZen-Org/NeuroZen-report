@@ -2981,7 +2981,7 @@ El desarrollo incluyó la optimización de controladores, servicios de dominio, 
 
 **Evidencia del avance en Trello**
 
-![trello 4](assets/md-images/trello4.jpg)
+![trello 4](assets/md-images/trello4.png)
 
 Este Sprint permitió **consolidar la integración entre backend y frontend**, asegurando que todas las funcionalidades principales de NeuroZen estén completamente operativas, optimizadas y listas para el uso en producción.
 
