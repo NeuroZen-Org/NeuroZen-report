@@ -239,70 +239,12 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
 **Criterio:** Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
 ---
-## Student Outcome 3 – Comunicación efectiva
+
 
 | **Criterio específico** | **Acciones realizadas por el grupo** | **Conclusiones** |
 |-------------------------|----------------------------------------|------------------|
-| **Trabajo en equipo para proporcionar liderazgo en forma conjunta** | **Castro Picón, Manuel Fernando Joao**  
-• **TB1:** Coordinó tareas, organizó reuniones y brindó apoyo técnico.  
-• **TP1:** Realizó aportes individuales alineados al avance grupal.  
-• **TB2:** Promovió participación y colaboración constante.  
-• **TF1:** Contribuyó al desarrollo final mediante soporte técnico.  
-
-**Solis Chang, Santiago Valentino**  
-• **TB1:** Supervisó el avance y gestionó la comunicación interna.  
-• **TP1:** Integró sus entregables de manera efectiva al trabajo grupal.  
-• **TB2:** Facilitó dinámicas para aprovechar fortalezas del equipo.  
-• **TF1:** Aseguró cohesión al unir los componentes del proyecto.  
-
-**Vila Guillen, Miguel Ángel**  
-• **TB1:** Monitoreó tareas técnicas y apoyó en resolución de problemas.  
-• **TP1:** Aportó contenido técnico necesario para el progreso del proyecto.  
-• **TB2:** Brindó soporte técnico continuo.  
-• **TF1:** Refinó aspectos técnicos del entregable final.  
-
-**Requena Gutiérrez, Diego Gabriel**  
-• **TB1:** Ordenó documentación y organizó reuniones de revisión.  
-• **TP1:** Elaboró contenido claro y útil para la organización grupal.  
-• **TB2:** Impulsó participación equitativa y metas comunes.  
-• **TF1:** Colaboró en la consolidación de la documentación final.  
-
-**Abud Angulo, Juan Carlos**  
-• **TB1:** Coordinó entregables y verificó formatos.  
-• **TP1:** Aseguró coherencia en las contribuciones individuales.  
-• **TB2:** Garantizó claridad de información para el avance grupal.  
-• **TF1:** Revisó la calidad y presentación del trabajo final. | El grupo demostró liderazgo compartido, organizando roles y responsabilidades de manera equilibrada.  
-La comunicación constante permitió resolver dudas y mantener el orden durante todas las etapas del trabajo. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Castro Picón, Manuel Fernando Joao**  
-• **TP1:** Cumplió tareas individuales con responsabilidad.  
-• **TB1:** Coordinó actividades del grupo para mantener orden.  
-• **TF1:** Aportó valor técnico al producto final.  
-• **TB2:** Fomentó un ambiente inclusivo dentro del equipo.  
-
-**Solis Chang, Santiago Valentino**  
-• **TP1:** Entregó trabajo de calidad y dentro de los plazos.  
-• **TB1:** Supervisó la ejecución de las metas del equipo.  
-• **TF1:** Integró correctamente los componentes del proyecto.  
-• **TB2:** Motivó la colaboración equilibrada entre los integrantes.  
-
-**Vila Guillen, Miguel Ángel**  
-• **TP1:** Aportó elementos técnicos claves con precisión.  
-• **TB1:** Monitoreó avances para mantener el rumbo del proyecto.  
-• **TF1:** Brindó soporte técnico durante el desarrollo final.  
-• **TB2:** Promovió la participación activa de todos.  
-
-**Requena Gutiérrez, Diego Gabriel**  
-• **TP1:** Desarrolló documentación clara y detallada.  
-• **TB1:** Organizó la planificación de tareas grupales.  
-• **TF1:** Contribuyó significativamente al resultado final.  
-• **TB2:** Facilitó comunicación constante entre los miembros.  
-
-**Abud Angulo, Juan Carlos**  
-• **TP1:** Verificó estructura y coherencia del trabajo.  
-• **TB1:** Aseguró el orden y la calidad de los avances.  
-• **TF1:** Garantizó la correcta presentación del entregable final.  
-• **TB2:** Apoyó la integración armoniosa del aporte de cada miembro. | El equipo trabajó en un ambiente inclusivo y colaborativo, cumpliendo metas con organización clara.  
-La planificación estructurada permitió cumplir objetivos sin retrasos y con alta calidad en los entregables. |
+| **Trabajo en equipo para proporcionar liderazgo en forma conjunta** | **Castro Picón, Manuel Fernando Joao**<br>• **TB1:** Coordinó tareas, organizó reuniones y brindó apoyo técnico.<br>• **TP1:** Realizó aportes individuales alineados al avance grupal.<br>• **TB2:** Promovió participación y colaboración constante.<br>• **TF1:** Contribuyó al desarrollo final mediante soporte técnico.<br><br>**Solis Chang, Santiago Valentino**<br>• **TB1:** Supervisó el avance y gestionó la comunicación interna.<br>• **TP1:** Integró sus entregables de manera efectiva al trabajo grupal.<br>• **TB2:** Facilitó dinámicas para aprovechar fortalezas del equipo.<br>• **TF1:** Aseguró cohesión al unir los componentes del proyecto.<br><br>**Vila Guillen, Miguel Ángel**<br>• **TB1:** Monitoreó tareas técnicas y apoyó en resolución de problemas.<br>• **TP1:** Aportó contenido técnico necesario para el progreso del proyecto.<br>• **TB2:** Brindó soporte técnico continuo.<br>• **TF1:** Refinó aspectos técnicos del entregable final.<br><br>**Requena Gutiérrez, Diego Gabriel**<br>• **TB1:** Ordenó documentación y organizó reuniones de revisión.<br>• **TP1:** Elaboró contenido claro y útil para la organización grupal.<br>• **TB2:** Impulsó participación equitativa y metas comunes.<br>• **TF1:** Colaboró en la consolidación de la documentación final.<br><br>**Abud Angulo, Juan Carlos**<br>• **TB1:** Coordinó entregables y verificó formatos.<br>• **TP1:** Aseguró coherencia en las contribuciones individuales.<br>• **TB2:** Garantizó claridad de información para el avance grupal.<br>• **TF1:** Revisó la calidad y presentación del trabajo final. | El grupo demostró liderazgo compartido, organizando roles y responsabilidades de manera equilibrada.<br>La comunicación constante permitió resolver dudas y mantener el orden durante todas las etapas del trabajo. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Castro Picón, Manuel Fernando Joao**<br>• **TP1:** Cumplió tareas individuales con responsabilidad.<br>• **TB1:** Coordinó actividades del grupo para mantener orden.<br>• **TF1:** Aportó valor técnico al producto final.<br>• **TB2:** Fomentó un ambiente inclusivo dentro del equipo.<br><br>**Solis Chang, Santiago Valentino**<br>• **TP1:** Entregó trabajo de calidad y dentro de los plazos.<br>• **TB1:** Supervisó la ejecución de las metas del equipo.<br>• **TF1:** Integró correctamente los componentes del proyecto.<br>• **TB2:** Motivó la colaboración equilibrada entre los integrantes.<br><br>**Vila Guillen, Miguel Ángel**<br>• **TP1:** Aportó elementos técnicos claves con precisión.<br>• **TB1:** Monitoreó avances para mantener el rumbo del proyecto.<br>• **TF1:** Brindó soporte técnico durante el desarrollo final.<br>• **TB2:** Promovió la participación activa de todos.<br><br>**Requena Gutiérrez, Diego Gabriel**<br>• **TP1:** Desarrolló documentación clara y detallada.<br>• **TB1:** Organizó la planificación de tareas grupales.<br>• **TF1:** Contribuyó significativamente al resultado final.<br>• **TB2:** Facilitó comunicación constante entre los miembros.<br><br>**Abud Angulo, Juan Carlos**<br>• **TP1:** Verificó estructura y coherencia del trabajo.<br>• **TB1:** Aseguró el orden y la calidad de los avances.<br>• **TF1:** Garantizó la correcta presentación del entregable final.<br>• **TB2:** Apoyó la integración armoniosa del aporte de cada miembro. | El equipo trabajó en un ambiente inclusivo y colaborativo, cumpliendo metas con organización clara.<br>La planificación estructurada permitió cumplir objetivos sin retrasos y con alta calidad en los entregables. |
 
 ---
 <table>
