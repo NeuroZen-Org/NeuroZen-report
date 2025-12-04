@@ -239,7 +239,44 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
 **Criterio:** Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
 ---
+## 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta
 
+| Criterio específico | Acciones realizadas | Conclusiones |
+|--------------------|---------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Castro Picón, Manuel Fernando Joao**  
+**TB1:** Coordinó tareas, organizó reuniones y brindó apoyo técnico.  
+**TB2:** Promovió participación y colaboración constante.  
+<br>**Solis Chang, Santiago Valentino**  
+**TB1:** Supervisó el avance y gestionó la comunicación interna.  
+**TB2:** Facilitó dinámicas para aprovechar fortalezas del equipo.  
+<br>**Vila Guillen, Miguel Ángel**  
+**TB1:** Monitoreó tareas técnicas y apoyó en resolución de problemas.  
+**TB2:** Brindó soporte técnico continuo.  
+<br>**Requena Gutiérrez, Diego Gabriel**  
+**TB1:** Ordenó documentación y organizó reuniones de revisión.  
+**TB2:** Impulsó participación equitativa y metas comunes.  
+<br>**Abud Angulo, Juan Carlos**  
+**TB1:** Coordinó entregables y verificó formatos.  
+**TB2:** Aseguró información clara para el avance grupal. | El equipo demostró liderazgo compartido, comunicación efectiva y buena coordinación. Se distribuyeron tareas equitativamente y se mantuvo un ambiente colaborativo que permitió lograr los objetivos dentro del tiempo previsto. |
+
+---
+
+## 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|--------------------|---------------------|--------------|
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Castro Picón, Manuel Fernando Joao**  
+**TP1/TF1:** Cumplió tareas individuales con responsabilidad y aportó valor técnico.  
+<br>**Solis Chang, Santiago Valentino**  
+**TP1/TF1:** Entregó trabajo de calidad e integró correctamente componentes del proyecto.  
+<br>**Vila Guillen, Miguel Ángel**  
+**TP1/TF1:** Aportó elementos técnicos claves con precisión.  
+<br>**Requena Gutiérrez, Diego Gabriel**  
+**TP1/TF1:** Desarrolló documentación clara y contribuyó al resultado final.  
+<br>**Abud Angulo, Juan Carlos**  
+**TP1/TF1:** Verificó estructura, forma y coherencia del trabajo final. | El grupo trabajó en un entorno colaborativo donde todos participaron activamente, estableciendo metas claras y cumpliendo los plazos. Se desarrolló un ambiente inclusivo que permitió que cada integrante aporte desde sus habilidades, logrando un producto final cohesionado y bien estructurado. |
+
+---
 <table>
   <thead>
     <tr>
